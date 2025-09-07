@@ -106,7 +106,15 @@ class PaperAnalysisApp {
 
     updateStats() {
         // 更新头部统计数字
-        document.getElementById('total-papers').textContent = this.papers.length;
+        const totalElement = document.getElementById('totalPapers');
+        if (totalElement) {
+            totalElement.textContent = this.papers.length;
+        }
+        
+        const filteredElement = document.getElementById('filteredCount');
+        if (filteredElement) {
+            filteredElement.textContent = this.filteredPapers.length;
+        }
         
         const uniqueAuthors = new Set();
         const uniqueInstitutions = new Set();
@@ -129,9 +137,120 @@ class PaperAnalysisApp {
             }
         });
 
-        document.getElementById('total-authors').textContent = uniqueAuthors.size;
-        document.getElementById('total-institutions').textContent = uniqueInstitutions.size;
-        document.getElementById('total-images').textContent = totalImages;
+        const institutionCountElement = document.getElementById('institutionCount');
+        if (institutionCountElement) {
+            institutionCountElement.textContent = uniqueInstitutions.size;
+        }
+        
+        const totalAuthorsElement = document.getElementById('totalAuthors');
+        if (totalAuthorsElement) {
+            totalAuthorsElement.textContent = uniqueAuthors.size;
+        }
+        
+        // 计算平均作者数
+        const avgAuthorsElement = document.getElementById('avgAuthorsPerPaper');
+        if (avgAuthorsElement) {
+            const avgAuthors = this.papers.length > 0 
+                ? (this.papers.reduce((sum, p) => sum + (p.authors?.length || 0), 0) / this.papers.length).toFixed(1)
+                : 0;
+            avgAuthorsElement.textContent = avgAuthors;
+        }
+        
+        // 计算主题数量
+        const topicCountElement = document.getElementById('topicCount');
+        if (topicCountElement) {
+            const allKeywords = this.papers.flatMap(p => p.keywords || []);
+            const uniqueTopics = [...new Set(allKeywords)];
+            topicCountElement.textContent = uniqueTopics.length;
+        }
+        
+        // 计算总页数
+        const pageCountElement = document.getElementById('pageCount');
+        if (pageCountElement) {
+            const totalPages = this.papers.reduce((sum, p) => sum + (p.page_count || 0), 0);
+            pageCountElement.textContent = totalPages;
+        }
+        
+        // 更新筛选器选项
+        this.updateFilterOptions();
+    }
+    
+    updateFilterOptions() {
+        const institutionFilter = document.getElementById('institutionFilter');
+        const topicFilter = document.getElementById('topicFilter');
+        
+        if (institutionFilter) {
+            const institutions = [...new Set(this.papers.flatMap(p => p.affiliations || []))];
+            institutionFilter.innerHTML = '<option value="">所有机构</option>';
+            institutions.slice(0, 50).forEach(inst => { // 限制显示前50个机构
+                const option = document.createElement('option');
+                option.value = inst;
+                option.textContent = inst.length > 50 ? inst.substring(0, 50) + '...' : inst;
+                institutionFilter.appendChild(option);
+            });
+        }
+        
+        if (topicFilter) {
+            const topics = [...new Set(this.papers.flatMap(p => p.keywords || []))];
+            topicFilter.innerHTML = '<option value="">所有主题</option>';
+            topics.slice(0, 30).forEach(topic => { // 限制显示前30个主题
+                const option = document.createElement('option');
+                option.value = topic;
+                option.textContent = topic;
+                topicFilter.appendChild(option);
+            });
+        }
+    }
+    
+    searchPapers() {
+        const searchTerm = document.getElementById('searchInput')?.value.toLowerCase() || '';
+        
+        this.filteredPapers = this.papers.filter(paper => {
+            const title = (paper.title || '').toLowerCase();
+            const authors = (paper.authors || []).join(' ').toLowerCase();
+            const abstract = (paper.abstract || '').toLowerCase();
+            const keywords = (paper.keywords || []).join(' ').toLowerCase();
+            
+            return title.includes(searchTerm) || 
+                   authors.includes(searchTerm) || 
+                   abstract.includes(searchTerm) ||
+                   keywords.includes(searchTerm);
+        });
+        
+        this.applyFilters();
+    }
+    
+    filterPapers() {
+        this.applyFilters();
+    }
+    
+    applyFilters() {
+        const institutionFilter = document.getElementById('institutionFilter')?.value || '';
+        const topicFilter = document.getElementById('topicFilter')?.value || '';
+        const searchTerm = document.getElementById('searchInput')?.value.toLowerCase() || '';
+        
+        this.filteredPapers = this.papers.filter(paper => {
+            // 搜索过滤
+            const matchesSearch = !searchTerm || 
+                (paper.title || '').toLowerCase().includes(searchTerm) ||
+                (paper.authors || []).join(' ').toLowerCase().includes(searchTerm) ||
+                (paper.abstract || '').toLowerCase().includes(searchTerm) ||
+                (paper.keywords || []).join(' ').toLowerCase().includes(searchTerm);
+            
+            // 机构过滤
+            const matchesInstitution = !institutionFilter || 
+                (paper.affiliations || []).some(aff => aff.includes(institutionFilter));
+            
+            // 主题过滤
+            const matchesTopic = !topicFilter || 
+                (paper.keywords || []).includes(topicFilter);
+            
+            return matchesSearch && matchesInstitution && matchesTopic;
+        });
+        
+        this.currentPage = 1;
+        this.renderPapers();
+        this.updateStats();
     }
 
     renderPapers() {
@@ -386,15 +505,48 @@ function showPaperDetails(paperNumber) {
 
 // 初始化应用
 document.addEventListener('DOMContentLoaded', () => {
-    window.app = new PaperAnalysisApp();
+    // 不在这里自动初始化，而是在标签页切换时初始化
     
     // 搜索事件监听
-    document.getElementById('searchInput').addEventListener('keyup', (e) => {
-        if (e.key === 'Enter') {
-            searchPapers();
-        }
-    });
+    const searchInput = document.getElementById('searchInput');
+    if (searchInput) {
+        searchInput.addEventListener('keyup', (e) => {
+            if (window.app && window.app.searchPapers) {
+                window.app.searchPapers();
+            }
+        });
+        
+        searchInput.addEventListener('input', () => {
+            if (window.app && window.app.searchPapers) {
+                window.app.searchPapers();
+            }
+        });
+    }
     
-    // 排序事件监听
-    document.getElementById('sortSelect').addEventListener('change', sortPapers);
+    // 筛选器事件监听
+    const institutionFilter = document.getElementById('institutionFilter');
+    const topicFilter = document.getElementById('topicFilter');
+    
+    if (institutionFilter) {
+        institutionFilter.addEventListener('change', () => {
+            if (window.app && window.app.filterPapers) {
+                window.app.filterPapers();
+            }
+        });
+    }
+    
+    if (topicFilter) {
+        topicFilter.addEventListener('change', () => {
+            if (window.app && window.app.filterPapers) {
+                window.app.filterPapers();
+            }
+        });
+    }
 });
+
+// 全局函数用于标签页初始化论文应用
+function initPaperApp() {
+    if (!window.app) {
+        window.app = new PaperAnalysisApp();
+    }
+}
