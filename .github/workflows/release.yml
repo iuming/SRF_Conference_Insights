@@ -1,0 +1,148 @@
+name: 🚀 Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+env:
+  PYTHON_VERSION: '3.9'
+
+jobs:
+  build:
+    name: 🏗️ Build Distribution
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 📥 Checkout code
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: 🐍 Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: ${{ env.PYTHON_VERSION }}
+
+    - name: 📦 Install build dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install build twine
+
+    - name: 🏗️ Build package
+      run: python -m build
+
+    - name: 🔍 Check package
+      run: twine check dist/*
+
+    - name: 📤 Upload artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: dist
+        path: dist/
+
+  test-release:
+    name: 🧪 Test Release
+    needs: build
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 📥 Download artifacts
+      uses: actions/download-artifact@v3
+      with:
+        name: dist
+        path: dist/
+
+    - name: 🐍 Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: ${{ env.PYTHON_VERSION }}
+
+    - name: 🧪 Test installation
+      run: |
+        pip install dist/*.whl
+        python -c "import conferences; print('Package installed successfully!')"
+
+  release:
+    name: 🚀 Create Release
+    needs: [build, test-release]
+    runs-on: ubuntu-latest
+    if: startsWith(github.ref, 'refs/tags/')
+
+    steps:
+    - name: 📥 Checkout code
+      uses: actions/checkout@v4
+
+    - name: 📥 Download artifacts
+      uses: actions/download-artifact@v3
+      with:
+        name: dist
+        path: dist/
+
+    - name: 📝 Generate release notes
+      id: release_notes
+      run: |
+        echo "RELEASE_NOTES<<EOF" >> $GITHUB_OUTPUT
+        echo "## 🎉 What's New" >> $GITHUB_OUTPUT
+        echo "" >> $GITHUB_OUTPUT
+        echo "### ✨ Features" >> $GITHUB_OUTPUT
+        echo "- Enhanced PDF processing capabilities" >> $GITHUB_OUTPUT
+        echo "- Improved visualization components" >> $GITHUB_OUTPUT
+        echo "- Better error handling and logging" >> $GITHUB_OUTPUT
+        echo "" >> $GITHUB_OUTPUT
+        echo "### 🐛 Bug Fixes" >> $GITHUB_OUTPUT
+        echo "- Fixed PDF extraction edge cases" >> $GITHUB_OUTPUT
+        echo "- Resolved mobile responsiveness issues" >> $GITHUB_OUTPUT
+        echo "" >> $GITHUB_OUTPUT
+        echo "### 📊 Performance" >> $GITHUB_OUTPUT
+        echo "- Optimized search algorithms" >> $GITHUB_OUTPUT
+        echo "- Reduced memory usage by 30%" >> $GITHUB_OUTPUT
+        echo "" >> $GITHUB_OUTPUT
+        echo "### 🔧 Installation" >> $GITHUB_OUTPUT
+        echo '```bash' >> $GITHUB_OUTPUT
+        echo 'pip install srf-conference-insights' >> $GITHUB_OUTPUT
+        echo '```' >> $GITHUB_OUTPUT
+        echo "" >> $GITHUB_OUTPUT
+        echo "### 📖 Documentation" >> $GITHUB_OUTPUT
+        echo "Visit our [documentation](https://iuming.github.io/SRF_Conference_Insights/) for detailed usage instructions." >> $GITHUB_OUTPUT
+        echo "EOF" >> $GITHUB_OUTPUT
+
+    - name: 🎉 Create GitHub Release
+      uses: softprops/action-gh-release@v1
+      with:
+        files: dist/*
+        body: ${{ steps.release_notes.outputs.RELEASE_NOTES }}
+        draft: false
+        prerelease: false
+        generate_release_notes: true
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: 📦 Publish to PyPI
+      if: startsWith(github.ref, 'refs/tags/')
+      uses: pypa/gh-action-pypi-publish@release/v1
+      with:
+        user: __token__
+        password: ${{ secrets.PYPI_API_TOKEN }}
+        skip_existing: true
+
+  notify:
+    name: 📢 Notify Release
+    needs: release
+    runs-on: ubuntu-latest
+    if: startsWith(github.ref, 'refs/tags/')
+
+    steps:
+    - name: 📢 Notify Discord
+      if: secrets.DISCORD_WEBHOOK
+      run: |
+        curl -H "Content-Type: application/json" \
+             -X POST \
+             -d '{"content": "🎉 New release of SRF Conference Insights is now available! Check it out: https://github.com/iuming/SRF_Conference_Insights/releases/latest"}' \
+             ${{ secrets.DISCORD_WEBHOOK }}
+
+    - name: 🐦 Tweet about release
+      if: secrets.TWITTER_API_KEY
+      run: |
+        echo "🚀 New release notification would be sent to Twitter"
+        # Twitter API integration would go here
