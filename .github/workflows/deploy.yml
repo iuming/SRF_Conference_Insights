@@ -1,0 +1,98 @@
+name: Build and Deploy HIAT2025 Analysis System
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:  # 允许手动触发
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  # 构建作业
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 📥 检出代码
+      uses: actions/checkout@v4
+      
+    - name: 🐍 设置Python环境
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        cache: 'pip'
+        
+    - name: 📦 安装Python依赖
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas openpyxl PyMuPDF Pillow
+        
+    - name: 📊 检查数据文件
+      run: |
+        echo "检查工作目录内容:"
+        ls -la
+        echo "检查是否存在提取的数据:"
+        find . -name "content_extraction_full_*.json" -o -name "extracted_content" -type d || echo "未找到数据文件"
+        
+    - name: 🔄 运行数据提取（如果需要）
+      run: |
+        if [ ! -f content_extraction_full_*.json ]; then
+          echo "未找到数据文件，尝试运行数据提取..."
+          if [ -f "advanced_pdf_content_extractor.py" ]; then
+            echo "运行PDF内容提取器..."
+            python advanced_pdf_content_extractor.py || echo "数据提取失败，使用模拟数据"
+          else
+            echo "未找到提取器，将使用前端模拟数据"
+          fi
+        else
+          echo "找到现有数据文件"
+        fi
+        
+    - name: 🛠️ 准备前端数据
+      run: |
+        echo "准备前端数据..."
+        python scripts/prepare_data.py || echo "数据准备失败，前端将使用模拟数据"
+        
+    - name: 📁 验证输出结构
+      run: |
+        echo "验证docs目录结构:"
+        ls -la docs/ || echo "docs目录不存在"
+        if [ -d "docs/data" ]; then
+          echo "数据文件:"
+          ls -la docs/data/
+        fi
+        if [ -d "docs/images" ]; then
+          echo "图片文件数量:"
+          ls docs/images/ | wc -l
+        fi
+        
+    - name: 🌐 设置GitHub Pages
+      uses: actions/configure-pages@v3
+      
+    - name: 📤 上传页面构件
+      uses: actions/upload-pages-artifact@v2
+      with:
+        path: docs/
+
+  # 部署作业
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+      
+    steps:
+    - name: 🚀 部署到GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v2

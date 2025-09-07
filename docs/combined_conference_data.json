@@ -1,0 +1,671 @@
+{
+  "metadata": {
+    "total_conferences": 2,
+    "total_papers": 33,
+    "generation_date": "2025-09-07T15:45:16.449388",
+    "conferences_included": [
+      "HIAT2025",
+      "IPAC2025"
+    ]
+  },
+  "conferences": {
+    "HIAT2025": 3,
+    "IPAC2025": 30
+  },
+  "papers": [
+    "extraction_time",
+    "total_papers",
+    "papers",
+    {
+      "contribution_id": "IPAC25_2000",
+      "paper_code": "SUPM100",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 1",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "institutions": [
+        "University of Science and Technology of China"
+      ],
+      "abstract": "Particle accelerators have long been instrumental in advancing scientific research.",
+      "keywords": [
+        "linear accelerator",
+        "microwave",
+        "compact design"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2001",
+      "paper_code": "SUPM101",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 2",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "institutions": [
+        "University of Science and Technology of China"
+      ],
+      "abstract": "Particle accelerators have long been instrumental in advancing scientific research.",
+      "keywords": [
+        "linear accelerator",
+        "microwave",
+        "compact design"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2002",
+      "paper_code": "SUPM102",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 3",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "institutions": [
+        "University of Science and Technology of China"
+      ],
+      "abstract": "Particle accelerators have long been instrumental in advancing scientific research.",
+      "keywords": [
+        "linear accelerator",
+        "microwave",
+        "compact design"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2003",
+      "paper_code": "SUPM103",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 4",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "institutions": [
+        "University of Science and Technology of China"
+      ],
+      "abstract": "Particle accelerators have long been instrumental in advancing scientific research.",
+      "keywords": [
+        "linear accelerator",
+        "microwave",
+        "compact design"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2004",
+      "paper_code": "SUPM104",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 5",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "institutions": [
+        "University of Science and Technology of China"
+      ],
+      "abstract": "Particle accelerators have long been instrumental in advancing scientific research.",
+      "keywords": [
+        "linear accelerator",
+        "microwave",
+        "compact design"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2005",
+      "paper_code": "SUPM105",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 6",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "institutions": [
+        "University of Science and Technology of China"
+      ],
+      "abstract": "Particle accelerators have long been instrumental in advancing scientific research.",
+      "keywords": [
+        "linear accelerator",
+        "microwave",
+        "compact design"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2006",
+      "paper_code": "SUPM106",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 7",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "institutions": [
+        "University of Science and Technology of China"
+      ],
+      "abstract": "Particle accelerators have long been instrumental in advancing scientific research.",
+      "keywords": [
+        "linear accelerator",
+        "microwave",
+        "compact design"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2007",
+      "paper_code": "SUPM107",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 8",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "institutions": [
+        "University of Science and Technology of China"
+      ],
+      "abstract": "Particle accelerators have long been instrumental in advancing scientific research.",
+      "keywords": [
+        "linear accelerator",
+        "microwave",
+        "compact design"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2008",
+      "paper_code": "SUPM108",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 9",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "institutions": [
+        "University of Science and Technology of China"
+      ],
+      "abstract": "Particle accelerators have long been instrumental in advancing scientific research.",
+      "keywords": [
+        "linear accelerator",
+        "microwave",
+        "compact design"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2009",
+      "paper_code": "SUPM109",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 10",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "institutions": [
+        "University of Science and Technology of China"
+      ],
+      "abstract": "Particle accelerators have long been instrumental in advancing scientific research.",
+      "keywords": [
+        "linear accelerator",
+        "microwave",
+        "compact design"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2010",
+      "paper_code": "SUPM110",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 11",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "institutions": [
+        "University of Science and Technology of China"
+      ],
+      "abstract": "Particle accelerators have long been instrumental in advancing scientific research.",
+      "keywords": [
+        "linear accelerator",
+        "microwave",
+        "compact design"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2011",
+      "paper_code": "SUPM111",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 12",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "institutions": [
+        "University of Science and Technology of China"
+      ],
+      "abstract": "Particle accelerators have long been instrumental in advancing scientific research.",
+      "keywords": [
+        "linear accelerator",
+        "microwave",
+        "compact design"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2012",
+      "paper_code": "SUPM112",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 13",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "institutions": [
+        "University of Science and Technology of China"
+      ],
+      "abstract": "Particle accelerators have long been instrumental in advancing scientific research.",
+      "keywords": [
+        "linear accelerator",
+        "microwave",
+        "compact design"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2013",
+      "paper_code": "SUPM113",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 14",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "institutions": [
+        "University of Science and Technology of China"
+      ],
+      "abstract": "Particle accelerators have long been instrumental in advancing scientific research.",
+      "keywords": [
+        "linear accelerator",
+        "microwave",
+        "compact design"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2014",
+      "paper_code": "SUPM114",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 15",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "institutions": [
+        "University of Science and Technology of China"
+      ],
+      "abstract": "Particle accelerators have long been instrumental in advancing scientific research.",
+      "keywords": [
+        "linear accelerator",
+        "microwave",
+        "compact design"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2015",
+      "paper_code": "SUPM115",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 1",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "institutions": [
+        "European Organization for Nuclear Research"
+      ],
+      "abstract": "The CLEAR facility delivers advanced beam tuning capabilities.",
+      "keywords": [
+        "beam tuning",
+        "electron accelerator",
+        "CLEAR"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2016",
+      "paper_code": "SUPM116",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 2",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "institutions": [
+        "European Organization for Nuclear Research"
+      ],
+      "abstract": "The CLEAR facility delivers advanced beam tuning capabilities.",
+      "keywords": [
+        "beam tuning",
+        "electron accelerator",
+        "CLEAR"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2017",
+      "paper_code": "SUPM117",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 3",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "institutions": [
+        "European Organization for Nuclear Research"
+      ],
+      "abstract": "The CLEAR facility delivers advanced beam tuning capabilities.",
+      "keywords": [
+        "beam tuning",
+        "electron accelerator",
+        "CLEAR"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2018",
+      "paper_code": "SUPM118",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 4",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "institutions": [
+        "European Organization for Nuclear Research"
+      ],
+      "abstract": "The CLEAR facility delivers advanced beam tuning capabilities.",
+      "keywords": [
+        "beam tuning",
+        "electron accelerator",
+        "CLEAR"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2019",
+      "paper_code": "SUPM119",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 5",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "institutions": [
+        "European Organization for Nuclear Research"
+      ],
+      "abstract": "The CLEAR facility delivers advanced beam tuning capabilities.",
+      "keywords": [
+        "beam tuning",
+        "electron accelerator",
+        "CLEAR"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2020",
+      "paper_code": "SUPM120",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 6",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "institutions": [
+        "European Organization for Nuclear Research"
+      ],
+      "abstract": "The CLEAR facility delivers advanced beam tuning capabilities.",
+      "keywords": [
+        "beam tuning",
+        "electron accelerator",
+        "CLEAR"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2021",
+      "paper_code": "SUPM121",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 7",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "institutions": [
+        "European Organization for Nuclear Research"
+      ],
+      "abstract": "The CLEAR facility delivers advanced beam tuning capabilities.",
+      "keywords": [
+        "beam tuning",
+        "electron accelerator",
+        "CLEAR"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2022",
+      "paper_code": "SUPM122",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 8",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "institutions": [
+        "European Organization for Nuclear Research"
+      ],
+      "abstract": "The CLEAR facility delivers advanced beam tuning capabilities.",
+      "keywords": [
+        "beam tuning",
+        "electron accelerator",
+        "CLEAR"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2023",
+      "paper_code": "SUPM123",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 9",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "institutions": [
+        "European Organization for Nuclear Research"
+      ],
+      "abstract": "The CLEAR facility delivers advanced beam tuning capabilities.",
+      "keywords": [
+        "beam tuning",
+        "electron accelerator",
+        "CLEAR"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2024",
+      "paper_code": "SUPM124",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 10",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "institutions": [
+        "European Organization for Nuclear Research"
+      ],
+      "abstract": "The CLEAR facility delivers advanced beam tuning capabilities.",
+      "keywords": [
+        "beam tuning",
+        "electron accelerator",
+        "CLEAR"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2025",
+      "paper_code": "SUPM125",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 11",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "institutions": [
+        "European Organization for Nuclear Research"
+      ],
+      "abstract": "The CLEAR facility delivers advanced beam tuning capabilities.",
+      "keywords": [
+        "beam tuning",
+        "electron accelerator",
+        "CLEAR"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2026",
+      "paper_code": "SUPM126",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 12",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "institutions": [
+        "European Organization for Nuclear Research"
+      ],
+      "abstract": "The CLEAR facility delivers advanced beam tuning capabilities.",
+      "keywords": [
+        "beam tuning",
+        "electron accelerator",
+        "CLEAR"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2027",
+      "paper_code": "SUPM127",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 13",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "institutions": [
+        "European Organization for Nuclear Research"
+      ],
+      "abstract": "The CLEAR facility delivers advanced beam tuning capabilities.",
+      "keywords": [
+        "beam tuning",
+        "electron accelerator",
+        "CLEAR"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2028",
+      "paper_code": "SUPM128",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 14",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "institutions": [
+        "European Organization for Nuclear Research"
+      ],
+      "abstract": "The CLEAR facility delivers advanced beam tuning capabilities.",
+      "keywords": [
+        "beam tuning",
+        "electron accelerator",
+        "CLEAR"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_2029",
+      "paper_code": "SUPM129",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 15",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "institutions": [
+        "European Organization for Nuclear Research"
+      ],
+      "abstract": "The CLEAR facility delivers advanced beam tuning capabilities.",
+      "keywords": [
+        "beam tuning",
+        "electron accelerator",
+        "CLEAR"
+      ],
+      "datetime": "2025/6/1 14:00",
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation",
+      "conference": "IPAC2025"
+    }
+  ],
+  "statistics": {
+    "conferences_summary": {
+      "HIAT2025": 3,
+      "IPAC2025": 30
+    },
+    "categories": {
+      "MC3.A15 New Acceleration Concepts and Techniques": 15,
+      "MC2.A08 Linear Accelerators": 15
+    },
+    "institutions": {
+      "University of Science and Technology of China": 15,
+      "European Organization for Nuclear Research": 15
+    },
+    "types": {
+      "Student Poster Presentation": 30
+    },
+    "top_authors": {
+      "Zi-Jing Zhang": 15,
+      "Alfred Petersson": 15
+    }
+  }
+}

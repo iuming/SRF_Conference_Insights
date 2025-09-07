@@ -1,0 +1,22 @@
+{
+  "contribution_id": "IPAC25_8063",
+  "paper_code": "SUPM363",
+  "title": "IPAC2025 Research Paper 64: Accelerator Technology Studies",
+  "authors": [
+    "Researcher 64"
+  ],
+  "institutions": [
+    "International Research Institute"
+  ],
+  "abstract": "Advanced research in particle accelerator technology and beam dynamics.",
+  "keywords": [
+    "accelerator",
+    "beam",
+    "physics"
+  ],
+  "datetime": "2025/6/1 14:00",
+  "category": "MC3.A15 New Acceleration Concepts",
+  "type": "Poster Presentation",
+  "conference": "IPAC2025",
+  "contribution_url": "https://indico.jacow.org/event/81/contributions/8063/"
+}

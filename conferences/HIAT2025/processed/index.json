@@ -1,0 +1,743 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2025-09-07T12:09:01.548398Z",
+  "conference": {
+    "code": "HIAT2025",
+    "name": "16th International Conference on Heavy Ion Accelerator Technology"
+  },
+  "paper_count": 86,
+  "papers": [
+    {
+      "id": "HIAT2025-001",
+      "title": "Table of Contents",
+      "authors": [],
+      "pages": 3,
+      "figures": 0
+    },
+    {
+      "id": "HIAT2025-002",
+      "title": "FRIB OPERATIONS: FIRST THREE YEARS*",
+      "authors": [],
+      "pages": 3,
+      "figures": 13
+    },
+    {
+      "id": "HIAT2025-003",
+      "title": "ACCELERATOR IMPROVEMENTS",
+      "authors": [
+        "Operation Spares",
+        "Accelerator Improvements"
+      ],
+      "pages": 4,
+      "figures": 10
+    },
+    {
+      "id": "HIAT2025-004",
+      "title": "STATUS OF THE HIAF ACCELERATOR FACILITY IN CHINA*",
+      "authors": [
+        "Intensity Heavy",
+        "The High",
+        "Ion Accelerator",
+        "Accelerator Facility",
+        "Guangdong Province"
+      ],
+      "pages": 4,
+      "figures": 18
+    },
+    {
+      "id": "HIAT2025-005",
+      "title": "FIRST RIB PRODUCTION WITH SPES EXOTIC BEAM",
+      "authors": [],
+      "pages": 4,
+      "figures": 8
+    },
+    {
+      "id": "HIAT2025-006",
+      "title": "DESIGN AND FABRICATION OF FRIB",
+      "authors": [
+        "Rare Isotope",
+        "The Facility"
+      ],
+      "pages": 4,
+      "figures": 7
+    },
+    {
+      "id": "HIAT2025-007",
+      "title": "HIGH POWER TARGETRY DEVICES AT FRIB:",
+      "authors": [
+        "Rare Isotope",
+        "The Facility"
+      ],
+      "pages": 6,
+      "figures": 16
+    },
+    {
+      "id": "HIAT2025-008",
+      "title": "COMMISSIONING OF THE S3 SPECTROMETER:",
+      "authors": [],
+      "pages": 4,
+      "figures": 11
+    },
+    {
+      "id": "HIAT2025-009",
+      "title": "COMPUTATION MODEL FOR SPACE CHARGE EFFECT FOR BUNCHED",
+      "authors": [],
+      "pages": 4,
+      "figures": 9
+    },
+    {
+      "id": "HIAT2025-010",
+      "title": "MONTE CARLO SIMULATION ANALYSIS FOR RADIATION DAMAGE",
+      "authors": [
+        "Glidcop Al",
+        "Rare Isotope",
+        "The Facility"
+      ],
+      "pages": 4,
+      "figures": 9
+    },
+    {
+      "id": "HIAT2025-011",
+      "title": "THERMAL-HYDRAULIC ANALYSIS OF A 20 kW BEAM POWER",
+      "authors": [
+        "Rare Isotope",
+        "The Facility",
+        "Channel Beam"
+      ],
+      "pages": 4,
+      "figures": 14
+    },
+    {
+      "id": "HIAT2025-012",
+      "title": "CONTROL OF MICROPHONICS FOR A SUPERCONDUCTING",
+      "authors": [],
+      "pages": 4,
+      "figures": 11
+    },
+    {
+      "id": "HIAT2025-013",
+      "title": "MECHANICAL VIBRATION STUDY OF LOW-ENERGY",
+      "authors": [],
+      "pages": 4,
+      "figures": 17
+    },
+    {
+      "id": "HIAT2025-014",
+      "title": "EXTENDING JuTrack’S CAPABILITIES TO THE FRIB ACCELERATOR",
+      "authors": [
+        "While Ju"
+      ],
+      "pages": 4,
+      "figures": 6
+    },
+    {
+      "id": "HIAT2025-015",
+      "title": "BUDGET-FRIENDLY DEFENSE AGAINST RADIATION-INDUCED",
+      "authors": [],
+      "pages": 4,
+      "figures": 9
+    },
+    {
+      "id": "HIAT2025-016",
+      "title": "PHYSICS APPLICATIONS IN",
+      "authors": [
+        "Rare Isotope",
+        "The Facility",
+        "State University"
+      ],
+      "pages": 4,
+      "figures": 8
+    },
+    {
+      "id": "HIAT2025-017",
+      "title": "UPDATED MAGNETIC RIGIDITY CALIBRATION OF ARIS∗",
+      "authors": [
+        "Rare Isotope",
+        "The Facility"
+      ],
+      "pages": 3,
+      "figures": 5
+    },
+    {
+      "id": "HIAT2025-018",
+      "title": "FUTURE CHALLENGES FOR CERN’S ION INJECTOR COMPLEX",
+      "authors": [],
+      "pages": 6,
+      "figures": 11
+    },
+    {
+      "id": "HIAT2025-019",
+      "title": "MAINTAINING OPTIMAL BEAM BRIGHTNESS AND LUMINOSITY",
+      "authors": [],
+      "pages": 6,
+      "figures": 19
+    },
+    {
+      "id": "HIAT2025-020",
+      "title": "BOOST OF ALPI SUPERCONDUCTING LINAC PERFORMANCES",
+      "authors": [],
+      "pages": 2,
+      "figures": 5
+    },
+    {
+      "id": "HIAT2025-021",
+      "title": "MACHINE LEARNING APPLICATION",
+      "authors": [],
+      "pages": 4,
+      "figures": 12
+    },
+    {
+      "id": "HIAT2025-022",
+      "title": "RECIRCULATING AND ENERGY RECOVERY",
+      "authors": [],
+      "pages": 10,
+      "figures": 35
+    },
+    {
+      "id": "HIAT2025-023",
+      "title": "ATLAS harmonic. We believe this passive tuning",
+      "authors": [],
+      "pages": 2,
+      "figures": 4
+    },
+    {
+      "id": "HIAT2025-024",
+      "title": "A SINGLE-SLICE ROTATING GRAPHITE TARGET AT FRIB∗",
+      "authors": [
+        "Rare Isotope",
+        "The Facility"
+      ],
+      "pages": 4,
+      "figures": 7
+    },
+    {
+      "id": "HIAT2025-025",
+      "title": "INNOVATION FOR SUSTAINABLE ACCELERATING SYSTEMS: THE",
+      "authors": [
+        "Accelerating Systems"
+      ],
+      "pages": 4,
+      "figures": 7
+    },
+    {
+      "id": "HIAT2025-026",
+      "title": "In the third scheme, an intermediate 5 K interception",
+      "authors": [],
+      "pages": 1,
+      "figures": 1
+    },
+    {
+      "id": "HIAT2025-027",
+      "title": "PRIMARY BEAM DEVELOPMENT FOR FRIB EXPERIMENTS*",
+      "authors": [
+        "Michigan State"
+      ],
+      "pages": 6,
+      "figures": 16
+    },
+    {
+      "id": "HIAT2025-028",
+      "title": "DEVELOPMENT OF PLASMA PROCESSING FOR SUPERCONDUCTING",
+      "authors": [],
+      "pages": 7,
+      "figures": 13
+    },
+    {
+      "id": "HIAT2025-029",
+      "title": "OPTIMIZATION OF A MINI-CHANNEL BEAM DUMP",
+      "authors": [
+        "Rare Isotope",
+        "The Facility"
+      ],
+      "pages": 1,
+      "figures": 4
+    },
+    {
+      "id": "HIAT2025-030",
+      "title": "BEAM DUMP OPTIMIZATION",
+      "authors": [],
+      "pages": 3,
+      "figures": 9
+    },
+    {
+      "id": "HIAT2025-031",
+      "title": "STUDY ON SYNERGISTIC IRRADIATION EFFECTS OF NUCLEAR",
+      "authors": [
+        "Accelerator Facility",
+        "Electron Cyclotron"
+      ],
+      "pages": 3,
+      "figures": 9
+    },
+    {
+      "id": "HIAT2025-032",
+      "title": "DESIGN AND EXPERIMENTAL THERMAL VALIDATION OF THE",
+      "authors": [],
+      "pages": 4,
+      "figures": 8
+    },
+    {
+      "id": "HIAT2025-033",
+      "title": "APPLICATION OF ASME BPVC SECTION VIII, DIVISION-2,",
+      "authors": [
+        "Rare Isotope",
+        "The Facility",
+        "State University"
+      ],
+      "pages": 4,
+      "figures": 9
+    },
+    {
+      "id": "HIAT2025-034",
+      "title": "MONTE-CARLO SIMULATION OF VACUUM SYSTEM FOR",
+      "authors": [
+        "Rare Isotope",
+        "The Facility"
+      ],
+      "pages": 4,
+      "figures": 10
+    },
+    {
+      "id": "HIAT2025-035",
+      "title": "NUMERICAL MODELING TO PREDICT IGNITION THRESHOLDS FOR",
+      "authors": [],
+      "pages": 4,
+      "figures": 10
+    },
+    {
+      "id": "HIAT2025-036",
+      "title": "DEVELOPMENT OF AUTOMATIC BEAM TUNING SYSTEM",
+      "authors": [],
+      "pages": 2,
+      "figures": 3
+    },
+    {
+      "id": "HIAT2025-037",
+      "title": "Unknown Title",
+      "authors": [],
+      "pages": 2,
+      "figures": 2
+    },
+    {
+      "id": "HIAT2025-038",
+      "title": "APPLICATION OF ML TOOLS FOR EXTRACTION OF BPM-Q AND",
+      "authors": [],
+      "pages": 2,
+      "figures": 4
+    },
+    {
+      "id": "HIAT2025-039",
+      "title": "BPMQ implies that the CS parameters are not uniquely de-",
+      "authors": [],
+      "pages": 2,
+      "figures": 5
+    },
+    {
+      "id": "HIAT2025-040",
+      "title": "FRIB MULTI-GAP BUNCHER CONDITIONING UP TO 30 KW*",
+      "authors": [
+        "Rare Isotope",
+        "The Facility",
+        "State University"
+      ],
+      "pages": 3,
+      "figures": 20
+    },
+    {
+      "id": "HIAT2025-041",
+      "title": "AVOIDING BEAM INSTABILITIES AND RESONANCES",
+      "authors": [],
+      "pages": 4,
+      "figures": 11
+    },
+    {
+      "id": "HIAT2025-042",
+      "title": "DEVELOPMENT OF HIGH TEMPERATURE OVENS FOR SOLID ION",
+      "authors": [],
+      "pages": 2,
+      "figures": 4
+    },
+    {
+      "id": "HIAT2025-043",
+      "title": "TEST RESULTS AND DISCUSSION",
+      "authors": [
+        "Thermal Distribution"
+      ],
+      "pages": 2,
+      "figures": 7
+    },
+    {
+      "id": "HIAT2025-044",
+      "title": "COMPUTATIONAL ANALYSIS OF MULTIPACTING ACTIVATION AND",
+      "authors": [],
+      "pages": 7,
+      "figures": 21
+    },
+    {
+      "id": "HIAT2025-045",
+      "title": "STUDY ON PROPERTIES OF NEG DEPOSITED ON THE",
+      "authors": [],
+      "pages": 3,
+      "figures": 10
+    },
+    {
+      "id": "HIAT2025-046",
+      "title": "DESIGN AND OPERATIONAL EXPERIENCE OF FRIB MAGNET AND",
+      "authors": [
+        "Rare Isotope",
+        "The Facility",
+        "Isotope Beams"
+      ],
+      "pages": 4,
+      "figures": 8
+    },
+    {
+      "id": "HIAT2025-047",
+      "title": "FEASIBILITY STUDY OF PLASMA PROCESSING FOR THE FRIB",
+      "authors": [],
+      "pages": 2,
+      "figures": 6
+    },
+    {
+      "id": "HIAT2025-048",
+      "title": "PLASMA CLEANING TRIAL",
+      "authors": [],
+      "pages": 2,
+      "figures": 4
+    },
+    {
+      "id": "HIAT2025-049",
+      "title": "HIGH RESOLUTION CURRENT CONTROL",
+      "authors": [
+        "Tandem Linac",
+        "The Argonne",
+        "Breeder Unit",
+        "Accelerator System",
+        "Argonne National"
+      ],
+      "pages": 4,
+      "figures": 8
+    },
+    {
+      "id": "HIAT2025-050",
+      "title": "ASSESSMENT OF MAGNETIC QUADRUPOLE PICK-UP STRUCTURE",
+      "authors": [
+        "The Facility",
+        "Rare Isotope",
+        "Michigan State",
+        "Isotope Beams"
+      ],
+      "pages": 2,
+      "figures": 3
+    },
+    {
+      "id": "HIAT2025-051",
+      "title": "CALIBRATING THE FRIB CHOPPER MONITOR*",
+      "authors": [],
+      "pages": 3,
+      "figures": 6
+    },
+    {
+      "id": "HIAT2025-052",
+      "title": "SUPERCONDUCTING MULTIPOLE TRIPLETS MAGNETS",
+      "authors": [],
+      "pages": 4,
+      "figures": 17
+    },
+    {
+      "id": "HIAT2025-053",
+      "title": "STATUS OF HIGH PERFORMANCE ECR ION SOURCES:",
+      "authors": [
+        "Chinese Academy"
+      ],
+      "pages": 6,
+      "figures": 8
+    },
+    {
+      "id": "HIAT2025-054",
+      "title": "MEASUREMENT OF FORWARD-DIRECTED NEUTRONS GENERATED",
+      "authors": [],
+      "pages": 7,
+      "figures": 15
+    },
+    {
+      "id": "HIAT2025-055",
+      "title": "SINGLE-BUNCH EXTRACTION AT THE 88-INCH CYCLOTRON∗",
+      "authors": [
+        "National Laboratory",
+        "Lawrence Berkeley"
+      ],
+      "pages": 4,
+      "figures": 9
+    },
+    {
+      "id": "HIAT2025-056",
+      "title": "ADVANCES IN TRANSVERSE BEAM HALO CHARACTERIZATION AND",
+      "authors": [
+        "Hadron Collider",
+        "Nuclear Research",
+        "The Large",
+        "European Organization"
+      ],
+      "pages": 6,
+      "figures": 11
+    },
+    {
+      "id": "HIAT2025-057",
+      "title": "THE BEAM DYNAMICS CASE OF BEAM-BEAM WIRE COMPENSATORS",
+      "authors": [
+        "Hadron Collider",
+        "The Large"
+      ],
+      "pages": 4,
+      "figures": 12
+    },
+    {
+      "id": "HIAT2025-058",
+      "title": "MITIGATING THE THERMAL CHALLENGES IN CARBON STRIPPER:",
+      "authors": [],
+      "pages": 3,
+      "figures": 8
+    },
+    {
+      "id": "HIAT2025-059",
+      "title": "FREQUENCY DEPENDENCE OF BCS AND RESIDUAL RESISTANCE",
+      "authors": [],
+      "pages": 2,
+      "figures": 6
+    },
+    {
+      "id": "HIAT2025-060",
+      "title": "CONCLUSION AND OUTLOOK",
+      "authors": [
+        "The Authors"
+      ],
+      "pages": 1,
+      "figures": 2
+    },
+    {
+      "id": "HIAT2025-061",
+      "title": "IMAGE MAPPING FOR MULTIPLE CHARGE STATE BEAMS USING A",
+      "authors": [],
+      "pages": 3,
+      "figures": 7
+    },
+    {
+      "id": "HIAT2025-062",
+      "title": "BEAM LOSS DETECTION AND MITIGATION AT FRIB*",
+      "authors": [],
+      "pages": 3,
+      "figures": 6
+    },
+    {
+      "id": "HIAT2025-063",
+      "title": "BEAM INTENSITY PREDICTION FOR ECR ION SOURCE USING",
+      "authors": [
+        "Cyclotron Resonance",
+        "The Electron",
+        "Ion Source"
+      ],
+      "pages": 4,
+      "figures": 13
+    },
+    {
+      "id": "HIAT2025-064",
+      "title": "JuTrack, A Julia-BASED TOOL FOR ACCELERATOR MODELING AND",
+      "authors": [
+        "National Laboratory",
+        "Lawrence Berkeley",
+        "One Cyclotron"
+      ],
+      "pages": 3,
+      "figures": 7
+    },
+    {
+      "id": "HIAT2025-065",
+      "title": "MACHINE-LEARNING-ASSISTED RAPID BEAM ENERGY CHANGE AT",
+      "authors": [
+        "Argonne National"
+      ],
+      "pages": 3,
+      "figures": 32
+    },
+    {
+      "id": "HIAT2025-066",
+      "title": "DESIGN IMPROVEMENT OF A MINICHANNEL BEAM DUMP WING",
+      "authors": [
+        "Rare Isotope",
+        "The Facility"
+      ],
+      "pages": 3,
+      "figures": 10
+    },
+    {
+      "id": "HIAT2025-067",
+      "title": "ALPI-PIAVE PERFORMANCE AT INFN-LNL WITH ADVANCED",
+      "authors": [
+        "Bayesian Op",
+        "Trust Region",
+        "Bayesian Optimization"
+      ],
+      "pages": 8,
+      "figures": 18
+    },
+    {
+      "id": "HIAT2025-068",
+      "title": "MULTI-Q BEAM STUDIES AT FRIB:",
+      "authors": [
+        "Rare Isotope",
+        "The Facility"
+      ],
+      "pages": 4,
+      "figures": 10
+    },
+    {
+      "id": "HIAT2025-069",
+      "title": "VARIABLE WEDGE FOR ARIS*",
+      "authors": [],
+      "pages": 4,
+      "figures": 10
+    },
+    {
+      "id": "HIAT2025-070",
+      "title": "HIGH ENERGY ION IMPLANTATION AT BNL*",
+      "authors": [
+        "Graaff Facility",
+        "The Tandem",
+        "National Laboratory"
+      ],
+      "pages": 2,
+      "figures": 7
+    },
+    {
+      "id": "HIAT2025-071",
+      "title": "ENERGY FILTERED IMPLANTATION",
+      "authors": [],
+      "pages": 2,
+      "figures": 6
+    },
+    {
+      "id": "HIAT2025-072",
+      "title": "SIX-DIMENSIONAL BEAM MATCHING WITH LINEAR",
+      "authors": [],
+      "pages": 4,
+      "figures": 4
+    },
+    {
+      "id": "HIAT2025-073",
+      "title": "NEWGAIN PROJECT AT GANIL: CONSTRUCTION OF THE NEW HEAVY",
+      "authors": [],
+      "pages": 5,
+      "figures": 14
+    },
+    {
+      "id": "HIAT2025-074",
+      "title": "DEMONSTRATION OF CAVITY FIELD MAPPING BY",
+      "authors": [],
+      "pages": 1,
+      "figures": 2
+    },
+    {
+      "id": "HIAT2025-075",
+      "title": "DTLs, where iterative field measurements are critical to",
+      "authors": [
+        "Hardware Design"
+      ],
+      "pages": 4,
+      "figures": 17
+    },
+    {
+      "id": "HIAT2025-076",
+      "title": "OPERATION OF A PULSED GAS STRIPPER DURING REGULAR USER",
+      "authors": [],
+      "pages": 6,
+      "figures": 10
+    },
+    {
+      "id": "HIAT2025-077",
+      "title": "RF POWER LIMITS OF 4-ROD RFQS∗",
+      "authors": [
+        "Radio Frequency"
+      ],
+      "pages": 4,
+      "figures": 13
+    },
+    {
+      "id": "HIAT2025-078",
+      "title": "A CHARGE STRIPPER RING FOR RIKEN RI BEAM FACTORY",
+      "authors": [
+        "The Charge",
+        "Stripper Ring"
+      ],
+      "pages": 2,
+      "figures": 4
+    },
+    {
+      "id": "HIAT2025-079",
+      "title": "2𝑀𝑀11𝑀𝑀22 −1",
+      "authors": [],
+      "pages": 4,
+      "figures": 10
+    },
+    {
+      "id": "HIAT2025-080",
+      "title": "RARE ISOTOPE BEAM TUNING IN FRIB ∗",
+      "authors": [
+        "Rare Isotope",
+        "The Facility"
+      ],
+      "pages": 2,
+      "figures": 4
+    },
+    {
+      "id": "HIAT2025-081",
+      "title": "BEAMLINE COMMISSIONING",
+      "authors": [],
+      "pages": 2,
+      "figures": 3
+    },
+    {
+      "id": "HIAT2025-082",
+      "title": "RARE-ISOTOPE PRODUCTION OPTICS OF ARIS PRESEPARATOR*",
+      "authors": [
+        "The Advance",
+        "Rare Isotope"
+      ],
+      "pages": 3,
+      "figures": 7
+    },
+    {
+      "id": "HIAT2025-083",
+      "title": "PARTICLE IDENTIFICATION USING TRAJECTORY RECONSTRUCTION",
+      "authors": [],
+      "pages": 4,
+      "figures": 8
+    },
+    {
+      "id": "HIAT2025-084",
+      "title": "THE SPES-ISOLPHARM BEAMLINE FOR THE PRODUCTION OF",
+      "authors": [],
+      "pages": 4,
+      "figures": 8
+    },
+    {
+      "id": "HIAT2025-085",
+      "title": "REACCELERATING LONG-LIVED RADIOISOTOPES AT FRIB∗",
+      "authors": [
+        "Rare Isotope",
+        "The Re",
+        "Superconducting Cyclotron",
+        "State University"
+      ],
+      "pages": 4,
+      "figures": 10
+    },
+    {
+      "id": "HIAT2025-086",
+      "title": "DEVELOPMENT OF COMPACT ACCELERATOR BASED NEUTRON",
+      "authors": [],
+      "pages": 4,
+      "figures": 7
+    }
+  ]
+}

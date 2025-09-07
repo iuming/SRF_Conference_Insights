@@ -1,0 +1,74 @@
+{
+  "basic_stats": {
+    "total_papers": 86,
+    "total_pages": 317,
+    "total_authors": 47,
+    "total_institutions": 190,
+    "total_figures": 817,
+    "total_tables": 128,
+    "total_references": 716,
+    "papers_with_abstract": 61,
+    "papers_with_keywords": 0,
+    "avg_pages": 3.686046511627907,
+    "avg_figures": 9.5,
+    "avg_references": 8.325581395348838
+  },
+  "top_institutions": [
+    [
+      "Facility for Rare Isotope Beams",
+      29
+    ],
+    [
+      "1Facility for Rare Isotope Beams",
+      4
+    ],
+    [
+      "The Facility for Rare Isotope Beams (FRIB) at Michigan",
+      3
+    ],
+    [
+      "The Facility for Rare Isotope Beams (FRIB)",
+      3
+    ],
+    [
+      "The Facility for Rare Isotope Beams (FRIB) is a high-",
+      2
+    ],
+    [
+      "1also at Department of Physics and Astronomy",
+      2
+    ],
+    [
+      "nuclear physics facility for research with fast",
+      2
+    ],
+    [
+      "RIKEN Nishina Center",
+      2
+    ],
+    [
+      "Argonne National Laboratory",
+      2
+    ],
+    [
+      "1Brookhaven National Laboratory",
+      2
+    ]
+  ],
+  "top_keywords": [],
+  "page_distribution": {
+    "1-2页": 21,
+    "3-4页": 52,
+    "5-6页": 8,
+    "7-8页": 4,
+    "8+页": 1
+  },
+  "figure_distribution": {
+    "0-5图": 19,
+    "6-10图": 41,
+    "11-15图": 14,
+    "16-20图": 9,
+    "20+图": 3
+  },
+  "generated_at": "2025-09-07T10:37:11.274810"
+}

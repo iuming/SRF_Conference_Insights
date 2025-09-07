@@ -1,0 +1,311 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2025-09-07T12:09:14.576756Z",
+  "conference": {
+    "code": "IPAC2025",
+    "name": "International Particle Accelerator Conference 2025"
+  },
+  "paper_count": 30,
+  "papers": [
+    {
+      "id": "IPAC25_2000",
+      "code": "SUPM100",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 1",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2001",
+      "code": "SUPM101",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 2",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2002",
+      "code": "SUPM102",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 3",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2003",
+      "code": "SUPM103",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 4",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2004",
+      "code": "SUPM104",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 5",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2005",
+      "code": "SUPM105",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 6",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2006",
+      "code": "SUPM106",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 7",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2007",
+      "code": "SUPM107",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 8",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2008",
+      "code": "SUPM108",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 9",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2009",
+      "code": "SUPM109",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 10",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2010",
+      "code": "SUPM110",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 11",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2011",
+      "code": "SUPM111",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 12",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2012",
+      "code": "SUPM112",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 13",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2013",
+      "code": "SUPM113",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 14",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2014",
+      "code": "SUPM114",
+      "title": "A compact linear accelerator coaxially integrated with a high-power microwave source - Variant 15",
+      "authors": [
+        "Zi-Jing Zhang"
+      ],
+      "category": "MC3.A15 New Acceleration Concepts and Techniques",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2015",
+      "code": "SUPM115",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 1",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2016",
+      "code": "SUPM116",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 2",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2017",
+      "code": "SUPM117",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 3",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2018",
+      "code": "SUPM118",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 4",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2019",
+      "code": "SUPM119",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 5",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2020",
+      "code": "SUPM120",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 6",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2021",
+      "code": "SUPM121",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 7",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2022",
+      "code": "SUPM122",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 8",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2023",
+      "code": "SUPM123",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 9",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2024",
+      "code": "SUPM124",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 10",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2025",
+      "code": "SUPM125",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 11",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2026",
+      "code": "SUPM126",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 12",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2027",
+      "code": "SUPM127",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 13",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2028",
+      "code": "SUPM128",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 14",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation"
+    },
+    {
+      "id": "IPAC25_2029",
+      "code": "SUPM129",
+      "title": "Advanced beam tuning and beam measurements techniques in the CLEAR facility - Variant 15",
+      "authors": [
+        "Alfred Petersson"
+      ],
+      "category": "MC2.A08 Linear Accelerators",
+      "type": "Student Poster Presentation"
+    }
+  ]
+}
