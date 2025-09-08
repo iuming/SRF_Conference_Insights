@@ -17,8 +17,5 @@ beautifulsoup4>=4.11.0
 # JSON schema validation
 jsonschema>=4.0.0
 
-# File system operations
-pathlib2>=2.3.0
-
-# Development and testing
+# Development and testing (optional)
 pytest>=7.0.0
