@@ -1,5 +1,6 @@
 [build-system]
-requires = ["setuptools>=45", "wheel", "setuptools_scm[toml]>=6.2"]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
 
 [project]
 name = "srf-conference-insights"
@@ -47,32 +48,3 @@ Homepage = "https://github.com/iuming/SRF_Conference_Insights"
 Repository = "https://github.com/iuming/SRF_Conference_Insights"
 Documentation = "https://iuming.github.io/SRF_Conference_Insights/"
 "Bug Tracker" = "https://github.com/iuming/SRF_Conference_Insights/issues"
-
-[tool.setuptools.packages.find]
-where = ["."]
-include = ["conferences*", "scripts*"]
-exclude = ["tests*", "docs*"]
-
-[tool.black]
-line-length = 88
-target-version = ['py38']
-include = '\.pyi?$'
-extend-exclude = '''
-/(
-  # directories
-  \.eggs
-  | \.git
-  | \.hg
-  | \.mypy_cache
-  | \.tox
-  | \.venv
-  | build
-  | dist
-)/
-'''
-
-[tool.mypy]
-python_version = "3.8"
-warn_return_any = true
-warn_unused_configs = true
-disallow_untyped_defs = true
