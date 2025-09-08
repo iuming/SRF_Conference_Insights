@@ -44,7 +44,7 @@ jobs:
 
     - name: 📊 Upload coverage to Codecov
       if: matrix.os == 'ubuntu-latest' && matrix.python-version == '3.9'
-      uses: codecov/codecov-action@v3
+      uses: codecov/codecov-action@v4
       with:
         file: ./coverage.xml
         flags: unittests
@@ -82,7 +82,7 @@ jobs:
       run: bandit -r . -f json -o bandit-report.json || true
 
     - name: 📊 Upload security report
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       if: always()
       with:
         name: bandit-report
@@ -136,7 +136,7 @@ jobs:
       run: pytest tests/test_performance.py --benchmark-only --benchmark-json=benchmark.json
 
     - name: 📊 Upload performance results
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: benchmark-results
         path: benchmark.json
