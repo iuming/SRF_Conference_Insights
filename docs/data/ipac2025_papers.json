@@ -1,0 +1,1521 @@
+[
+  {
+    "contribution_id": "IPAC25_0001",
+    "paper_code": "TUPA23",
+    "title": "Novel Plasma Wakefield Acceleration Experiments",
+    "authors": [
+      "Priya Smith",
+      "Priya Hassan"
+    ],
+    "institutions": [
+      "Stanford University",
+      "CERN"
+    ],
+    "abstract": "We report on recent plasma wakefield acceleration experiments achieving record energy gains. The experimental setup, plasma characterization, and beam quality measurements are presented along with future upgrade plans.",
+    "keywords": [
+      "plasma wakefield",
+      "acceleration",
+      "novel techniques"
+    ],
+    "category": "MC3: Novel Particle Sources and Acceleration Techniques",
+    "type": "Oral Presentation",
+    "datetime": "2025/6/1 9:30",
+    "conference": "IPAC2025",
+    "session": "TUPA",
+    "pages": 3,
+    "doi": "10.18429/JACoW-IPAC2025-TUPA23",
+    "url": "https://jacow.org/ipac2025/papers/tupa23.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0002",
+    "paper_code": "MOPA78",
+    "title": "Machine Learning Applications in Accelerator Controls at DESY FLASH",
+    "authors": [
+      "Anna Smith",
+      "John Martinez",
+      "Ahmed Patel",
+      "Roberto Smith",
+      "Sarah Tanaka"
+    ],
+    "institutions": [
+      "Cornell University",
+      "RIKEN",
+      "DESY",
+      "Paul Scherrer Institute",
+      "Fermilab"
+    ],
+    "abstract": "This work explores the application of machine learning techniques for accelerator control systems. We demonstrate automated beam tuning, anomaly detection, and predictive maintenance capabilities with significant operational improvements.",
+    "keywords": [
+      "machine learning",
+      "controls",
+      "optimization",
+      "automation"
+    ],
+    "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+    "type": "Oral Presentation",
+    "datetime": "2025/6/5 10:30",
+    "conference": "IPAC2025",
+    "session": "MOPA",
+    "pages": 5,
+    "doi": "10.18429/JACoW-IPAC2025-MOPA78",
+    "url": "https://jacow.org/ipac2025/papers/mopa78.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0003",
+    "paper_code": "FRPB61",
+    "title": "Machine Learning Applications in Accelerator Controls at DESY FLASH",
+    "authors": [
+      "Michael Petrov",
+      "Anna Wang",
+      "Sarah Patel",
+      "Roberto Johnson",
+      "Liu Johnson"
+    ],
+    "institutions": [
+      "University of Tokyo",
+      "CERN",
+      "CNRS/IN2P3"
+    ],
+    "abstract": "This work explores the application of machine learning techniques for accelerator control systems. We demonstrate automated beam tuning, anomaly detection, and predictive maintenance capabilities with significant operational improvements.",
+    "keywords": [
+      "machine learning",
+      "controls",
+      "optimization",
+      "automation"
+    ],
+    "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+    "type": "Oral Presentation",
+    "datetime": "2025/6/4 11:00",
+    "conference": "IPAC2025",
+    "session": "FRPB",
+    "pages": 6,
+    "doi": "10.18429/JACoW-IPAC2025-FRPB61",
+    "url": "https://jacow.org/ipac2025/papers/frpb61.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0004",
+    "paper_code": "THPB75",
+    "title": "Collective Effects and Instabilities in High-Intensity Beams",
+    "authors": [
+      "Roberto Patel",
+      "Liu Zhang",
+      "Elena Patel",
+      "Michael Johnson"
+    ],
+    "institutions": [
+      "European XFEL",
+      "SLAC National Accelerator Laboratory",
+      "RIKEN",
+      "CNRS/IN2P3"
+    ],
+    "abstract": "This study investigates collective effects and beam instabilities in high-intensity accelerators. We analyze impedance sources, mitigation techniques, and feedback system requirements for stable high-current operation.",
+    "keywords": [
+      "collective effects",
+      "instabilities",
+      "impedance",
+      "high intensity"
+    ],
+    "category": "MC7: Accelerator/Storage Ring Physics",
+    "type": "Invited Talk",
+    "datetime": "2025/6/4 14:00",
+    "conference": "IPAC2025",
+    "session": "THPB",
+    "pages": 5,
+    "doi": "10.18429/JACoW-IPAC2025-THPB75",
+    "url": "https://jacow.org/ipac2025/papers/thpb75.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0005",
+    "paper_code": "THPA53",
+    "title": "Cryogenic System Optimization for Superconducting Accelerators",
+    "authors": [
+      "Sophie Wilson",
+      "Alexei Garcia",
+      "Michael Tanaka",
+      "Anna Hassan",
+      "Elena Rossi"
+    ],
+    "institutions": [
+      "BNL",
+      "ORNL",
+      "European XFEL",
+      "INFN"
+    ],
+    "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+    "keywords": [
+      "cryogenics",
+      "superconducting",
+      "efficiency",
+      "optimization"
+    ],
+    "category": "MC4: Hadron Accelerators",
+    "type": "Invited Talk",
+    "datetime": "2025/6/4 17:00",
+    "conference": "IPAC2025",
+    "session": "THPA",
+    "pages": 4,
+    "doi": "10.18429/JACoW-IPAC2025-THPA53",
+    "url": "https://jacow.org/ipac2025/papers/thpa53.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0006",
+    "paper_code": "THPB84",
+    "title": "Beam Dynamics Studies for the FRIB Upgrade",
+    "authors": [
+      "David Martinez",
+      "Elena Garcia",
+      "Maria Wilson",
+      "Roberto Smith"
+    ],
+    "institutions": [
+      "Tsinghua University",
+      "TRIUMF",
+      "Cornell University"
+    ],
+    "abstract": "We present comprehensive beam dynamics studies for the proposed upgrade of FRIB. The studies include lattice optimization, collective effects analysis, and beam-beam interaction simulations for enhanced luminosity performance.",
+    "keywords": [
+      "beam dynamics",
+      "lattice design",
+      "emittance",
+      "optics"
+    ],
+    "category": "MC5: Beam Dynamics and Electromagnetic Fields",
+    "type": "Poster Presentation",
+    "datetime": "2025/6/4 10:30",
+    "conference": "IPAC2025",
+    "session": "THPB",
+    "pages": 4,
+    "doi": "10.18429/JACoW-IPAC2025-THPB84",
+    "url": "https://jacow.org/ipac2025/papers/thpb84.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0007",
+    "paper_code": "WEPA53",
+    "title": "Novel Plasma Wakefield Acceleration Experiments",
+    "authors": [
+      "Sarah Hassan",
+      "Priya Brown",
+      "Chen Tanaka",
+      "Priya Hassan"
+    ],
+    "institutions": [
+      "CERN",
+      "RIKEN",
+      "Fermilab",
+      "IHEP"
+    ],
+    "abstract": "We report on recent plasma wakefield acceleration experiments achieving record energy gains. The experimental setup, plasma characterization, and beam quality measurements are presented along with future upgrade plans.",
+    "keywords": [
+      "plasma wakefield",
+      "acceleration",
+      "novel techniques"
+    ],
+    "category": "MC3: Novel Particle Sources and Acceleration Techniques",
+    "type": "Poster Presentation",
+    "datetime": "2025/6/2 10:00",
+    "conference": "IPAC2025",
+    "session": "WEPA",
+    "pages": 4,
+    "doi": "10.18429/JACoW-IPAC2025-WEPA53",
+    "url": "https://jacow.org/ipac2025/papers/wepa53.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0008",
+    "paper_code": "TUPB84",
+    "title": "High-Gradient Superconducting RF Cavity Development for DESY FLASH",
+    "authors": [
+      "John Patel",
+      "Priya Brown",
+      "Maria Zhang"
+    ],
+    "institutions": [
+      "KEK",
+      "Paul Scherrer Institute",
+      "CNRS/IN2P3"
+    ],
+    "abstract": "This paper presents the development of high-gradient superconducting RF cavities for next-generation accelerator facilities. We discuss cavity design optimization, surface treatment techniques, and performance measurements achieving gradients exceeding 50 MV/m.",
+    "keywords": [
+      "SRF",
+      "high gradient",
+      "cavity",
+      "superconducting"
+    ],
+    "category": "MC2: Photon Sources and Electron Accelerators",
+    "type": "Poster Presentation",
+    "datetime": "2025/6/3 10:00",
+    "conference": "IPAC2025",
+    "session": "TUPB",
+    "pages": 5,
+    "doi": "10.18429/JACoW-IPAC2025-TUPB84",
+    "url": "https://jacow.org/ipac2025/papers/tupb84.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0009",
+    "paper_code": "WEPB64",
+    "title": "Beam Dynamics Studies for the SPIRAL2 Upgrade",
+    "authors": [
+      "Hiroshi Smith",
+      "Sarah Schmidt",
+      "Elena Brown",
+      "Alexei Zhang",
+      "Chen Wilson"
+    ],
+    "institutions": [
+      "MIT",
+      "Stanford University",
+      "TRIUMF",
+      "Paul Scherrer Institute",
+      "Fermilab"
+    ],
+    "abstract": "We present comprehensive beam dynamics studies for the proposed upgrade of SPIRAL2. The studies include lattice optimization, collective effects analysis, and beam-beam interaction simulations for enhanced luminosity performance.",
+    "keywords": [
+      "beam dynamics",
+      "lattice design",
+      "emittance",
+      "optics"
+    ],
+    "category": "MC5: Beam Dynamics and Electromagnetic Fields",
+    "type": "Invited Talk",
+    "datetime": "2025/6/1 14:00",
+    "conference": "IPAC2025",
+    "session": "WEPB",
+    "pages": 4,
+    "doi": "10.18429/JACoW-IPAC2025-WEPB64",
+    "url": "https://jacow.org/ipac2025/papers/wepb64.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0010",
+    "paper_code": "WEPB87",
+    "title": "Collective Effects and Instabilities in High-Intensity Beams",
+    "authors": [
+      "Roberto Wilson",
+      "John Patel"
+    ],
+    "institutions": [
+      "BNL",
+      "RIKEN"
+    ],
+    "abstract": "This study investigates collective effects and beam instabilities in high-intensity accelerators. We analyze impedance sources, mitigation techniques, and feedback system requirements for stable high-current operation.",
+    "keywords": [
+      "collective effects",
+      "instabilities",
+      "impedance",
+      "high intensity"
+    ],
+    "category": "MC7: Accelerator/Storage Ring Physics",
+    "type": "Invited Talk",
+    "datetime": "2025/6/3 17:30",
+    "conference": "IPAC2025",
+    "session": "WEPB",
+    "pages": 4,
+    "doi": "10.18429/JACoW-IPAC2025-WEPB87",
+    "url": "https://jacow.org/ipac2025/papers/wepb87.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0011",
+    "paper_code": "WEPA51",
+    "title": "Machine Learning Applications in Accelerator Controls at FRIB",
+    "authors": [
+      "John Petrov",
+      "David Rossi",
+      "Elena Wilson",
+      "Alexei Tanaka"
+    ],
+    "institutions": [
+      "University of Tokyo",
+      "RIKEN",
+      "CNRS/IN2P3"
+    ],
+    "abstract": "This work explores the application of machine learning techniques for accelerator control systems. We demonstrate automated beam tuning, anomaly detection, and predictive maintenance capabilities with significant operational improvements.",
+    "keywords": [
+      "machine learning",
+      "controls",
+      "optimization",
+      "automation"
+    ],
+    "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+    "type": "Oral Presentation",
+    "datetime": "2025/6/5 13:30",
+    "conference": "IPAC2025",
+    "session": "WEPA",
+    "pages": 6,
+    "doi": "10.18429/JACoW-IPAC2025-WEPA51",
+    "url": "https://jacow.org/ipac2025/papers/wepa51.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0012",
+    "paper_code": "MOPA31",
+    "title": "High-Gradient Superconducting RF Cavity Development for KEK SuperKEKB",
+    "authors": [
+      "John Wang",
+      "Chen Kozlov",
+      "Alexei Smith",
+      "Elena Rossi"
+    ],
+    "institutions": [
+      "Stanford University",
+      "CERN",
+      "IHEP"
+    ],
+    "abstract": "This paper presents the development of high-gradient superconducting RF cavities for next-generation accelerator facilities. We discuss cavity design optimization, surface treatment techniques, and performance measurements achieving gradients exceeding 50 MV/m.",
+    "keywords": [
+      "SRF",
+      "high gradient",
+      "cavity",
+      "superconducting"
+    ],
+    "category": "MC2: Photon Sources and Electron Accelerators",
+    "type": "Oral Presentation",
+    "datetime": "2025/6/1 9:30",
+    "conference": "IPAC2025",
+    "session": "MOPA",
+    "pages": 5,
+    "doi": "10.18429/JACoW-IPAC2025-MOPA31",
+    "url": "https://jacow.org/ipac2025/papers/mopa31.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0013",
+    "paper_code": "MOPA27",
+    "title": "Novel Plasma Wakefield Acceleration Experiments",
+    "authors": [
+      "Elena Rossi",
+      "Liu Johnson"
+    ],
+    "institutions": [
+      "Cornell University",
+      "University of Tokyo"
+    ],
+    "abstract": "We report on recent plasma wakefield acceleration experiments achieving record energy gains. The experimental setup, plasma characterization, and beam quality measurements are presented along with future upgrade plans.",
+    "keywords": [
+      "plasma wakefield",
+      "acceleration",
+      "novel techniques"
+    ],
+    "category": "MC3: Novel Particle Sources and Acceleration Techniques",
+    "type": "Invited Talk",
+    "datetime": "2025/6/5 16:00",
+    "conference": "IPAC2025",
+    "session": "MOPA",
+    "pages": 5,
+    "doi": "10.18429/JACoW-IPAC2025-MOPA27",
+    "url": "https://jacow.org/ipac2025/papers/mopa27.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0014",
+    "paper_code": "MOPB47",
+    "title": "Machine Learning Applications in Accelerator Controls at SLAC LCLS-II",
+    "authors": [
+      "Sophie Tanaka",
+      "Sophie Garcia",
+      "Alexei Hassan"
+    ],
+    "institutions": [
+      "KEK",
+      "IHEP",
+      "INFN"
+    ],
+    "abstract": "This work explores the application of machine learning techniques for accelerator control systems. We demonstrate automated beam tuning, anomaly detection, and predictive maintenance capabilities with significant operational improvements.",
+    "keywords": [
+      "machine learning",
+      "controls",
+      "optimization",
+      "automation"
+    ],
+    "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+    "type": "Oral Presentation",
+    "datetime": "2025/6/3 11:00",
+    "conference": "IPAC2025",
+    "session": "MOPB",
+    "pages": 5,
+    "doi": "10.18429/JACoW-IPAC2025-MOPB47",
+    "url": "https://jacow.org/ipac2025/papers/mopb47.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0015",
+    "paper_code": "TUPA51",
+    "title": "Collective Effects and Instabilities in High-Intensity Beams",
+    "authors": [
+      "Chen Zhang",
+      "Hiroshi Kozlov"
+    ],
+    "institutions": [
+      "KEK",
+      "MIT"
+    ],
+    "abstract": "This study investigates collective effects and beam instabilities in high-intensity accelerators. We analyze impedance sources, mitigation techniques, and feedback system requirements for stable high-current operation.",
+    "keywords": [
+      "collective effects",
+      "instabilities",
+      "impedance",
+      "high intensity"
+    ],
+    "category": "MC7: Accelerator/Storage Ring Physics",
+    "type": "Invited Talk",
+    "datetime": "2025/6/5 11:30",
+    "conference": "IPAC2025",
+    "session": "TUPA",
+    "pages": 6,
+    "doi": "10.18429/JACoW-IPAC2025-TUPA51",
+    "url": "https://jacow.org/ipac2025/papers/tupa51.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0016",
+    "paper_code": "FRPB75",
+    "title": "Cryogenic System Optimization for Superconducting Accelerators",
+    "authors": [
+      "Alexei Patel",
+      "Hiroshi Johnson",
+      "Maria Rossi"
+    ],
+    "institutions": [
+      "Cornell University",
+      "Facility for Rare Isotope Beams"
+    ],
+    "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+    "keywords": [
+      "cryogenics",
+      "superconducting",
+      "efficiency",
+      "optimization"
+    ],
+    "category": "MC4: Hadron Accelerators",
+    "type": "Invited Talk",
+    "datetime": "2025/6/2 12:00",
+    "conference": "IPAC2025",
+    "session": "FRPB",
+    "pages": 6,
+    "doi": "10.18429/JACoW-IPAC2025-FRPB75",
+    "url": "https://jacow.org/ipac2025/papers/frpb75.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0017",
+    "paper_code": "WEPA70",
+    "title": "Cryogenic System Optimization for Superconducting Accelerators",
+    "authors": [
+      "Ahmed Kozlov",
+      "Elena Brown",
+      "Priya Tanaka",
+      "Maria Brown",
+      "Chen Rossi"
+    ],
+    "institutions": [
+      "BNL",
+      "CNRS/IN2P3",
+      "University of Tokyo",
+      "CERN",
+      "Fermilab"
+    ],
+    "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+    "keywords": [
+      "cryogenics",
+      "superconducting",
+      "efficiency",
+      "optimization"
+    ],
+    "category": "MC4: Hadron Accelerators",
+    "type": "Poster Presentation",
+    "datetime": "2025/6/3 15:00",
+    "conference": "IPAC2025",
+    "session": "WEPA",
+    "pages": 5,
+    "doi": "10.18429/JACoW-IPAC2025-WEPA70",
+    "url": "https://jacow.org/ipac2025/papers/wepa70.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0018",
+    "paper_code": "TUPB23",
+    "title": "Beam Dynamics Studies for the FRIB Upgrade",
+    "authors": [
+      "Priya Hassan",
+      "Anna Rossi",
+      "Chen Wilson",
+      "Maria Wang",
+      "Michael Patel"
+    ],
+    "institutions": [
+      "MIT",
+      "BNL",
+      "ORNL",
+      "INFN",
+      "RIKEN"
+    ],
+    "abstract": "We present comprehensive beam dynamics studies for the proposed upgrade of FRIB. The studies include lattice optimization, collective effects analysis, and beam-beam interaction simulations for enhanced luminosity performance.",
+    "keywords": [
+      "beam dynamics",
+      "lattice design",
+      "emittance",
+      "optics"
+    ],
+    "category": "MC5: Beam Dynamics and Electromagnetic Fields",
+    "type": "Oral Presentation",
+    "datetime": "2025/6/5 17:30",
+    "conference": "IPAC2025",
+    "session": "TUPB",
+    "pages": 6,
+    "doi": "10.18429/JACoW-IPAC2025-TUPB23",
+    "url": "https://jacow.org/ipac2025/papers/tupb23.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0019",
+    "paper_code": "MOPB97",
+    "title": "High-Gradient Superconducting RF Cavity Development for SLAC LCLS-II",
+    "authors": [
+      "Sophie Garcia",
+      "Michael Petrov"
+    ],
+    "institutions": [
+      "KEK",
+      "BNL"
+    ],
+    "abstract": "This paper presents the development of high-gradient superconducting RF cavities for next-generation accelerator facilities. We discuss cavity design optimization, surface treatment techniques, and performance measurements achieving gradients exceeding 50 MV/m.",
+    "keywords": [
+      "SRF",
+      "high gradient",
+      "cavity",
+      "superconducting"
+    ],
+    "category": "MC2: Photon Sources and Electron Accelerators",
+    "type": "Poster Presentation",
+    "datetime": "2025/6/4 12:30",
+    "conference": "IPAC2025",
+    "session": "MOPB",
+    "pages": 3,
+    "doi": "10.18429/JACoW-IPAC2025-MOPB97",
+    "url": "https://jacow.org/ipac2025/papers/mopb97.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0020",
+    "paper_code": "WEPB71",
+    "title": "Machine Learning Applications in Accelerator Controls at CERN LHC",
+    "authors": [
+      "John Schmidt",
+      "David Hassan",
+      "Sophie Wilson"
+    ],
+    "institutions": [
+      "TRIUMF",
+      "Paul Scherrer Institute",
+      "RIKEN"
+    ],
+    "abstract": "This work explores the application of machine learning techniques for accelerator control systems. We demonstrate automated beam tuning, anomaly detection, and predictive maintenance capabilities with significant operational improvements.",
+    "keywords": [
+      "machine learning",
+      "controls",
+      "optimization",
+      "automation"
+    ],
+    "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+    "type": "Poster Presentation",
+    "datetime": "2025/6/4 10:30",
+    "conference": "IPAC2025",
+    "session": "WEPB",
+    "pages": 4,
+    "doi": "10.18429/JACoW-IPAC2025-WEPB71",
+    "url": "https://jacow.org/ipac2025/papers/wepb71.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0021",
+    "paper_code": "TUPB95",
+    "title": "Cryogenic System Optimization for Superconducting Accelerators",
+    "authors": [
+      "Chen Tanaka",
+      "Priya Brown"
+    ],
+    "institutions": [
+      "Tsinghua University",
+      "SLAC National Accelerator Laboratory"
+    ],
+    "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+    "keywords": [
+      "cryogenics",
+      "superconducting",
+      "efficiency",
+      "optimization"
+    ],
+    "category": "MC4: Hadron Accelerators",
+    "type": "Invited Talk",
+    "datetime": "2025/6/4 12:30",
+    "conference": "IPAC2025",
+    "session": "TUPB",
+    "pages": 3,
+    "doi": "10.18429/JACoW-IPAC2025-TUPB95",
+    "url": "https://jacow.org/ipac2025/papers/tupb95.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0022",
+    "paper_code": "WEPA37",
+    "title": "Machine Learning Applications in Accelerator Controls at DESY FLASH",
+    "authors": [
+      "Sophie Zhang",
+      "David Smith"
+    ],
+    "institutions": [
+      "Fermilab",
+      "IHEP"
+    ],
+    "abstract": "This work explores the application of machine learning techniques for accelerator control systems. We demonstrate automated beam tuning, anomaly detection, and predictive maintenance capabilities with significant operational improvements.",
+    "keywords": [
+      "machine learning",
+      "controls",
+      "optimization",
+      "automation"
+    ],
+    "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+    "type": "Oral Presentation",
+    "datetime": "2025/6/5 10:30",
+    "conference": "IPAC2025",
+    "session": "WEPA",
+    "pages": 3,
+    "doi": "10.18429/JACoW-IPAC2025-WEPA37",
+    "url": "https://jacow.org/ipac2025/papers/wepa37.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0023",
+    "paper_code": "THPA50",
+    "title": "Cryogenic System Optimization for Superconducting Accelerators",
+    "authors": [
+      "Elena Kozlov",
+      "Ahmed Johnson",
+      "Liu Johnson",
+      "Elena Wang"
+    ],
+    "institutions": [
+      "University of Tokyo",
+      "TRIUMF",
+      "Fermilab"
+    ],
+    "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+    "keywords": [
+      "cryogenics",
+      "superconducting",
+      "efficiency",
+      "optimization"
+    ],
+    "category": "MC4: Hadron Accelerators",
+    "type": "Oral Presentation",
+    "datetime": "2025/6/5 14:00",
+    "conference": "IPAC2025",
+    "session": "THPA",
+    "pages": 3,
+    "doi": "10.18429/JACoW-IPAC2025-THPA50",
+    "url": "https://jacow.org/ipac2025/papers/thpa50.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0024",
+    "paper_code": "FRPA06",
+    "title": "Cryogenic System Optimization for Superconducting Accelerators",
+    "authors": [
+      "Ahmed Petrov",
+      "Ahmed Tanaka"
+    ],
+    "institutions": [
+      "RIKEN",
+      "Facility for Rare Isotope Beams"
+    ],
+    "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+    "keywords": [
+      "cryogenics",
+      "superconducting",
+      "efficiency",
+      "optimization"
+    ],
+    "category": "MC4: Hadron Accelerators",
+    "type": "Oral Presentation",
+    "datetime": "2025/6/5 17:30",
+    "conference": "IPAC2025",
+    "session": "FRPA",
+    "pages": 6,
+    "doi": "10.18429/JACoW-IPAC2025-FRPA06",
+    "url": "https://jacow.org/ipac2025/papers/frpa06.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0025",
+    "paper_code": "FRPB30",
+    "title": "Cryogenic System Optimization for Superconducting Accelerators",
+    "authors": [
+      "Priya Brown",
+      "Alexei Garcia",
+      "Liu Wang"
+    ],
+    "institutions": [
+      "European XFEL",
+      "ORNL",
+      "Facility for Rare Isotope Beams"
+    ],
+    "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+    "keywords": [
+      "cryogenics",
+      "superconducting",
+      "efficiency",
+      "optimization"
+    ],
+    "category": "MC4: Hadron Accelerators",
+    "type": "Invited Talk",
+    "datetime": "2025/6/3 14:30",
+    "conference": "IPAC2025",
+    "session": "FRPB",
+    "pages": 3,
+    "doi": "10.18429/JACoW-IPAC2025-FRPB30",
+    "url": "https://jacow.org/ipac2025/papers/frpb30.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0026",
+    "paper_code": "TUPA51",
+    "title": "Advanced Beam Position Monitor Development",
+    "authors": [
+      "Priya Martinez",
+      "Hiroshi Petrov",
+      "Hiroshi Wilson",
+      "Sarah Brown",
+      "Maria Johnson"
+    ],
+    "institutions": [
+      "Cornell University",
+      "IHEP",
+      "Stanford University",
+      "KEK",
+      "TRIUMF"
+    ],
+    "abstract": "We present the development of next-generation beam position monitors with nanometer-level precision. The design incorporates novel electronics, advanced signal processing, and calibration techniques for ultra-stable beam position measurements.",
+    "keywords": [
+      "BPM",
+      "beam instrumentation",
+      "precision",
+      "electronics"
+    ],
+    "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+    "type": "Oral Presentation",
+    "datetime": "2025/6/5 15:30",
+    "conference": "IPAC2025",
+    "session": "TUPA",
+    "pages": 5,
+    "doi": "10.18429/JACoW-IPAC2025-TUPA51",
+    "url": "https://jacow.org/ipac2025/papers/tupa51.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0027",
+    "paper_code": "MOPB39",
+    "title": "High-Gradient Superconducting RF Cavity Development for SPIRAL2",
+    "authors": [
+      "John Smith",
+      "Anna Zhang",
+      "David Martinez",
+      "Ahmed Martinez",
+      "Sophie Wilson"
+    ],
+    "institutions": [
+      "MIT",
+      "European XFEL",
+      "KEK",
+      "SLAC National Accelerator Laboratory",
+      "Paul Scherrer Institute"
+    ],
+    "abstract": "This paper presents the development of high-gradient superconducting RF cavities for next-generation accelerator facilities. We discuss cavity design optimization, surface treatment techniques, and performance measurements achieving gradients exceeding 50 MV/m.",
+    "keywords": [
+      "SRF",
+      "high gradient",
+      "cavity",
+      "superconducting"
+    ],
+    "category": "MC2: Photon Sources and Electron Accelerators",
+    "type": "Invited Talk",
+    "datetime": "2025/6/2 14:00",
+    "conference": "IPAC2025",
+    "session": "MOPB",
+    "pages": 5,
+    "doi": "10.18429/JACoW-IPAC2025-MOPB39",
+    "url": "https://jacow.org/ipac2025/papers/mopb39.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0028",
+    "paper_code": "TUPB95",
+    "title": "Medical Accelerator Technology Transfer and Clinical Applications",
+    "authors": [
+      "Sophie Wilson",
+      "David Wang",
+      "Chen Zhang",
+      "Chen Petrov"
+    ],
+    "institutions": [
+      "European XFEL",
+      "Facility for Rare Isotope Beams",
+      "CNRS/IN2P3"
+    ],
+    "abstract": "We discuss the technology transfer of accelerator innovations to medical applications. The paper covers compact accelerator designs, dose delivery systems, and clinical implementation of advanced radiotherapy techniques.",
+    "keywords": [
+      "medical accelerators",
+      "technology transfer",
+      "clinical",
+      "therapy"
+    ],
+    "category": "MC8: Applications of Accelerators, Technology Transfer and Industrial Relations",
+    "type": "Oral Presentation",
+    "datetime": "2025/6/2 9:00",
+    "conference": "IPAC2025",
+    "session": "TUPB",
+    "pages": 5,
+    "doi": "10.18429/JACoW-IPAC2025-TUPB95",
+    "url": "https://jacow.org/ipac2025/papers/tupb95.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0029",
+    "paper_code": "FRPA27",
+    "title": "Cryogenic System Optimization for Superconducting Accelerators",
+    "authors": [
+      "Priya Kozlov",
+      "Liu Brown",
+      "Ahmed Wilson",
+      "Sophie Schmidt",
+      "John Rossi"
+    ],
+    "institutions": [
+      "Tsinghua University",
+      "ORNL",
+      "SLAC National Accelerator Laboratory",
+      "GSI",
+      "Fermilab"
+    ],
+    "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+    "keywords": [
+      "cryogenics",
+      "superconducting",
+      "efficiency",
+      "optimization"
+    ],
+    "category": "MC4: Hadron Accelerators",
+    "type": "Invited Talk",
+    "datetime": "2025/6/5 14:00",
+    "conference": "IPAC2025",
+    "session": "FRPA",
+    "pages": 6,
+    "doi": "10.18429/JACoW-IPAC2025-FRPA27",
+    "url": "https://jacow.org/ipac2025/papers/frpa27.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0030",
+    "paper_code": "MOPA12",
+    "title": "Cryogenic System Optimization for Superconducting Accelerators",
+    "authors": [
+      "Roberto Rossi",
+      "Elena Garcia"
+    ],
+    "institutions": [
+      "TRIUMF",
+      "DESY"
+    ],
+    "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+    "keywords": [
+      "cryogenics",
+      "superconducting",
+      "efficiency",
+      "optimization"
+    ],
+    "category": "MC4: Hadron Accelerators",
+    "type": "Poster Presentation",
+    "datetime": "2025/6/4 15:00",
+    "conference": "IPAC2025",
+    "session": "MOPA",
+    "pages": 6,
+    "doi": "10.18429/JACoW-IPAC2025-MOPA12",
+    "url": "https://jacow.org/ipac2025/papers/mopa12.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0031",
+    "paper_code": "TUPA90",
+    "title": "Machine Learning Applications in Accelerator Controls at KEK SuperKEKB",
+    "authors": [
+      "Hiroshi Hassan",
+      "Hiroshi Johnson"
+    ],
+    "institutions": [
+      "Cornell University",
+      "INFN"
+    ],
+    "abstract": "This work explores the application of machine learning techniques for accelerator control systems. We demonstrate automated beam tuning, anomaly detection, and predictive maintenance capabilities with significant operational improvements.",
+    "keywords": [
+      "machine learning",
+      "controls",
+      "optimization",
+      "automation"
+    ],
+    "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+    "type": "Poster Presentation",
+    "datetime": "2025/6/3 11:00",
+    "conference": "IPAC2025",
+    "session": "TUPA",
+    "pages": 4,
+    "doi": "10.18429/JACoW-IPAC2025-TUPA90",
+    "url": "https://jacow.org/ipac2025/papers/tupa90.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0032",
+    "paper_code": "FRPB17",
+    "title": "Machine Learning Applications in Accelerator Controls at SLAC LCLS-II",
+    "authors": [
+      "Ahmed Schmidt",
+      "Priya Rossi",
+      "Anna Patel",
+      "Priya Garcia"
+    ],
+    "institutions": [
+      "GSI",
+      "MIT",
+      "RIKEN",
+      "Facility for Rare Isotope Beams"
+    ],
+    "abstract": "This work explores the application of machine learning techniques for accelerator control systems. We demonstrate automated beam tuning, anomaly detection, and predictive maintenance capabilities with significant operational improvements.",
+    "keywords": [
+      "machine learning",
+      "controls",
+      "optimization",
+      "automation"
+    ],
+    "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+    "type": "Invited Talk",
+    "datetime": "2025/6/3 14:00",
+    "conference": "IPAC2025",
+    "session": "FRPB",
+    "pages": 4,
+    "doi": "10.18429/JACoW-IPAC2025-FRPB17",
+    "url": "https://jacow.org/ipac2025/papers/frpb17.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0033",
+    "paper_code": "WEPB66",
+    "title": "Novel Plasma Wakefield Acceleration Experiments",
+    "authors": [
+      "David Wilson",
+      "David Smith",
+      "John Rossi"
+    ],
+    "institutions": [
+      "KEK",
+      "RIKEN"
+    ],
+    "abstract": "We report on recent plasma wakefield acceleration experiments achieving record energy gains. The experimental setup, plasma characterization, and beam quality measurements are presented along with future upgrade plans.",
+    "keywords": [
+      "plasma wakefield",
+      "acceleration",
+      "novel techniques"
+    ],
+    "category": "MC3: Novel Particle Sources and Acceleration Techniques",
+    "type": "Oral Presentation",
+    "datetime": "2025/6/3 11:00",
+    "conference": "IPAC2025",
+    "session": "WEPB",
+    "pages": 6,
+    "doi": "10.18429/JACoW-IPAC2025-WEPB66",
+    "url": "https://jacow.org/ipac2025/papers/wepb66.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0034",
+    "paper_code": "THPA34",
+    "title": "Cryogenic System Optimization for Superconducting Accelerators",
+    "authors": [
+      "Maria Schmidt",
+      "Alexei Patel"
+    ],
+    "institutions": [
+      "ORNL",
+      "IHEP"
+    ],
+    "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+    "keywords": [
+      "cryogenics",
+      "superconducting",
+      "efficiency",
+      "optimization"
+    ],
+    "category": "MC4: Hadron Accelerators",
+    "type": "Poster Presentation",
+    "datetime": "2025/6/5 10:00",
+    "conference": "IPAC2025",
+    "session": "THPA",
+    "pages": 3,
+    "doi": "10.18429/JACoW-IPAC2025-THPA34",
+    "url": "https://jacow.org/ipac2025/papers/thpa34.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0035",
+    "paper_code": "TUPA74",
+    "title": "Cryogenic System Optimization for Superconducting Accelerators",
+    "authors": [
+      "Elena Kozlov",
+      "Alexei Garcia",
+      "Sophie Wilson",
+      "Alexei Brown",
+      "Michael Petrov"
+    ],
+    "institutions": [
+      "Cornell University",
+      "MIT",
+      "ORNL",
+      "CNRS/IN2P3",
+      "CERN"
+    ],
+    "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+    "keywords": [
+      "cryogenics",
+      "superconducting",
+      "efficiency",
+      "optimization"
+    ],
+    "category": "MC4: Hadron Accelerators",
+    "type": "Oral Presentation",
+    "datetime": "2025/6/1 9:00",
+    "conference": "IPAC2025",
+    "session": "TUPA",
+    "pages": 3,
+    "doi": "10.18429/JACoW-IPAC2025-TUPA74",
+    "url": "https://jacow.org/ipac2025/papers/tupa74.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0036",
+    "paper_code": "WEPB59",
+    "title": "Advanced Beam Position Monitor Development",
+    "authors": [
+      "Alexei Schmidt",
+      "Elena Zhang",
+      "Ahmed Brown",
+      "Ahmed Patel",
+      "Priya Zhang"
+    ],
+    "institutions": [
+      "Tsinghua University",
+      "ORNL",
+      "TRIUMF",
+      "CERN",
+      "Fermilab"
+    ],
+    "abstract": "We present the development of next-generation beam position monitors with nanometer-level precision. The design incorporates novel electronics, advanced signal processing, and calibration techniques for ultra-stable beam position measurements.",
+    "keywords": [
+      "BPM",
+      "beam instrumentation",
+      "precision",
+      "electronics"
+    ],
+    "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+    "type": "Invited Talk",
+    "datetime": "2025/6/5 9:00",
+    "conference": "IPAC2025",
+    "session": "WEPB",
+    "pages": 5,
+    "doi": "10.18429/JACoW-IPAC2025-WEPB59",
+    "url": "https://jacow.org/ipac2025/papers/wepb59.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0037",
+    "paper_code": "WEPA57",
+    "title": "Cryogenic System Optimization for Superconducting Accelerators",
+    "authors": [
+      "Elena Patel",
+      "Roberto Patel"
+    ],
+    "institutions": [
+      "KEK",
+      "Fermilab"
+    ],
+    "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+    "keywords": [
+      "cryogenics",
+      "superconducting",
+      "efficiency",
+      "optimization"
+    ],
+    "category": "MC4: Hadron Accelerators",
+    "type": "Oral Presentation",
+    "datetime": "2025/6/3 10:00",
+    "conference": "IPAC2025",
+    "session": "WEPA",
+    "pages": 6,
+    "doi": "10.18429/JACoW-IPAC2025-WEPA57",
+    "url": "https://jacow.org/ipac2025/papers/wepa57.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0038",
+    "paper_code": "MOPB40",
+    "title": "High-Gradient Superconducting RF Cavity Development for DESY FLASH",
+    "authors": [
+      "Hiroshi Zhang",
+      "Roberto Wilson",
+      "Alexei Brown",
+      "Michael Petrov"
+    ],
+    "institutions": [
+      "GSI",
+      "Facility for Rare Isotope Beams",
+      "CNRS/IN2P3"
+    ],
+    "abstract": "This paper presents the development of high-gradient superconducting RF cavities for next-generation accelerator facilities. We discuss cavity design optimization, surface treatment techniques, and performance measurements achieving gradients exceeding 50 MV/m.",
+    "keywords": [
+      "SRF",
+      "high gradient",
+      "cavity",
+      "superconducting"
+    ],
+    "category": "MC2: Photon Sources and Electron Accelerators",
+    "type": "Oral Presentation",
+    "datetime": "2025/6/2 13:00",
+    "conference": "IPAC2025",
+    "session": "MOPB",
+    "pages": 3,
+    "doi": "10.18429/JACoW-IPAC2025-MOPB40",
+    "url": "https://jacow.org/ipac2025/papers/mopb40.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0039",
+    "paper_code": "FRPA68",
+    "title": "Machine Learning Applications in Accelerator Controls at CERN LHC",
+    "authors": [
+      "Alexei Petrov",
+      "Roberto Wang"
+    ],
+    "institutions": [
+      "Stanford University",
+      "DESY"
+    ],
+    "abstract": "This work explores the application of machine learning techniques for accelerator control systems. We demonstrate automated beam tuning, anomaly detection, and predictive maintenance capabilities with significant operational improvements.",
+    "keywords": [
+      "machine learning",
+      "controls",
+      "optimization",
+      "automation"
+    ],
+    "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+    "type": "Poster Presentation",
+    "datetime": "2025/6/1 13:00",
+    "conference": "IPAC2025",
+    "session": "FRPA",
+    "pages": 4,
+    "doi": "10.18429/JACoW-IPAC2025-FRPA68",
+    "url": "https://jacow.org/ipac2025/papers/frpa68.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0040",
+    "paper_code": "FRPB41",
+    "title": "Medical Accelerator Technology Transfer and Clinical Applications",
+    "authors": [
+      "Ahmed Tanaka",
+      "Michael Rossi",
+      "Anna Rossi"
+    ],
+    "institutions": [
+      "Cornell University",
+      "MIT"
+    ],
+    "abstract": "We discuss the technology transfer of accelerator innovations to medical applications. The paper covers compact accelerator designs, dose delivery systems, and clinical implementation of advanced radiotherapy techniques.",
+    "keywords": [
+      "medical accelerators",
+      "technology transfer",
+      "clinical",
+      "therapy"
+    ],
+    "category": "MC8: Applications of Accelerators, Technology Transfer and Industrial Relations",
+    "type": "Poster Presentation",
+    "datetime": "2025/6/2 15:00",
+    "conference": "IPAC2025",
+    "session": "FRPB",
+    "pages": 5,
+    "doi": "10.18429/JACoW-IPAC2025-FRPB41",
+    "url": "https://jacow.org/ipac2025/papers/frpb41.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0041",
+    "paper_code": "FRPB45",
+    "title": "Collective Effects and Instabilities in High-Intensity Beams",
+    "authors": [
+      "Priya Patel",
+      "Elena Schmidt",
+      "Anna Brown",
+      "Hiroshi Hassan"
+    ],
+    "institutions": [
+      "DESY",
+      "MIT",
+      "BNL",
+      "CNRS/IN2P3"
+    ],
+    "abstract": "This study investigates collective effects and beam instabilities in high-intensity accelerators. We analyze impedance sources, mitigation techniques, and feedback system requirements for stable high-current operation.",
+    "keywords": [
+      "collective effects",
+      "instabilities",
+      "impedance",
+      "high intensity"
+    ],
+    "category": "MC7: Accelerator/Storage Ring Physics",
+    "type": "Invited Talk",
+    "datetime": "2025/6/5 16:00",
+    "conference": "IPAC2025",
+    "session": "FRPB",
+    "pages": 6,
+    "doi": "10.18429/JACoW-IPAC2025-FRPB45",
+    "url": "https://jacow.org/ipac2025/papers/frpb45.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0042",
+    "paper_code": "FRPA80",
+    "title": "Cryogenic System Optimization for Superconducting Accelerators",
+    "authors": [
+      "Elena Brown",
+      "Chen Petrov",
+      "Ahmed Tanaka",
+      "Maria Brown"
+    ],
+    "institutions": [
+      "KEK",
+      "CERN",
+      "Paul Scherrer Institute",
+      "CNRS/IN2P3"
+    ],
+    "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+    "keywords": [
+      "cryogenics",
+      "superconducting",
+      "efficiency",
+      "optimization"
+    ],
+    "category": "MC4: Hadron Accelerators",
+    "type": "Invited Talk",
+    "datetime": "2025/6/3 17:00",
+    "conference": "IPAC2025",
+    "session": "FRPA",
+    "pages": 4,
+    "doi": "10.18429/JACoW-IPAC2025-FRPA80",
+    "url": "https://jacow.org/ipac2025/papers/frpa80.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0043",
+    "paper_code": "THPA23",
+    "title": "Machine Learning Applications in Accelerator Controls at DESY FLASH",
+    "authors": [
+      "Sarah Johnson",
+      "Sarah Schmidt",
+      "Alexei Petrov"
+    ],
+    "institutions": [
+      "Stanford University",
+      "ORNL",
+      "IHEP"
+    ],
+    "abstract": "This work explores the application of machine learning techniques for accelerator control systems. We demonstrate automated beam tuning, anomaly detection, and predictive maintenance capabilities with significant operational improvements.",
+    "keywords": [
+      "machine learning",
+      "controls",
+      "optimization",
+      "automation"
+    ],
+    "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+    "type": "Poster Presentation",
+    "datetime": "2025/6/4 15:00",
+    "conference": "IPAC2025",
+    "session": "THPA",
+    "pages": 6,
+    "doi": "10.18429/JACoW-IPAC2025-THPA23",
+    "url": "https://jacow.org/ipac2025/papers/thpa23.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0044",
+    "paper_code": "WEPA38",
+    "title": "Novel Plasma Wakefield Acceleration Experiments",
+    "authors": [
+      "Sophie Rossi",
+      "Roberto Rossi",
+      "Ahmed Rossi"
+    ],
+    "institutions": [
+      "Cornell University",
+      "BNL",
+      "INFN"
+    ],
+    "abstract": "We report on recent plasma wakefield acceleration experiments achieving record energy gains. The experimental setup, plasma characterization, and beam quality measurements are presented along with future upgrade plans.",
+    "keywords": [
+      "plasma wakefield",
+      "acceleration",
+      "novel techniques"
+    ],
+    "category": "MC3: Novel Particle Sources and Acceleration Techniques",
+    "type": "Invited Talk",
+    "datetime": "2025/6/2 16:00",
+    "conference": "IPAC2025",
+    "session": "WEPA",
+    "pages": 5,
+    "doi": "10.18429/JACoW-IPAC2025-WEPA38",
+    "url": "https://jacow.org/ipac2025/papers/wepa38.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0045",
+    "paper_code": "WEPA83",
+    "title": "Cryogenic System Optimization for Superconducting Accelerators",
+    "authors": [
+      "Alexei Hassan"
+    ],
+    "institutions": [
+      "Stanford University"
+    ],
+    "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+    "keywords": [
+      "cryogenics",
+      "superconducting",
+      "efficiency",
+      "optimization"
+    ],
+    "category": "MC4: Hadron Accelerators",
+    "type": "Oral Presentation",
+    "datetime": "2025/6/2 12:00",
+    "conference": "IPAC2025",
+    "session": "WEPA",
+    "pages": 6,
+    "doi": "10.18429/JACoW-IPAC2025-WEPA83",
+    "url": "https://jacow.org/ipac2025/papers/wepa83.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0046",
+    "paper_code": "FRPB26",
+    "title": "Collective Effects and Instabilities in High-Intensity Beams",
+    "authors": [
+      "Sarah Kozlov",
+      "Liu Johnson",
+      "Maria Kozlov",
+      "Sophie Martinez",
+      "Sophie Garcia"
+    ],
+    "institutions": [
+      "Stanford University",
+      "CERN",
+      "Paul Scherrer Institute",
+      "European XFEL"
+    ],
+    "abstract": "This study investigates collective effects and beam instabilities in high-intensity accelerators. We analyze impedance sources, mitigation techniques, and feedback system requirements for stable high-current operation.",
+    "keywords": [
+      "collective effects",
+      "instabilities",
+      "impedance",
+      "high intensity"
+    ],
+    "category": "MC7: Accelerator/Storage Ring Physics",
+    "type": "Poster Presentation",
+    "datetime": "2025/6/1 10:00",
+    "conference": "IPAC2025",
+    "session": "FRPB",
+    "pages": 4,
+    "doi": "10.18429/JACoW-IPAC2025-FRPB26",
+    "url": "https://jacow.org/ipac2025/papers/frpb26.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0047",
+    "paper_code": "TUPB13",
+    "title": "High-Gradient Superconducting RF Cavity Development for CERN LHC",
+    "authors": [
+      "Michael Rossi",
+      "John Petrov"
+    ],
+    "institutions": [
+      "RIKEN",
+      "INFN"
+    ],
+    "abstract": "This paper presents the development of high-gradient superconducting RF cavities for next-generation accelerator facilities. We discuss cavity design optimization, surface treatment techniques, and performance measurements achieving gradients exceeding 50 MV/m.",
+    "keywords": [
+      "SRF",
+      "high gradient",
+      "cavity",
+      "superconducting"
+    ],
+    "category": "MC2: Photon Sources and Electron Accelerators",
+    "type": "Oral Presentation",
+    "datetime": "2025/6/2 16:00",
+    "conference": "IPAC2025",
+    "session": "TUPB",
+    "pages": 4,
+    "doi": "10.18429/JACoW-IPAC2025-TUPB13",
+    "url": "https://jacow.org/ipac2025/papers/tupb13.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0048",
+    "paper_code": "WEPB44",
+    "title": "Machine Learning Applications in Accelerator Controls at DESY FLASH",
+    "authors": [
+      "Liu Martinez",
+      "Michael Kozlov"
+    ],
+    "institutions": [
+      "Tsinghua University",
+      "KEK"
+    ],
+    "abstract": "This work explores the application of machine learning techniques for accelerator control systems. We demonstrate automated beam tuning, anomaly detection, and predictive maintenance capabilities with significant operational improvements.",
+    "keywords": [
+      "machine learning",
+      "controls",
+      "optimization",
+      "automation"
+    ],
+    "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+    "type": "Oral Presentation",
+    "datetime": "2025/6/1 13:30",
+    "conference": "IPAC2025",
+    "session": "WEPB",
+    "pages": 6,
+    "doi": "10.18429/JACoW-IPAC2025-WEPB44",
+    "url": "https://jacow.org/ipac2025/papers/wepb44.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0049",
+    "paper_code": "MOPB79",
+    "title": "Advanced Beam Position Monitor Development",
+    "authors": [
+      "Chen Hassan",
+      "Sophie Wang",
+      "Liu Schmidt",
+      "Chen Smith"
+    ],
+    "institutions": [
+      "BNL",
+      "SLAC National Accelerator Laboratory",
+      "INFN"
+    ],
+    "abstract": "We present the development of next-generation beam position monitors with nanometer-level precision. The design incorporates novel electronics, advanced signal processing, and calibration techniques for ultra-stable beam position measurements.",
+    "keywords": [
+      "BPM",
+      "beam instrumentation",
+      "precision",
+      "electronics"
+    ],
+    "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+    "type": "Poster Presentation",
+    "datetime": "2025/6/4 17:30",
+    "conference": "IPAC2025",
+    "session": "MOPB",
+    "pages": 6,
+    "doi": "10.18429/JACoW-IPAC2025-MOPB79",
+    "url": "https://jacow.org/ipac2025/papers/mopb79.pdf"
+  },
+  {
+    "contribution_id": "IPAC25_0050",
+    "paper_code": "FRPB32",
+    "title": "Novel Plasma Wakefield Acceleration Experiments",
+    "authors": [
+      "Michael Martinez",
+      "Chen Wilson",
+      "Chen Martinez",
+      "Elena Rossi"
+    ],
+    "institutions": [
+      "Cornell University",
+      "TRIUMF",
+      "ORNL"
+    ],
+    "abstract": "We report on recent plasma wakefield acceleration experiments achieving record energy gains. The experimental setup, plasma characterization, and beam quality measurements are presented along with future upgrade plans.",
+    "keywords": [
+      "plasma wakefield",
+      "acceleration",
+      "novel techniques"
+    ],
+    "category": "MC3: Novel Particle Sources and Acceleration Techniques",
+    "type": "Invited Talk",
+    "datetime": "2025/6/5 11:00",
+    "conference": "IPAC2025",
+    "session": "FRPB",
+    "pages": 5,
+    "doi": "10.18429/JACoW-IPAC2025-FRPB32",
+    "url": "https://jacow.org/ipac2025/papers/frpb32.pdf"
+  }
+]

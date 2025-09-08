@@ -8,66 +8,66 @@
 [![Python Version](https://img.shields.io/pypi/pyversions/srf-conference-insights?style=for-the-badge&logo=python)](https://pypi.org/project/srf-conference-insights/)
 [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/iuming/SRF_Conference_Insights/deploy.yml?style=for-the-badge&logo=github-actions)](https://github.com/iuming/SRF_Conference_Insights/actions)
 
-**🎯 AI驱动的超导射频会议论文智能分析平台**
+**🎯 AI-Powered Superconducting RF Conference Paper Analysis Platform**
 
-*将科研论文分析提升到新高度 - 从PDF到洞察，仅需一键*
+*Elevating research paper analysis to new heights - From PDF to insights, just one click*
 
-[🌟 在线演示](https://iuming.github.io/SRF_Conference_Insights/) | [📖 文档](https://github.com/iuming/SRF_Conference_Insights/wiki) | [🚀 快速开始](#-快速开始) | [💬 社区讨论](https://github.com/iuming/SRF_Conference_Insights/discussions)
+[🌟 Live Demo](https://iuming.github.io/SRF_Conference_Insights/) | [📖 Documentation](https://github.com/iuming/SRF_Conference_Insights/wiki) | [🚀 Quick Start](#-quick-start) | [💬 Community](https://github.com/iuming/SRF_Conference_Insights/discussions)
 
 ![SRF Conference Insights Demo](https://raw.githubusercontent.com/iuming/SRF_Conference_Insights/main/docs/images/demo-preview.gif)
 
 </div>
 
-## 🎯 项目概述
+## 🎯 Project Overview
 
-> **突破性的科研工具** - SRF Conference Insights 利用先进的AI技术，为超导射频 (SRF) 领域研究者提供前所未有的论文分析体验。
+> **Revolutionary Research Tool** - SRF Conference Insights leverages advanced AI technology to provide an unprecedented paper analysis experience for Superconducting Radio Frequency (SRF) field researchers.
 
-🔬 **专为科研而生** - 专门设计用于处理和分析超导射频领域会议论文的智能系统  
-⚡ **AI增强分析** - 自动提取、处理和可视化来自 IPAC、HIAT 等主要加速器物理会议的论文数据  
-🌐 **零配置部署** - 一键部署到GitHub Pages，立即获得强大的Web分析平台
+🔬 **Built for Research** - Specifically designed intelligent system for processing and analyzing superconducting RF conference papers  
+⚡ **AI-Enhanced Analysis** - Automatically extract, process and visualize paper data from major accelerator physics conferences like IPAC, HIAT  
+🌐 **Zero-Config Deployment** - One-click deployment to GitHub Pages for instant powerful web analysis platform
 
-## ✨ 核心特色
+## ✨ Core Features
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 智能PDF分析
-- **AI驱动提取** - 99%+准确率的文本和图像提取
-- **语义理解** - 自动识别论文结构和关键概念
-- **多语言支持** - 支持中英文等多种语言论文
+### 🧠 Intelligent PDF Analysis
+- **AI-Driven Extraction** - 99%+ accuracy text and image extraction
+- **Semantic Understanding** - Automatic paper structure and key concept recognition
+- **Multi-language Support** - Support for English, Chinese and other languages
 
-### 🔍 高级搜索引擎
-- **全文语义搜索** - 基于内容理解的智能搜索
-- **实时过滤** - 按机构、主题、技术关键词动态过滤
-- **相关性排序** - AI算法优化搜索结果排序
+### 🔍 Advanced Search Engine
+- **Full-text Semantic Search** - Content-understanding based intelligent search
+- **Real-time Filtering** - Dynamic filtering by institution, topic, technical keywords
+- **Relevance Ranking** - AI algorithm optimized search result ranking
 
 </td>
 <td width="50%">
 
-### 📊 数据可视化大师
-- **交互式图表** - Chart.js驱动的动态可视化
-- **统计分析** - 深度挖掘论文数据价值
-- **趋势洞察** - 发现研究领域发展趋势
+### 📊 Data Visualization Master
+- **Interactive Charts** - Chart.js powered dynamic visualization
+- **Statistical Analysis** - Deep mining of paper data value
+- **Trend Insights** - Discover research field development trends
 
-### � 零配置部署
-- **GitHub Actions** - 全自动CI/CD流水线
-- **响应式设计** - 完美适配桌面端和移动端
-- **高性能** - 优化的前端架构，秒级响应
+### 🚀 Zero-Config Deployment
+- **GitHub Actions** - Fully automated CI/CD pipeline
+- **Responsive Design** - Perfect adaptation for desktop and mobile
+- **High Performance** - Optimized frontend architecture, sub-second response
 
 </td>
 </tr>
 </table>
 
-### 🏆 项目亮点
+### 🏆 Project Highlights
 
-- 🎨 **现代化UI设计** - 遵循Material Design原则，提供优雅的用户体验
-- ⚡ **极速性能** - 优化的算法确保大数据集下的流畅操作
-- 🔧 **高度可扩展** - 插件化架构，轻松添加新会议支持
-- 📱 **移动优先** - PWA技术，支持离线使用
-- 🌍 **国际化** - 多语言界面，服务全球研究社区
+- 🎨 **Modern UI Design** - Following Material Design principles for elegant user experience
+- ⚡ **Lightning Performance** - Optimized algorithms ensure smooth operation with large datasets
+- 🔧 **Highly Scalable** - Plugin architecture for easy addition of new conference support
+- 📱 **Mobile-First** - PWA technology supporting offline usage
+- 🌍 **Internationalization** - Multi-language interface serving global research community
 
-## 🌟 社区认可
+## 🌟 Community Recognition
 
 <div align="center">
 
@@ -75,229 +75,236 @@
 ![GitHub forks](https://img.shields.io/github/forks/iuming/SRF_Conference_Insights?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/iuming/SRF_Conference_Insights?style=social)
 
-**🎯 被全球超过50+研究机构使用**  
-**📚 已处理10,000+篇科研论文**  
-**🌐 支持15+种语言**
+**🎯 Used by 50+ research institutions worldwide**  
+**📚 Processed 10,000+ scientific papers**  
+**🌐 Support for 15+ languages**
 
-*"这个工具彻底改变了我们的文献调研方式！" - CERN研究员*  
-*"处理速度和准确性都令人印象深刻。" - 清华大学教授*  
-*"界面设计非常直观，学生们都很喜欢。" - MIT讲师*
+*"This tool completely revolutionized our literature research approach!" - CERN Researcher*  
+*"Processing speed and accuracy are both impressive." - Tsinghua University Professor*  
+*"Interface design is very intuitive, students love it." - MIT Lecturer*
 
 </div>
 
-## 🎯 使用案例
+## 🎯 Use Cases
 
-### 🔬 科研机构
-- **CERN** - 用于ATLAS实验数据分析
-- **DESY** - 欧洲X射线自由电子激光项目
-- **KEK** - 日本高能加速器研究机构
+### 🔬 Research Institutions
+- **CERN** - Used for ATLAS experiment data analysis
+- **DESY** - European X-ray Free Electron Laser project
+- **KEK** - Japan High Energy Accelerator Research Organization
 
-### 🏫 教育机构  
-- **清华大学** - 物理系研究生课程
-- **MIT** - 加速器物理实验室
+### 🏫 Educational Institutions  
+- **Tsinghua University** - Physics department graduate courses
+- **MIT** - Accelerator Physics Laboratory
 - **CERN Summer Student Program**
 
-### 🏢 工业应用
-- **医疗设备制造** - 质子治疗系统开发
-- **新能源研究** - 聚变能源技术
-- **量子计算** - 超导量子比特研究
+### 🏢 Industrial Applications
+- **Medical Equipment Manufacturing** - Proton therapy system development
+- **New Energy Research** - Fusion energy technology
+- **Quantum Computing** - Superconducting qubit research
 
-## 🚀 快速开始
+## 🚀 Quick Start
 
-### ⚡ 3分钟体验
+### ⚡ 3-Minute Experience
 
 ```bash
-# 1️⃣ 克隆项目
+# 1️⃣ Clone the project
 git clone https://github.com/iuming/SRF_Conference_Insights.git
 cd SRF_Conference_Insights
 
-# 2️⃣ 安装依赖  
+# 2️⃣ Install dependencies  
 pip install -e .
 
-# 3️⃣ 启动服务
-python scripts/dev_server.py
+# 3️⃣ Start service
+python srf_conference_insights_cli.py --help
 
-# 🌐 打开浏览器访问 http://localhost:8000
+# 🌐 Open browser and visit the docs/index.html
 ```
 
-### 🐳 Docker一键启动
+### 🐳 Docker One-Click Start
 
 ```bash
 docker run -p 8000:8000 iuming/srf-conference-insights:latest
 ```
 
-### 📦 PyPI安装
+### 📦 PyPI Installation
 
 ```bash
 pip install srf-conference-insights
 ```
 
-## 💡 核心亮点
+## 💡 Core Highlights
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-### 🧠 AI智能分析
+### 🧠 AI Intelligent Analysis
 ![AI Analysis](https://img.shields.io/badge/AI-Powered-brightgreen?style=for-the-badge&logo=robot)
 
-**99%+ 准确率**的PDF提取  
-**毫秒级响应**的语义搜索  
-**智能推荐**相关论文
+**99%+ Accuracy** PDF extraction  
+**Millisecond Response** semantic search  
+**Smart Recommendation** related papers
 
 </td>
 <td align="center" width="33%">
 
-### 📊 可视化大师
+### 📊 Visualization Master
 ![Visualization](https://img.shields.io/badge/Charts-Interactive-blue?style=for-the-badge&logo=chartdotjs)
 
-**动态图表**实时更新  
-**多维度分析**深度洞察  
-**一键导出**专业报告
+**Dynamic Charts** real-time updates  
+**Multi-dimensional Analysis** deep insights  
+**One-click Export** professional reports
 
 </td>
 <td align="center" width="33%">
 
-### 🚀 零配置部署
+### 🚀 Zero-Config Deployment
 ![Deploy](https://img.shields.io/badge/Deploy-OneClick-orange?style=for-the-badge&logo=github)
 
-**GitHub Actions**自动化  
-**Docker容器**开箱即用  
-**PWA应用**离线可用
+**GitHub Actions** automation  
+**Docker Container** ready to use  
+**PWA Application** offline capable
 
 </td>
 </tr>
 </table>
 
-## 🌟 为什么选择我们？
+## 🌟 Why Choose Us?
 
 <div align="center">
 
-### 🏆 行业领先的技术栈
+### 🏆 Industry-Leading Tech Stack
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Latest-green?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue?style=flat-square&logo=docker)](https://docker.com)
 [![GitHub Actions](https://img.shields.io/badge/CI%2FCD-Automated-orange?style=flat-square&logo=github-actions)](https://github.com/features/actions)
 
-### 📈 令人印象深刻的数据
+### 📈 Impressive Metrics
 
-| 指标 | 数值 | 说明 |
-|------|------|------|
-| 🚀 **处理速度** | 2.3秒/文件 | 8页论文平均处理时间 |
-| 🎯 **提取准确率** | 99.2% | 文本提取准确度 |
-| ⚡ **搜索速度** | <100ms | 10,000篇论文搜索响应 |
-| 🌐 **全球用户** | 50+ 机构 | 遍布六大洲的研究团队 |
-| 📚 **论文数量** | 10,000+ | 已成功处理的论文总数 |
-| 🔧 **系统可用性** | 99.9% | 过去12个月平均可用时间 |
+| Metric | Value | Description |
+|--------|-------|-------------|
+| 🚀 **Processing Speed** | 2.3s/file | Average processing time for 8-page paper |
+| 🎯 **Extraction Accuracy** | 99.2% | Text extraction accuracy rate |
+| ⚡ **Search Speed** | <100ms | 10,000 papers search response time |
+| 🌐 **Global Users** | 50+ institutions | Research teams across six continents |
+| 📚 **Paper Count** | 10,000+ | Total papers successfully processed |
+| 🔧 **System Availability** | 99.9% | Average uptime over past 12 months |
 
 </div>
 
-## 🎯 真实用户评价
+## 🎯 Real User Reviews
 
 <div align="center">
 
-> *"这个工具彻底改变了我们团队的文献调研方式，效率提升了300%！"*  
-> **— Dr. Chen, CERN 高级研究员**
+> *"This tool completely revolutionized our team's literature research approach, efficiency increased by 300%!"*  
+> **— Dr. Chen, CERN Senior Researcher**
 
-> *"界面设计非常直观，学生们都能快速上手使用。"*  
-> **— Prof. Johnson, MIT 教授**
+> *"Interface design is very intuitive, students can quickly get started."*  
+> **— Prof. Johnson, MIT Professor**
 
-> *"处理大规模论文数据的速度和准确性都令人印象深刻。"*  
-> **— Dr. Yamamoto, KEK 研究所**
+> *"Processing speed and accuracy for large-scale paper data are both impressive."*  
+> **— Dr. Yamamoto, KEK Institute**
 
-⭐⭐⭐⭐⭐ **4.9/5.0** - 基于200+用户评价
+⭐⭐⭐⭐⭐ **4.9/5.0** - Based on 200+ user reviews
 
 </div>
 
-## 🔧 核心组件
+## 🔧 Core Components
 
-### PDF 处理器
-- `pdf_extractor.py`: 主要的 PDF 内容提取器
-- `pdf_splitter.py`: PDF 分页处理工具
-- `pdf_splitter_simple.py`: 简化版分页工具
+### Real Data Crawlers
+- `conferences/IPAC2025/improved_real_crawler.py`: Advanced web crawler for IPAC2025
+- `conferences/IPAC2025/analyze_real_data.py`: Data analysis and statistics generator
+- `conferences/HIAT2025/hiat2025_extractor.py`: HIAT2025 conference data extractor
 
-### 会议处理器
-- `conference_manager.py`: 会议数据管理器
-- `aggregate_conferences.py`: 多会议数据聚合
-- `validate_schema.py`: 数据格式验证
+### Web Interface
+- `docs/index.html`: Main interactive web interface
+- `docs/app-simple.js`: Frontend application logic with search and filtering
+- `docs/data/`: JSON data files with paper metadata
 
-### Web 界面
-- `docs/index.html`: 主要的展示界面
-- `docs/app-simple.js`: 前端交互逻辑
-- `scripts/dev_server.py`: 开发服务器
+### Command Line Tools
+- `srf_conference_insights_cli.py`: Command-line interface for all operations
+- `verify_data.py`: Data integrity verification and backup script
 
-## 📊 支持的会议
+## 📊 Supported Conferences
 
-- **IPAC2025**: International Particle Accelerator Conference 2025
+- **IPAC2025**: International Particle Accelerator Conference 2025 (1,438 real papers)
 - **HIAT2025**: High Intensity and High Brightness Hadron Beams 2025
-- 可扩展支持更多会议
+- **Extensible**: Framework ready for additional conferences
 
-## 🌐 在线演示
+## 🌐 Live Demo
 
-项目通过 GitHub Pages 自动部署：
-- **在线地址**: https://iuming.github.io/SRF_Conference_Insights/
-- **自动更新**: 每次推送到 main 分支后自动部署
+The project is automatically deployed via GitHub Pages:
+- **Live URL**: https://iuming.github.io/SRF_Conference_Insights/
+- **Auto-Update**: Automatically deployed after every push to main branch
 
-## 📈 数据流程
+## 📈 Data Pipeline
 
-1. **数据收集**: 从会议网站获取论文 PDF
-2. **内容提取**: 提取文本、图像、元数据
-3. **数据处理**: 清理和结构化数据
-4. **聚合分析**: 多会议数据统一处理
-5. **Web 展示**: 通过交互界面展示结果
+1. **Data Collection**: Extract papers from conference websites
+2. **Content Extraction**: Extract text, images, metadata from PDFs
+3. **Data Processing**: Clean and structure the extracted data
+4. **Aggregation Analysis**: Unified processing of multi-conference data
+5. **Web Presentation**: Display results through interactive interface
 
-## 🛠️ 开发指南
+## 🛠️ Development Guide
 
-### 添加新会议支持
+### Adding New Conference Support
 
-1. 在 `conferences/` 下创建新会议目录
-2. 实现会议特定的提取器
-3. 更新 `conference_schema.json`
-4. 在聚合器中注册新会议
+1. Create new conference directory under `conferences/`
+2. Implement conference-specific extractor
+3. Update `conferences/conference_schema.json`
+4. Register new conference in aggregation system
 
-### 自定义处理逻辑
+### Custom Processing Logic
 
 ```python
 from conferences.common.base_extractor import BaseExtractor
 
 class MyConferenceExtractor(BaseExtractor):
     def extract_papers(self):
-        # 实现特定的提取逻辑
+        # Implement specific extraction logic
         pass
 ```
 
-## 📋 配置文件
+## 📋 Configuration Files
 
-- `config.json`: 主要配置文件
-- `conferences/conference_schema.json`: 数据格式定义
+- `pyproject.toml`: Main project configuration and dependencies
+- `requirements.txt`: Python package requirements
+- `conferences/conference_schema.json`: Data format definitions
 
-## 🚧 项目状态
+## 🚧 Project Status
 
-查看以下文件了解项目当前状态：
-- `PROJECT_STATUS.md`: 整体项目状态
-- `CONFERENCE_STATUS.md`: 各会议处理状态
-- `DEPLOYMENT.md`: 部署相关信息
+Check the following files for current project status:
+- `API.md`: Comprehensive API documentation
+- `SECURITY.md`: Security policies and vulnerability reporting
+- `CONTRIBUTING.md`: Contribution guidelines and development setup
 
-## 🤝 贡献指南
+## 🤝 Contributing
 
-1. Fork 本仓库
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 打开 Pull Request
+1. Fork this repository
+2. Create feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-## 📄 许可证
+## 📄 License
 
-本项目使用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 联系方式
+## 📞 Contact
 
-如有问题或建议，请通过以下方式联系：
-- 创建 Issue
-- 发起 Discussion
-- 提交 Pull Request
+For questions or suggestions, please contact us through:
+- GitHub Issues
+- GitHub Discussions
+- Pull Requests
+- Email: mliu@ihep.ac.cn
 
-## 🙏 致谢
+## 🙏 Acknowledgments
 
-感谢超导射频社区和相关会议组织者提供的宝贵数据和资源。
+Special thanks to the superconducting RF community and conference organizers for providing valuable data and resources.
+
+---
+
+**Author**: Ming Liu <mliu@ihep.ac.cn>  
+**Institution**: Institute of High Energy Physics, Chinese Academy of Sciences  
+**Project**: SRF Conference Insights - AI-Powered Conference Paper Analysis Platform

@@ -1,21 +1,33 @@
 # SRF Conference Insights - Python Dependencies
+# 
+# This file specifies all Python packages required for the SRF Conference Insights project.
+# Install all dependencies using: pip install -r requirements.txt
+#
+# Author: Ming Liu <mliu@ihep.ac.cn>
+# Project: SRF Conference Insights
+# Institution: Institute of High Energy Physics, Chinese Academy of Sciences
 
-# Core data processing
-pandas>=1.5.0
-openpyxl>=3.0.0
+# Core data processing and analysis
+pandas>=1.5.0          # Data manipulation and analysis
+openpyxl>=3.0.0         # Excel file processing
 
-# PDF processing
-PyMuPDF>=1.20.0
+# PDF document processing
+PyMuPDF>=1.20.0         # PDF parsing and text extraction
 
-# Image processing
-Pillow>=9.0.0
+# Image processing and computer vision
+Pillow>=9.0.0           # Image manipulation and processing
 
-# Web scraping and HTTP requests
-requests>=2.28.0
-beautifulsoup4>=4.11.0
+# Web scraping and HTTP communications
+requests>=2.28.0        # HTTP library for web requests
+beautifulsoup4>=4.11.0  # HTML/XML parsing for web scraping
 
-# JSON schema validation
-jsonschema>=4.0.0
+# Data validation and schema enforcement
+jsonschema>=4.0.0       # JSON schema validation
 
-# Development and testing (optional)
-pytest>=7.0.0
+# Development tools and testing (optional)
+pytest>=7.0.0           # Unit testing framework
+
+# Optional: Enhanced features
+# numpy>=1.21.0         # Numerical computing (if needed)
+# matplotlib>=3.5.0     # Data visualization (if needed)
+# seaborn>=0.11.0       # Statistical data visualization (if needed)

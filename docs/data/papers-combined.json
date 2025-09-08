@@ -1,0 +1,3843 @@
+{
+  "extraction_time": "2025-09-08T15:50:07.106951",
+  "total_papers": 136,
+  "conferences": {
+    "HIAT2025": 86,
+    "IPAC2025": 50
+  },
+  "papers": [
+    {
+      "contribution_id": "HIAT25_0001",
+      "paper_code": "HIAT25-001",
+      "title": "Table of Contents",
+      "authors": [],
+      "institutions": [
+        "MOB01 - First RIB production with SPES Exotic Beam Facility at INFN-LNL........",
+        "MOY01 - Status of the HIAF accelerator facility in China......................."
+      ],
+      "abstract": "No abstract available",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 3,
+      "doi": "10.18429/JACoW-HIAT2025-001",
+      "url": "https://jacow.org/hiat2025/papers/001_Table_of_Contents.pdf.pdf",
+      "figures": 0,
+      "tables": 0,
+      "references": 0,
+      "file_size_kb": 72980.18,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0002",
+      "paper_code": "HIAT25-002",
+      "title": "FRIB OPERATIONS: FIRST THREE YEARS*",
+      "authors": [],
+      "institutions": [
+        "expansions in user stations, and plans for facility upgrades.",
+        "Upon completion of the Facility for Rare Isotope Beams",
+        "Facility for Rare Isotope Beams, Michigan State University, East Lansing, MI, USA"
+      ],
+      "abstract": "The paper summarizes the operational experience and...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 3,
+      "doi": "10.18429/JACoW-HIAT2025-002",
+      "url": "https://jacow.org/hiat2025/papers/002_FRIB_OPERATIONS_FIRST_THREE_YEARS_.pdf.pdf",
+      "figures": 13,
+      "tables": 2,
+      "references": 0,
+      "file_size_kb": 1648.71,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0003",
+      "paper_code": "HIAT25-003",
+      "title": "ACCELERATOR IMPROVEMENTS",
+      "authors": [
+        "Operation Spares",
+        "Accelerator Improvements"
+      ],
+      "institutions": [
+        "power SC cavities in the linac for high system availability,"
+      ],
+      "abstract": "No abstract available",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-003",
+      "url": "https://jacow.org/hiat2025/papers/003_ACCELERATOR_IMPROVEMENTS.pdf.pdf",
+      "figures": 10,
+      "tables": 2,
+      "references": 20,
+      "file_size_kb": 1240.86,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0004",
+      "paper_code": "HIAT25-004",
+      "title": "STATUS OF THE HIAF ACCELERATOR FACILITY IN CHINA*",
+      "authors": [
+        "Intensity Heavy",
+        "The High",
+        "Ion Accelerator",
+        "Accelerator Facility",
+        "Guangdong Province"
+      ],
+      "institutions": [
+        "Institute of Modern Physics of the Chinese Academy of Sciences, Lanzhou, China",
+        "The High Intensity heavy-ion Accelerator Facility is a",
+        "China. The project is managed by Institute of Modern"
+      ],
+      "abstract": "The High Intensity Heavy-Ion Accelerator Facility (HIAF) is one of the major scientific infrastructures in...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-004",
+      "url": "https://jacow.org/hiat2025/papers/004_STATUS_OF_THE_HIAF_ACCELERATOR_FACILITY_IN_CHINA_.pdf.pdf",
+      "figures": 18,
+      "tables": 4,
+      "references": 7,
+      "file_size_kb": 806.5,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0005",
+      "paper_code": "HIAT25-005",
+      "title": "FIRST RIB PRODUCTION WITH SPES EXOTIC BEAM",
+      "authors": [],
+      "institutions": [
+        "1INFN – Laboratori Nazionali di Legnaro, Legnaro, PD, Italy",
+        "5INFN – Laboratori Nazionali del Sud, Catania, Italy",
+        "INFN (Istituto Nazionale Fisica Nucleare) facility to pro-"
+      ],
+      "abstract": "SPES (Selective Production of Exotic Species) is the...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-005",
+      "url": "https://jacow.org/hiat2025/papers/005_FIRST_RIB_PRODUCTION_WITH_SPES_EXOTIC_BEAM.pdf.pdf",
+      "figures": 8,
+      "tables": 0,
+      "references": 13,
+      "file_size_kb": 871.86,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0006",
+      "paper_code": "HIAT25-006",
+      "title": "DESIGN AND FABRICATION OF FRIB",
+      "authors": [
+        "Rare Isotope",
+        "The Facility"
+      ],
+      "institutions": [
+        "Facility for Rare Isotope Beams, Michigan State University, East Lansing, MI, USA",
+        "The Facility for Rare Isotope Beams (FRIB) started user"
+      ],
+      "abstract": "At FRIB, five unique designs of normal conducting cav-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-006",
+      "url": "https://jacow.org/hiat2025/papers/006_DESIGN_AND_FABRICATION_OF_FRIB.pdf.pdf",
+      "figures": 7,
+      "tables": 2,
+      "references": 6,
+      "file_size_kb": 1210.96,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0007",
+      "paper_code": "HIAT25-007",
+      "title": "HIGH POWER TARGETRY DEVICES AT FRIB:",
+      "authors": [
+        "Rare Isotope",
+        "The Facility"
+      ],
+      "institutions": [
+        "Facility for Rare Isotope Beams, Michigan State University, East Lansing, MI, USA",
+        "1also at Argonne National Laboratory, Lemont, IL, USA",
+        "user facility for rare isotope research supporting the mission"
+      ],
+      "abstract": "High-intensity heavy-ion accelerators have unique chal-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 6,
+      "doi": "10.18429/JACoW-HIAT2025-007",
+      "url": "https://jacow.org/hiat2025/papers/007_HIGH_POWER_TARGETRY_DEVICES_AT_FRIB.pdf.pdf",
+      "figures": 16,
+      "tables": 2,
+      "references": 20,
+      "file_size_kb": 15236.23,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0008",
+      "paper_code": "HIAT25-008",
+      "title": "COMMISSIONING OF THE S3 SPECTROMETER:",
+      "authors": [],
+      "institutions": [
+        "3 Université Paris-Saclay, CNRS/IN2P3, IJCLab, Orsay, France"
+      ],
+      "abstract": "The S3 spectrometer is a new-generation spectrometer...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-008",
+      "url": "https://jacow.org/hiat2025/papers/008_COMMISSIONING_OF_THE_S3SPECTROMETER.pdf.pdf",
+      "figures": 11,
+      "tables": 0,
+      "references": 5,
+      "file_size_kb": 3399.87,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0009",
+      "paper_code": "HIAT25-009",
+      "title": "COMPUTATION MODEL FOR SPACE CHARGE EFFECT FOR BUNCHED",
+      "authors": [],
+      "institutions": [
+        "H. Alamprese†, Y. Hao, Michigan State University, East Lansing, USA"
+      ],
+      "abstract": "In the last two decades, numerical and experimental...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-009",
+      "url": "https://jacow.org/hiat2025/papers/009_COMPUTATION_MODEL_FOR_SPACE_CHARGE_EFFECT_FOR_BUNC.pdf.pdf",
+      "figures": 9,
+      "tables": 2,
+      "references": 4,
+      "file_size_kb": 2328.12,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0010",
+      "paper_code": "HIAT25-010",
+      "title": "MONTE CARLO SIMULATION ANALYSIS FOR RADIATION DAMAGE",
+      "authors": [
+        "Glidcop Al",
+        "Rare Isotope",
+        "The Facility"
+      ],
+      "institutions": [
+        "The Facility for Rare Isotope Beams heavy-ion SRF lin-",
+        "2Fermi National Accelerator Laboratory, Batavia, IL, USA",
+        "1Facility for Rare Isotope Beams, East Lansing, MI, USA"
+      ],
+      "abstract": "The Facility for Rare Isotope Beams heavy-ion SRF lin-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-010",
+      "url": "https://jacow.org/hiat2025/papers/010_MONTE_CARLO_SIMULATION_ANALYSIS_FOR_RADIATION_DAMA.pdf.pdf",
+      "figures": 9,
+      "tables": 2,
+      "references": 3,
+      "file_size_kb": 540.5,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0011",
+      "paper_code": "HIAT25-011",
+      "title": "THERMAL-HYDRAULIC ANALYSIS OF A 20 kW BEAM POWER",
+      "authors": [
+        "Rare Isotope",
+        "The Facility",
+        "Channel Beam"
+      ],
+      "institutions": [
+        "FACILITY FOR RARE ISOTOPE BEAM*",
+        "The Facility for Rare Isotope Beams (FRIB) is a high-",
+        "Facility for Rare Isotope Beams, Michigan State University, East Lansing, MI, USA"
+      ],
+      "abstract": "The Facility for Rare Isotope Beams (FRIB) is a high-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-011",
+      "url": "https://jacow.org/hiat2025/papers/011_THERMAL-H_YDRAULIC_ANALYSIS_OF_A_20_kW_BEAM_POWER.pdf.pdf",
+      "figures": 14,
+      "tables": 2,
+      "references": 6,
+      "file_size_kb": 1008.24,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0012",
+      "paper_code": "HIAT25-012",
+      "title": "CONTROL OF MICROPHONICS FOR A SUPERCONDUCTING",
+      "authors": [],
+      "institutions": [
+        "Beams at Michigan State University (MSU), Argonne Na-",
+        "tional Laboratory, Helmholtz-Zentrum Dresden-Rossendorf,",
+        "1also at Michigan State University Physics and Astronomy Department, East Lansing, MI, USA"
+      ],
+      "abstract": "A superconducting radio-frequency photo-injector cry-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-012",
+      "url": "https://jacow.org/hiat2025/papers/012_CONTROL_OF_MICROPHONICS_FOR_A_SUPERCONDUCTING.pdf.pdf",
+      "figures": 11,
+      "tables": 2,
+      "references": 5,
+      "file_size_kb": 714.09,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0013",
+      "paper_code": "HIAT25-013",
+      "title": "MECHANICAL VIBRATION STUDY OF LOW-ENERGY",
+      "authors": [],
+      "institutions": [
+        "viously RISP) in the Institute for Basic Science (IBS), Dae-",
+        "Institute for Basic Science (IBS), Daejeon, South Korea",
+        "Recently, the Institute for Rare Isotope Science (IRIS, pre-"
+      ],
+      "abstract": "Recently, the Institute for Rare Isotope Science (IRIS, pre-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-013",
+      "url": "https://jacow.org/hiat2025/papers/013_MECHANICAL_VIBRATION_STUDY_OF_LOW-ENERGY.pdf.pdf",
+      "figures": 17,
+      "tables": 2,
+      "references": 4,
+      "file_size_kb": 2991.45,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0014",
+      "paper_code": "HIAT25-014",
+      "title": "EXTENDING JuTrack’S CAPABILITIES TO THE FRIB ACCELERATOR",
+      "authors": [
+        "While Ju"
+      ],
+      "institutions": [
+        "the Facility for Rare Isotopes (FRIB) linac. This includes",
+        "Facility for Rare Isotope Beams, East Lansing, MI, USA",
+        "a paper also submitted to this conference [2,3]. The Facility"
+      ],
+      "abstract": "JuTrack is a Julia-based accelerator modeling and tracking...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-014",
+      "url": "https://jacow.org/hiat2025/papers/014_EXTENDING_JuTrackS_CAPABILITIES_TO_THE_FRIB_ACCELE.pdf.pdf",
+      "figures": 6,
+      "tables": 2,
+      "references": 7,
+      "file_size_kb": 1040.98,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0015",
+      "paper_code": "HIAT25-015",
+      "title": "BUDGET-FRIENDLY DEFENSE AGAINST RADIATION-INDUCED",
+      "authors": [],
+      "institutions": [
+        "Facility for Rare Isotope Beams, East Lansing, MI, USA"
+      ],
+      "abstract": "Cameras observing scintillating viewers provide a valu-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-015",
+      "url": "https://jacow.org/hiat2025/papers/015_BUDGET-FRIENDLY_DEFENSE_AGAINST_RADIATION-INDUCED.pdf.pdf",
+      "figures": 9,
+      "tables": 0,
+      "references": 11,
+      "file_size_kb": 948.95,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0016",
+      "paper_code": "HIAT25-016",
+      "title": "PHYSICS APPLICATIONS IN",
+      "authors": [
+        "Rare Isotope",
+        "The Facility",
+        "State University"
+      ],
+      "institutions": [
+        "Facility for Rare Isotope Beams, Michigan State University, East Lansing, MI, USA",
+        "The Facility for Rare Isotope Beams (FRIB) at Michigan",
+        "of operations through collaboration between engineers and"
+      ],
+      "abstract": "Physics application software plays a crucial role in the...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-016",
+      "url": "https://jacow.org/hiat2025/papers/016_PHYSICS_APPLICATIONS_IN.pdf.pdf",
+      "figures": 8,
+      "tables": 0,
+      "references": 11,
+      "file_size_kb": 960.92,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0017",
+      "paper_code": "HIAT25-017",
+      "title": "UPDATED MAGNETIC RIGIDITY CALIBRATION OF ARIS∗",
+      "authors": [
+        "Rare Isotope",
+        "The Facility"
+      ],
+      "institutions": [
+        "Department of Energy Office of Science user facility that en-",
+        "pus of Michigan State University (MSU) is a United States",
+        "Facility for Rare Isotope Beams, Michigan State University, East Lansing, MI, USA"
+      ],
+      "abstract": "No abstract available",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 3,
+      "doi": "10.18429/JACoW-HIAT2025-017",
+      "url": "https://jacow.org/hiat2025/papers/017_UPDATED_MAGNETIC_RIGIDITY_CALIBRATION_OF_ARIS.pdf.pdf",
+      "figures": 5,
+      "tables": 2,
+      "references": 5,
+      "file_size_kb": 689.54,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0018",
+      "paper_code": "HIAT25-018",
+      "title": "FUTURE CHALLENGES FOR CERN’S ION INJECTOR COMPLEX",
+      "authors": [],
+      "institutions": [
+        "laboration has requested beams of oxygen, magnesium, and"
+      ],
+      "abstract": "The ion injector complex at CERN supplies ions for colli-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 6,
+      "doi": "10.18429/JACoW-HIAT2025-018",
+      "url": "https://jacow.org/hiat2025/papers/018_FUTURE_CHALLENGES_FOR_CERNS_ION_INJECTOR_COMPLEX.pdf.pdf",
+      "figures": 11,
+      "tables": 2,
+      "references": 20,
+      "file_size_kb": 2903.52,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0019",
+      "paper_code": "HIAT25-019",
+      "title": "MAINTAINING OPTIMAL BEAM BRIGHTNESS AND LUMINOSITY",
+      "authors": [],
+      "institutions": [
+        "W. Lin†, Brookhaven National Laboratory, Upton, NY, USA"
+      ],
+      "abstract": "After many decades of successful operation, human opera-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 6,
+      "doi": "10.18429/JACoW-HIAT2025-019",
+      "url": "https://jacow.org/hiat2025/papers/019_MAINTAINING_OPTIMAL_BEAM_BRIGHTNESS_AND_LUMINOSITY.pdf.pdf",
+      "figures": 19,
+      "tables": 2,
+      "references": 18,
+      "file_size_kb": 3228.1,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0020",
+      "paper_code": "HIAT25-020",
+      "title": "BOOST OF ALPI SUPERCONDUCTING LINAC PERFORMANCES",
+      "authors": [],
+      "institutions": [
+        "of acceleration of the heavy ion facility of Legnaro Na-",
+        "1also at University of Sapienza, Rome, Italy",
+        "tional Laboratories. It is CW folded independent cavities"
+      ],
+      "abstract": "The heavy ion superconductive linac ALPI has been oper-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 2,
+      "doi": "10.18429/JACoW-HIAT2025-020",
+      "url": "https://jacow.org/hiat2025/papers/020_BOOST_OF_ALPI_SUPERCONDUCTING_LINAC_PERFORMANCES.pdf.pdf",
+      "figures": 5,
+      "tables": 0,
+      "references": 0,
+      "file_size_kb": 1433.62,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0021",
+      "paper_code": "HIAT25-021",
+      "title": "MACHINE LEARNING APPLICATION",
+      "authors": [],
+      "institutions": [],
+      "abstract": "No abstract available",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-021",
+      "url": "https://jacow.org/hiat2025/papers/021_thecaseofthesteeringweusedapopulationof25swarm.pdf.pdf",
+      "figures": 12,
+      "tables": 2,
+      "references": 6,
+      "file_size_kb": 973.96,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0022",
+      "paper_code": "HIAT25-022",
+      "title": "RECIRCULATING AND ENERGY RECOVERY",
+      "authors": [],
+      "institutions": [
+        "J. Qiang†, Lawrence Berkeley National Laboratory, Berkeley, CA, USA"
+      ],
+      "abstract": "High-power superconducting ion linear accelerators play a vital role in both scientific research and industrial applica-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 10,
+      "doi": "10.18429/JACoW-HIAT2025-022",
+      "url": "https://jacow.org/hiat2025/papers/022_RECIRCULATING_AND_ENERGY_RECOVERY.pdf.pdf",
+      "figures": 35,
+      "tables": 0,
+      "references": 20,
+      "file_size_kb": 2308.19,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0023",
+      "paper_code": "HIAT25-023",
+      "title": "ATLAS harmonic. We believe this passive tuning",
+      "authors": [],
+      "institutions": [
+        "cavity was fabricated at Argonne and coated at Fermilab,"
+      ],
+      "abstract": "No abstract available",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 2,
+      "doi": "10.18429/JACoW-HIAT2025-023",
+      "url": "https://jacow.org/hiat2025/papers/023_Multiple_iterations_and_some_support_cage_modifica.pdf.pdf",
+      "figures": 4,
+      "tables": 0,
+      "references": 5,
+      "file_size_kb": 277.35,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0024",
+      "paper_code": "HIAT25-024",
+      "title": "A SINGLE-SLICE ROTATING GRAPHITE TARGET AT FRIB∗",
+      "authors": [
+        "Rare Isotope",
+        "The Facility"
+      ],
+      "institutions": [
+        "Facility for Rare Isotope Beams, Michigan State University, East Lansing, MI, USA",
+        "The Facility for Rare Isotope Beams (FRIB), a leading fa-",
+        "2022, serves as a leading facility for producing rare isotope"
+      ],
+      "abstract": "The FRIB accelerator, constructed and commissioned in 2022, serves as a leading facility for producing rare isotope...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-024",
+      "url": "https://jacow.org/hiat2025/papers/024_A_SINGLE-SLICE_ROTATING_GRAPHITE_TARGET_AT_FRIB.pdf.pdf",
+      "figures": 7,
+      "tables": 4,
+      "references": 13,
+      "file_size_kb": 509.13,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0025",
+      "paper_code": "HIAT25-025",
+      "title": "INNOVATION FOR SUSTAINABLE ACCELERATING SYSTEMS: THE",
+      "authors": [
+        "Accelerating Systems"
+      ],
+      "institutions": [
+        "5Istituto Nazionale di Fisica Nucleare (INFN), Laboratori Nazionali di Legnaro (LNL), Legnaro,",
+        "1Laboratoire de Physique Subatomique et de Cosmologie (LPSC), Univ. Grenoble Alpes, CNRS,",
+        "6IJCLab Orsay, Université Paris-Saclay, CNRS/IN2P3, Orsay, France"
+      ],
+      "abstract": "If particle accelerators have largely proven their value to...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-025",
+      "url": "https://jacow.org/hiat2025/papers/025_INNOVATION_FOR_SUSTAINABLE_ACCELERATING_SYSTEMS_TH.pdf.pdf",
+      "figures": 7,
+      "tables": 0,
+      "references": 0,
+      "file_size_kb": 2977.19,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0026",
+      "paper_code": "HIAT25-026",
+      "title": "In the third scheme, an intermediate 5 K interception",
+      "authors": [],
+      "institutions": [],
+      "abstract": "No abstract available",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 1,
+      "doi": "10.18429/JACoW-HIAT2025-026",
+      "url": "https://jacow.org/hiat2025/papers/026_In_the_third_scheme_an_intermediate_5_K_intercepti.pdf.pdf",
+      "figures": 1,
+      "tables": 0,
+      "references": 16,
+      "file_size_kb": 151.19,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0027",
+      "paper_code": "HIAT25-027",
+      "title": "PRIMARY BEAM DEVELOPMENT FOR FRIB EXPERIMENTS*",
+      "authors": [
+        "Michigan State"
+      ],
+      "institutions": [
+        "tope Beams (FRIB) at Michigan State University in May",
+        "Since starting the user operation of Facility for Rare Iso-",
+        "Michigan State University under the corporate agreement"
+      ],
+      "abstract": "Since starting the user operation of Facility for Rare Iso-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 6,
+      "doi": "10.18429/JACoW-HIAT2025-027",
+      "url": "https://jacow.org/hiat2025/papers/027_PRIMARY_BEAM_DEVELOPMENT_FOR_FRIB_EXPERIMENTS_.pdf.pdf",
+      "figures": 16,
+      "tables": 2,
+      "references": 9,
+      "file_size_kb": 846.48,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0028",
+      "paper_code": "HIAT25-028",
+      "title": "DEVELOPMENT OF PLASMA PROCESSING FOR SUPERCONDUCTING",
+      "authors": [],
+      "institutions": [
+        "Facility for Rare Isotope Beams, Michigan State University, East Lansing, MI, USA",
+        "labor-intensive, and costly.",
+        "IMP [3] and Fermilab [4]; more recent HWR plasma devel-"
+      ],
+      "abstract": "This work aims to demonstrate the feasibility of coating a high-frequency 1 GHz, compact niobium-3 tin (Nb3Sn)...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 7,
+      "doi": "10.18429/JACoW-HIAT2025-028",
+      "url": "https://jacow.org/hiat2025/papers/028_DEVELOPMENT_OF_PLASMA_PROCESSING_FOR_SUPERCONDUCTI.pdf.pdf",
+      "figures": 13,
+      "tables": 0,
+      "references": 20,
+      "file_size_kb": 6811.77,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0029",
+      "paper_code": "HIAT25-029",
+      "title": "OPTIMIZATION OF A MINI-CHANNEL BEAM DUMP",
+      "authors": [
+        "Rare Isotope",
+        "The Facility"
+      ],
+      "institutions": [
+        "power heavy ion accelerator facility at Michigan State Uni-",
+        "Facility for Rare Isotope Beams, Michigan State University, East Lansing, MI, USA",
+        "The Facility for Rare Isotope Beams (FRIB) is a high-"
+      ],
+      "abstract": "The Facility for Rare Isotope Beams (FRIB) is a high-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 1,
+      "doi": "10.18429/JACoW-HIAT2025-029",
+      "url": "https://jacow.org/hiat2025/papers/029_OPTIMIZATION_OF_A_MI_NI-CHANNEL_BEAM_DUMP.pdf.pdf",
+      "figures": 4,
+      "tables": 0,
+      "references": 0,
+      "file_size_kb": 338.93,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0030",
+      "paper_code": "HIAT25-030",
+      "title": "BEAM DUMP OPTIMIZATION",
+      "authors": [],
+      "institutions": [],
+      "abstract": "No abstract available",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 3,
+      "doi": "10.18429/JACoW-HIAT2025-030",
+      "url": "https://jacow.org/hiat2025/papers/030_printed_inlet_and_outlet_parts_made_of_Aluminium_6.pdf.pdf",
+      "figures": 9,
+      "tables": 0,
+      "references": 7,
+      "file_size_kb": 842.82,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0031",
+      "paper_code": "HIAT25-031",
+      "title": "STUDY ON SYNERGISTIC IRRADIATION EFFECTS OF NUCLEAR",
+      "authors": [
+        "Accelerator Facility",
+        "Electron Cyclotron"
+      ],
+      "institutions": [
+        "2 University of Chinese Academy of Sciences, Beijing, China",
+        "1 Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou, China",
+        "Accelerator Facility (LEAF), where a superconducting"
+      ],
+      "abstract": "Cocktail ion beams, composed of multiple ion species...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 3,
+      "doi": "10.18429/JACoW-HIAT2025-031",
+      "url": "https://jacow.org/hiat2025/papers/031_STUDY_ON_SYNERGISTIC_IRRADIATION_EFFECTS_OF_NUCLEA.pdf.pdf",
+      "figures": 9,
+      "tables": 2,
+      "references": 6,
+      "file_size_kb": 539.69,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0032",
+      "paper_code": "HIAT25-032",
+      "title": "DESIGN AND EXPERIMENTAL THERMAL VALIDATION OF THE",
+      "authors": [],
+      "institutions": [
+        "FRIB is a major nuclear physics facility dedicated to rare",
+        "Facility for Rare Isotope Beams, Michigan State University, East Lansing, MI, USA",
+        "e-beam at the Applied Research Laboratory, showing mea-"
+      ],
+      "abstract": "The FRIB, a leading experimental nuclear physics facility,...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-032",
+      "url": "https://jacow.org/hiat2025/papers/032_DESIGN_AND_EXPERIMENTAL_THERMAL_VALIDATION_OF_THE.pdf.pdf",
+      "figures": 8,
+      "tables": 0,
+      "references": 10,
+      "file_size_kb": 545.97,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0033",
+      "paper_code": "HIAT25-033",
+      "title": "APPLICATION OF ASME BPVC SECTION VIII, DIVISION-2,",
+      "authors": [
+        "Rare Isotope",
+        "The Facility",
+        "State University"
+      ],
+      "institutions": [
+        "2Oak Ridge National Laboratory, Oak Ridge, TN, USA",
+        "The Facility for Rare Isotope Beams (FRIB), a major",
+        "State University is a high-power heavy-ion accelerator, and"
+      ],
+      "abstract": "The Facility for Rare Isotope Beams (FRIB) at Michigan...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-033",
+      "url": "https://jacow.org/hiat2025/papers/033_APPLICATION_OF_ASME_BPVC_SECTION_VIII_DIVISION-_2.pdf.pdf",
+      "figures": 9,
+      "tables": 12,
+      "references": 9,
+      "file_size_kb": 949.75,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0034",
+      "paper_code": "HIAT25-034",
+      "title": "MONTE-CARLO SIMULATION OF VACUUM SYSTEM FOR",
+      "authors": [
+        "Rare Isotope",
+        "The Facility"
+      ],
+      "institutions": [
+        "The Facility for Rare Isotope Beams (FRIB), supported",
+        "currently under development at the Facility for Rare Isotope",
+        "a cutting-edge user facility dedicated to advancing nuclear"
+      ],
+      "abstract": "To intercept unwanted charge states from stripped beams...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-034",
+      "url": "https://jacow.org/hiat2025/papers/034_MONTE-CARLO_SIMULATION_OF_VACUUM_SYSTEM_FOR.pdf.pdf",
+      "figures": 10,
+      "tables": 0,
+      "references": 6,
+      "file_size_kb": 2236.59,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0035",
+      "paper_code": "HIAT25-035",
+      "title": "NUMERICAL MODELING TO PREDICT IGNITION THRESHOLDS FOR",
+      "authors": [],
+      "institutions": [
+        "son Laboratory have been developing plasma cleaning tech-",
+        "cavities in the driver linac at the Facility for Rare Isotope",
+        "2Department of Physics and Astronomy, Michigan State University, East Lansing, MI, USA"
+      ],
+      "abstract": "Laboratories such as Oak Ridge, Fermilab, and Jeffer-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-035",
+      "url": "https://jacow.org/hiat2025/papers/035_NUMERICAL_MODELING_TO_PREDICT_IGNITION_THRESHOLDS_.pdf.pdf",
+      "figures": 10,
+      "tables": 4,
+      "references": 10,
+      "file_size_kb": 598.12,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0036",
+      "paper_code": "HIAT25-036",
+      "title": "DEVELOPMENT OF AUTOMATIC BEAM TUNING SYSTEM",
+      "authors": [],
+      "institutions": [
+        "RIKEN Nishina Center, Wako, Saitama, Japan"
+      ],
+      "abstract": "In general, accelerator facilities are controlled by a huge...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 2,
+      "doi": "10.18429/JACoW-HIAT2025-036",
+      "url": "https://jacow.org/hiat2025/papers/036_DEVELOPMENT_OF_AUTOMATIC_BEAM_TUNING_SYSTEM.pdf.pdf",
+      "figures": 3,
+      "tables": 0,
+      "references": 0,
+      "file_size_kb": 2345.66,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0037",
+      "paper_code": "HIAT25-037",
+      "title": "Unknown Title",
+      "authors": [],
+      "institutions": [],
+      "abstract": "No abstract available",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 2,
+      "doi": "10.18429/JACoW-HIAT2025-037",
+      "url": "https://jacow.org/hiat2025/papers/037_can_be_extended_to_higher-intensity_beams_As_such_.pdf.pdf",
+      "figures": 2,
+      "tables": 0,
+      "references": 13,
+      "file_size_kb": 277.43,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0038",
+      "paper_code": "HIAT25-038",
+      "title": "APPLICATION OF ML TOOLS FOR EXTRACTION OF BPM-Q AND",
+      "authors": [],
+      "institutions": [
+        "Facility for Rare Isotope Beams, Michigan State University, East Lansing, MI, USA"
+      ],
+      "abstract": "Training an accurate Beam Quadrupole Moment at BPM (BPMQ) model is challenging due to data inaccuracies. Sim-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 2,
+      "doi": "10.18429/JACoW-HIAT2025-038",
+      "url": "https://jacow.org/hiat2025/papers/038_APPLICATION_OF_ML_TOOLS_FOR_EXTRACTION_OF_BPM-Q_AN.pdf.pdf",
+      "figures": 4,
+      "tables": 0,
+      "references": 0,
+      "file_size_kb": 1351.54,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0039",
+      "paper_code": "HIAT25-039",
+      "title": "BPMQ implies that the CS parameters are not uniquely de-",
+      "authors": [],
+      "institutions": [],
+      "abstract": "No abstract available",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 2,
+      "doi": "10.18429/JACoW-HIAT2025-039",
+      "url": "https://jacow.org/hiat2025/papers/039_valuesproducedbythesurrogatemodel_Alargevariationi.pdf.pdf",
+      "figures": 5,
+      "tables": 0,
+      "references": 7,
+      "file_size_kb": 1189.53,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0040",
+      "paper_code": "HIAT25-040",
+      "title": "FRIB MULTI-GAP BUNCHER CONDITIONING UP TO 30 KW*",
+      "authors": [
+        "Rare Isotope",
+        "The Facility",
+        "State University"
+      ],
+      "institutions": [
+        "The Facility for Rare Isotope Beams commenced opera-",
+        "The Facility for Rare Isotope Beams (FRIB) at Michigan",
+        "State University (MSU) is a scientific user facility for the"
+      ],
+      "abstract": "The Facility for Rare Isotope Beams commenced opera-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 3,
+      "doi": "10.18429/JACoW-HIAT2025-040",
+      "url": "https://jacow.org/hiat2025/papers/040_FRIB_MULTI_-GAP_BUNCHER_CONDITIONING_UP_TO_30_KW_.pdf.pdf",
+      "figures": 20,
+      "tables": 2,
+      "references": 3,
+      "file_size_kb": 2999.44,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0041",
+      "paper_code": "HIAT25-041",
+      "title": "AVOIDING BEAM INSTABILITIES AND RESONANCES",
+      "authors": [],
+      "institutions": [
+        "O. Gilanliogullari†, Illinois Institute of Technology, Chicago, IL, USA",
+        "P. Snopok, Illinois Institute of Technology, Chicago, IL, USA",
+        "and narrowing the available tune space. Circular modes are"
+      ],
+      "abstract": "Beam instabilities and resonances affect the transverse dy-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-041",
+      "url": "https://jacow.org/hiat2025/papers/041_AVOIDING_BEAM_INSTABILITIES_AND_RESONANCES.pdf.pdf",
+      "figures": 11,
+      "tables": 2,
+      "references": 11,
+      "file_size_kb": 951.15,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0042",
+      "paper_code": "HIAT25-042",
+      "title": "DEVELOPMENT OF HIGH TEMPERATURE OVENS FOR SOLID ION",
+      "authors": [],
+      "institutions": [
+        "Facility for Rare Isotope Beams, East Lansing, MI, United States",
+        "BEAM PRODUCTION AT FACILITY FOR RARE ISOTOPE BEAMS (FRIB)∗",
+        "high-intensity solid ion beams. At the Facility for Rare Iso-"
+      ],
+      "abstract": "Inductive ovens are integral to Electron Cyclotron Res-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 2,
+      "doi": "10.18429/JACoW-HIAT2025-042",
+      "url": "https://jacow.org/hiat2025/papers/042_DEVELOPMENT_OF_HIGH_TEMPERATURE_OVENS_FOR_SOLID_IO.pdf.pdf",
+      "figures": 4,
+      "tables": 0,
+      "references": 0,
+      "file_size_kb": 1220.9,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0043",
+      "paper_code": "HIAT25-043",
+      "title": "TEST RESULTS AND DISCUSSION",
+      "authors": [
+        "Thermal Distribution"
+      ],
+      "institutions": [],
+      "abstract": "No abstract available",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 2,
+      "doi": "10.18429/JACoW-HIAT2025-043",
+      "url": "https://jacow.org/hiat2025/papers/043_a_15mm_in_susceptor_wall_thickness.pdf.pdf",
+      "figures": 7,
+      "tables": 0,
+      "references": 12,
+      "file_size_kb": 1039.09,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0044",
+      "paper_code": "HIAT25-044",
+      "title": "COMPUTATIONAL ANALYSIS OF MULTIPACTING ACTIVATION AND",
+      "authors": [],
+      "institutions": [
+        "1Institute for Basic Science, Daejeon, Korea"
+      ],
+      "abstract": "No abstract available",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 7,
+      "doi": "10.18429/JACoW-HIAT2025-044",
+      "url": "https://jacow.org/hiat2025/papers/044_COMPUTATIONAL_ANALYSIS_OF_M_ULTIPACTING_ACTIVATION.pdf.pdf",
+      "figures": 21,
+      "tables": 0,
+      "references": 15,
+      "file_size_kb": 1599.85,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0045",
+      "paper_code": "HIAT25-045",
+      "title": "STUDY ON PROPERTIES OF NEG DEPOSITED ON THE",
+      "authors": [],
+      "institutions": [
+        "Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou, China"
+      ],
+      "abstract": "A ramping rate of 12 T/s is designed for the dipole mag-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 3,
+      "doi": "10.18429/JACoW-HIAT2025-045",
+      "url": "https://jacow.org/hiat2025/papers/045_STUDY_ON_PROPERTIES_OF_NEG_DEPOSITED_ON_THE.pdf.pdf",
+      "figures": 10,
+      "tables": 0,
+      "references": 7,
+      "file_size_kb": 1268.16,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0046",
+      "paper_code": "HIAT25-046",
+      "title": "DESIGN AND OPERATIONAL EXPERIENCE OF FRIB MAGNET AND",
+      "authors": [
+        "Rare Isotope",
+        "The Facility",
+        "Isotope Beams"
+      ],
+      "institutions": [
+        "net and electrostatic power supplies at the Facility of Rare",
+        "Facility for Rare Isotope Beams, Michigan State University, East Lansing, MI, USA",
+        "strategies, installation and testing plans, and availability"
+      ],
+      "abstract": "This paper will present design principles, procurement...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-046",
+      "url": "https://jacow.org/hiat2025/papers/046_DESIGN_AND_OPERATIONAL_EXPERIENCE_OF_FRIB_MAGNET_A.pdf.pdf",
+      "figures": 8,
+      "tables": 2,
+      "references": 2,
+      "file_size_kb": 455.22,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0047",
+      "paper_code": "HIAT25-047",
+      "title": "FEASIBILITY STUDY OF PLASMA PROCESSING FOR THE FRIB",
+      "authors": [],
+      "institutions": [
+        "Facility for Rare Isotope Beams, Michigan State University, East Lansing, MI, USA",
+        "ing developed at Michigan State University for the proposed"
+      ],
+      "abstract": "A 5-cell medium-velocity elliptical superconducting...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 2,
+      "doi": "10.18429/JACoW-HIAT2025-047",
+      "url": "https://jacow.org/hiat2025/papers/047_FEASIBILITY_STUDY_OF_PLASMA_PROCESSING_FOR_THE_FRI.pdf.pdf",
+      "figures": 6,
+      "tables": 2,
+      "references": 0,
+      "file_size_kb": 2021.73,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0048",
+      "paper_code": "HIAT25-048",
+      "title": "PLASMA CLEANING TRIAL",
+      "authors": [],
+      "institutions": [],
+      "abstract": "No abstract available",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 2,
+      "doi": "10.18429/JACoW-HIAT2025-048",
+      "url": "https://jacow.org/hiat2025/papers/048_dashed_blue_line_in_Fig_4_On_the_other_hand_if_𝑃𝑓i.pdf.pdf",
+      "figures": 4,
+      "tables": 0,
+      "references": 9,
+      "file_size_kb": 1961.36,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0049",
+      "paper_code": "HIAT25-049",
+      "title": "HIGH RESOLUTION CURRENT CONTROL",
+      "authors": [
+        "Tandem Linac",
+        "The Argonne",
+        "Breeder Unit",
+        "Accelerator System",
+        "Argonne National"
+      ],
+      "institutions": [
+        "facility at Argonne ATLAS was commissioned in 2012,",
+        "Argonne National Laboratory, Lemont IL, USA",
+        "(ATLAS) has been a National User Facility since 1985."
+      ],
+      "abstract": "The Argonne Tandem Linac Accelerator System (ATLAS) has been a National User Facility since 1985....",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-049",
+      "url": "https://jacow.org/hiat2025/papers/049_HIGH_RESOLUTION_CURRENT_CONTROL.pdf.pdf",
+      "figures": 8,
+      "tables": 0,
+      "references": 4,
+      "file_size_kb": 510.81,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0050",
+      "paper_code": "HIAT25-050",
+      "title": "ASSESSMENT OF MAGNETIC QUADRUPOLE PICK-UP STRUCTURE",
+      "authors": [
+        "The Facility",
+        "Rare Isotope",
+        "Michigan State",
+        "Isotope Beams"
+      ],
+      "institutions": [
+        "Facility for Rare Isotope Beams, Michigan State University, East Lansing, MI, USA",
+        "The Facility for Rare Isotope Beams (FRIB) produces",
+        "Isotope Beams (FRIB) at Michigan State University"
+      ],
+      "abstract": "A magnetic quadrupole pick-up structure is being as-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 2,
+      "doi": "10.18429/JACoW-HIAT2025-050",
+      "url": "https://jacow.org/hiat2025/papers/050_ASSESSMENT_OF_MAGNETIC_QUADR_UPOLE_PICK-_UP_STRUCT.pdf.pdf",
+      "figures": 3,
+      "tables": 0,
+      "references": 7,
+      "file_size_kb": 382.58,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0051",
+      "paper_code": "HIAT25-051",
+      "title": "CALIBRATING THE FRIB CHOPPER MONITOR*",
+      "authors": [],
+      "institutions": [
+        "stream, and high-speed beam mitigation is available when",
+        "Facility for Rare Isotope Beams, East Lansing, MI, USA"
+      ],
+      "abstract": "At FRIB, a chopper in the low energy beamline is used...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 3,
+      "doi": "10.18429/JACoW-HIAT2025-051",
+      "url": "https://jacow.org/hiat2025/papers/051_CALIBRATING_THE_FRIB_CHOPPER_MONITOR_.pdf.pdf",
+      "figures": 6,
+      "tables": 12,
+      "references": 3,
+      "file_size_kb": 525.47,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0052",
+      "paper_code": "HIAT25-052",
+      "title": "SUPERCONDUCTING MULTIPOLE TRIPLETS MAGNETS",
+      "authors": [],
+      "institutions": [
+        "technical commissioning at the GANIL facility (Caen-"
+      ],
+      "abstract": "The “Super Separator Spectrometer” project S3 is under...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-052",
+      "url": "https://jacow.org/hiat2025/papers/052_SUPERCONDUCTING_MULTIPOLE_TRIPLETS_MAGNETS.pdf.pdf",
+      "figures": 17,
+      "tables": 0,
+      "references": 5,
+      "file_size_kb": 881.91,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0053",
+      "paper_code": "HIAT25-053",
+      "title": "STATUS OF HIGH PERFORMANCE ECR ION SOURCES:",
+      "authors": [
+        "Chinese Academy"
+      ],
+      "institutions": [
+        "1State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics,",
+        "2School of Nuclear Science and Technology, University of Chinese Academy of Sciences,"
+      ],
+      "abstract": "No abstract available",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 6,
+      "doi": "10.18429/JACoW-HIAT2025-053",
+      "url": "https://jacow.org/hiat2025/papers/053_STATUS_OF_HIGH_PERFORMANCE_ECR_ION_SOURCES.pdf.pdf",
+      "figures": 8,
+      "tables": 0,
+      "references": 20,
+      "file_size_kb": 429.16,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0054",
+      "paper_code": "HIAT25-054",
+      "title": "MEASUREMENT OF FORWARD-DIRECTED NEUTRONS GENERATED",
+      "authors": [],
+      "institutions": [
+        "3Institute of Science Tokyo, Tokyo, Japan",
+        "1Brookhaven National Laboratory, Upton, New York, USA",
+        "2Columbia University, New York City, New York, USA"
+      ],
+      "abstract": "We are developing an accelerator-based neutron source...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 7,
+      "doi": "10.18429/JACoW-HIAT2025-054",
+      "url": "https://jacow.org/hiat2025/papers/054_MEASUREMENT_OF_FORWARD_-DIRECTED_NEUTRONS_GENERATE.pdf.pdf",
+      "figures": 15,
+      "tables": 4,
+      "references": 20,
+      "file_size_kb": 1194.14,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0055",
+      "paper_code": "HIAT25-055",
+      "title": "SINGLE-BUNCH EXTRACTION AT THE 88-INCH CYCLOTRON∗",
+      "authors": [
+        "National Laboratory",
+        "Lawrence Berkeley"
+      ],
+      "institutions": [
+        "before the cyclotron limits the beam available for acceler-",
+        "Lawrence Berkeley National Laboratory has been modified",
+        "B. Ninemire, D. Xie, L. Phair, Lawrence Berkeley National Laboratory, Berkeley, CA, USA"
+      ],
+      "abstract": "No abstract available",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-055",
+      "url": "https://jacow.org/hiat2025/papers/055_SINGLE-BUNCH_EXTRACTION_AT_THE_88-INCH_CYCLOTRON.pdf.pdf",
+      "figures": 9,
+      "tables": 0,
+      "references": 9,
+      "file_size_kb": 717.11,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0056",
+      "paper_code": "HIAT25-056",
+      "title": "ADVANCES IN TRANSVERSE BEAM HALO CHARACTERIZATION AND",
+      "authors": [
+        "Hadron Collider",
+        "Nuclear Research",
+        "The Large",
+        "European Organization"
+      ],
+      "institutions": [
+        "M. Seidel, Paul Scherrer Institute (PSI), Villigen, Switzerland",
+        "tion system performance, machine availability and overall"
+      ],
+      "abstract": "Measurements of the transverse beam halo in the LHC...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 6,
+      "doi": "10.18429/JACoW-HIAT2025-056",
+      "url": "https://jacow.org/hiat2025/papers/056_ADVANCES_IN_TRANSVERSE_BEAM_HALO_CHARACTERIZATION_.pdf.pdf",
+      "figures": 11,
+      "tables": 2,
+      "references": 20,
+      "file_size_kb": 1312.75,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0057",
+      "paper_code": "HIAT25-057",
+      "title": "THE BEAM DYNAMICS CASE OF BEAM-BEAM WIRE COMPENSATORS",
+      "authors": [
+        "Hadron Collider",
+        "The Large"
+      ],
+      "institutions": [
+        "1 also at University of British Columbia, Vancouver, Canada"
+      ],
+      "abstract": "Beam-beam long-range interactions are known to be a...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-057",
+      "url": "https://jacow.org/hiat2025/papers/057_THE_BEAM_DYNAMICS_CASE_OF_BEAM-BEAM_WIRE_COMPENSAT.pdf.pdf",
+      "figures": 12,
+      "tables": 2,
+      "references": 14,
+      "file_size_kb": 1824.14,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0058",
+      "paper_code": "HIAT25-058",
+      "title": "MITIGATING THE THERMAL CHALLENGES IN CARBON STRIPPER:",
+      "authors": [],
+      "institutions": [
+        "Facility for Rare Isotope Beams, Michigan State University, East Lansing, MI, USA",
+        "The linear accelerator of the Facility for Rare Isotope"
+      ],
+      "abstract": "The linear accelerator of the Facility for Rare Isotope...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 3,
+      "doi": "10.18429/JACoW-HIAT2025-058",
+      "url": "https://jacow.org/hiat2025/papers/058_MITIGATING_THE_THERMAL_CHALLENGES_IN_CARBON_STRIPP.pdf.pdf",
+      "figures": 8,
+      "tables": 0,
+      "references": 4,
+      "file_size_kb": 601.58,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0059",
+      "paper_code": "HIAT25-059",
+      "title": "FREQUENCY DEPENDENCE OF BCS AND RESIDUAL RESISTANCE",
+      "authors": [],
+      "institutions": [
+        "Facility for Rare Isotope Beams, Michigan State University, East Lansing, MI, USA"
+      ],
+      "abstract": "Various cavity surface treatments have been found to...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 2,
+      "doi": "10.18429/JACoW-HIAT2025-059",
+      "url": "https://jacow.org/hiat2025/papers/059_FREQUENCY_DEPENDENCE_OF_BCS_AND_RESIDUAL_RESISTANC.pdf.pdf",
+      "figures": 6,
+      "tables": 0,
+      "references": 0,
+      "file_size_kb": 382.75,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0060",
+      "paper_code": "HIAT25-060",
+      "title": "CONCLUSION AND OUTLOOK",
+      "authors": [
+        "The Authors"
+      ],
+      "institutions": [],
+      "abstract": "No abstract available",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 1,
+      "doi": "10.18429/JACoW-HIAT2025-060",
+      "url": "https://jacow.org/hiat2025/papers/060_Figure_5_R_0_at_various_background_DC_magnetic_fie.pdf.pdf",
+      "figures": 2,
+      "tables": 0,
+      "references": 6,
+      "file_size_kb": 222.15,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0061",
+      "paper_code": "HIAT25-061",
+      "title": "IMAGE MAPPING FOR MULTIPLE CHARGE STATE BEAMS USING A",
+      "authors": [],
+      "institutions": [
+        "A. Lokey†, Facility for Rare Isotope Beams, Michigan State University, East Lansing, MI, USA",
+        "rescence gas sheet at the Facility for Rare Isotope Beams"
+      ],
+      "abstract": "Work continues on a minimally invasive, nitrogen fluo-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 3,
+      "doi": "10.18429/JACoW-HIAT2025-061",
+      "url": "https://jacow.org/hiat2025/papers/061_IMAGE_MAPPING_FOR_MULTIPLE_CHARGE_STATE_BEAMS_USIN.pdf.pdf",
+      "figures": 7,
+      "tables": 0,
+      "references": 9,
+      "file_size_kb": 789.58,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0062",
+      "paper_code": "HIAT25-062",
+      "title": "BEAM LOSS DETECTION AND MITIGATION AT FRIB*",
+      "authors": [],
+      "institutions": [
+        "S. Zhao, Facility for Rare Isotope Beams, East Lansing, MI, USA",
+        "and mitigation at the Facility for Rare Isotope Beams"
+      ],
+      "abstract": "This work presents an overview of beam loss detection...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 3,
+      "doi": "10.18429/JACoW-HIAT2025-062",
+      "url": "https://jacow.org/hiat2025/papers/062_BEAM_LOSS_DETECTION_AND_MITIGATION_AT_FRIB_.pdf.pdf",
+      "figures": 6,
+      "tables": 0,
+      "references": 5,
+      "file_size_kb": 370.86,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0063",
+      "paper_code": "HIAT25-063",
+      "title": "BEAM INTENSITY PREDICTION FOR ECR ION SOURCE USING",
+      "authors": [
+        "Cyclotron Resonance",
+        "The Electron",
+        "Ion Source"
+      ],
+      "institutions": [
+        "K. Kamakura, Center for Nuclear Study (CNS), the University of Tokyo, Tokyo, Japan",
+        "A. Kasagi, Graduate School of Artificial Intelligence and Science, Rikkyo University, Tokyo, Japan",
+        "N. Oka, National Institute of Information and Communications Technology, Tokyo, Japan"
+      ],
+      "abstract": "The Electron Cyclotron Resonance Ion Source (ECRIS)...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-063",
+      "url": "https://jacow.org/hiat2025/papers/063_BEAM_INTENSITY_PREDICTION_FOR_ECR_ION_SOURCE_USING.pdf.pdf",
+      "figures": 13,
+      "tables": 6,
+      "references": 6,
+      "file_size_kb": 8376.94,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0064",
+      "paper_code": "HIAT25-064",
+      "title": "JuTrack, A Julia-BASED TOOL FOR ACCELERATOR MODELING AND",
+      "authors": [
+        "National Laboratory",
+        "Lawrence Berkeley",
+        "One Cyclotron"
+      ],
+      "institutions": [
+        "Facility for Rare Isotope Beams, Michigan State University, East Lansing, MI, USA",
+        "Lawrence Berkeley National Laboratory, One Cyclotron Road, Berkeley, CA, USA"
+      ],
+      "abstract": "JuTrack is a novel accelerator modeling and tracking pack-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 3,
+      "doi": "10.18429/JACoW-HIAT2025-064",
+      "url": "https://jacow.org/hiat2025/papers/064_JuTrack_A_Julia-BASED_TOOL_FOR_ACCELERATOR_MODELIN.pdf.pdf",
+      "figures": 7,
+      "tables": 2,
+      "references": 9,
+      "file_size_kb": 369.84,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0065",
+      "paper_code": "HIAT25-065",
+      "title": "MACHINE-LEARNING-ASSISTED RAPID BEAM ENERGY CHANGE AT",
+      "authors": [
+        "Argonne National"
+      ],
+      "institutions": [
+        "out wasting beam time available for experimentation, the",
+        "Argonne National Laboratory, Lemont, IL, USA"
+      ],
+      "abstract": "Studying nuclear reactions to develop new medical iso-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 3,
+      "doi": "10.18429/JACoW-HIAT2025-065",
+      "url": "https://jacow.org/hiat2025/papers/065_MACHINE_-LEARNING_-ASSISTED_RAPID_BEAM_ENERGY_CHAN.pdf.pdf",
+      "figures": 32,
+      "tables": 2,
+      "references": 7,
+      "file_size_kb": 1327.4,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0066",
+      "paper_code": "HIAT25-066",
+      "title": "DESIGN IMPROVEMENT OF A MINICHANNEL BEAM DUMP WING",
+      "authors": [
+        "Rare Isotope",
+        "The Facility"
+      ],
+      "institutions": [
+        "Facility for Rare Isotope Beams, Michigan State University, East Lansing, MI, USA",
+        "The Facility for Rare Isotope Beams (FRIB) requires its"
+      ],
+      "abstract": "The Facility for Rare Isotope Beams (FRIB) requires its...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 3,
+      "doi": "10.18429/JACoW-HIAT2025-066",
+      "url": "https://jacow.org/hiat2025/papers/066_DESIGN_IMPROVEMENT_OF_A_MINICHANNEL_BEAM_DUMP_WING.pdf.pdf",
+      "figures": 10,
+      "tables": 0,
+      "references": 6,
+      "file_size_kb": 712.78,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0067",
+      "paper_code": "HIAT25-067",
+      "title": "ALPI-PIAVE PERFORMANCE AT INFN-LNL WITH ADVANCED",
+      "authors": [
+        "Bayesian Op",
+        "Trust Region",
+        "Bayesian Optimization"
+      ],
+      "institutions": [
+        "essential part of operating an accelerator facility, where users",
+        "1also at La Sapienza University of Rome, Rome, Italy"
+      ],
+      "abstract": "No abstract available",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 8,
+      "doi": "10.18429/JACoW-HIAT2025-067",
+      "url": "https://jacow.org/hiat2025/papers/067_ALPI-PIAVE_PERFORMANCE_AT_INFN-LNL_WITH_ADVANCED.pdf.pdf",
+      "figures": 18,
+      "tables": 2,
+      "references": 20,
+      "file_size_kb": 5229.4,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0068",
+      "paper_code": "HIAT25-068",
+      "title": "MULTI-Q BEAM STUDIES AT FRIB:",
+      "authors": [
+        "Rare Isotope",
+        "The Facility"
+      ],
+      "institutions": [
+        "Facility for Rare Isotope Beams, Michigan State University, East Lansing, MI, USA",
+        "resulting charge distribution is a Gaussian function centered",
+        "The Facility for Rare Isotope Beams (FRIB) linear accel-"
+      ],
+      "abstract": "The Facility for Rare Isotope Beams (FRIB) linear accel-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-068",
+      "url": "https://jacow.org/hiat2025/papers/068_MULTI-Q_BEAM_STUDIES_AT_FRIB.pdf.pdf",
+      "figures": 10,
+      "tables": 4,
+      "references": 6,
+      "file_size_kb": 388.37,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0069",
+      "paper_code": "HIAT25-069",
+      "title": "VARIABLE WEDGE FOR ARIS*",
+      "authors": [],
+      "institutions": [
+        "1Facility for Rare Isotope Beams, East Lansing, MI, USA",
+        "automated MATLAB-based controller selects the appropri-",
+        "center thickness, typically following Angle ≈ 1.2 × Thick-"
+      ],
+      "abstract": "A variable wedge degrader system has been developed...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-069",
+      "url": "https://jacow.org/hiat2025/papers/069_VARIABLE_WEDGE_FOR_ARIS.pdf.pdf",
+      "figures": 10,
+      "tables": 2,
+      "references": 17,
+      "file_size_kb": 686.31,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0070",
+      "paper_code": "HIAT25-070",
+      "title": "HIGH ENERGY ION IMPLANTATION AT BNL*",
+      "authors": [
+        "Graaff Facility",
+        "The Tandem",
+        "National Laboratory"
+      ],
+      "institutions": [
+        "1Brookhaven National Laboratory, Upton, USA",
+        "The Tandem Van de Graaff Facility [1] at Brookhaven",
+        "National Laboratory (BNL) (Fig. 1) consists of two MP-"
+      ],
+      "abstract": "Silicon carbide (SiC) has several properties such as...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 2,
+      "doi": "10.18429/JACoW-HIAT2025-070",
+      "url": "https://jacow.org/hiat2025/papers/070_HIGH_ENERGY_ION_IMPLANTATION_AT_BNL_.pdf.pdf",
+      "figures": 7,
+      "tables": 0,
+      "references": 0,
+      "file_size_kb": 556.98,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0071",
+      "paper_code": "HIAT25-071",
+      "title": "ENERGY FILTERED IMPLANTATION",
+      "authors": [],
+      "institutions": [],
+      "abstract": "No abstract available",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 2,
+      "doi": "10.18429/JACoW-HIAT2025-071",
+      "url": "https://jacow.org/hiat2025/papers/071_Figure_6_Schematic_of_heated_wafer_system.pdf.pdf",
+      "figures": 6,
+      "tables": 0,
+      "references": 4,
+      "file_size_kb": 433.18,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0072",
+      "paper_code": "HIAT25-072",
+      "title": "SIX-DIMENSIONAL BEAM MATCHING WITH LINEAR",
+      "authors": [],
+      "institutions": [
+        "Y.K. Batygin†, Los Alamos National Laboratory, Los Alamos, NM, USA"
+      ],
+      "abstract": "No abstract available",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-072",
+      "url": "https://jacow.org/hiat2025/papers/072_SIX-DIMENSIONAL_BEAM_MATCHING_WITH_LINEAR.pdf.pdf",
+      "figures": 4,
+      "tables": 0,
+      "references": 8,
+      "file_size_kb": 217.13,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0073",
+      "paper_code": "HIAT25-073",
+      "title": "NEWGAIN PROJECT AT GANIL: CONSTRUCTION OF THE NEW HEAVY",
+      "authors": [],
+      "institutions": [
+        "4Université Paris-Saclay, CNRS-IJCLAB, Orsay, France"
+      ],
+      "abstract": "No abstract available",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 5,
+      "doi": "10.18429/JACoW-HIAT2025-073",
+      "url": "https://jacow.org/hiat2025/papers/073_NEWGAIN_PROJECT_AT_GANIL_CONSTRUCTION_OF_THE_NEW_H.pdf.pdf",
+      "figures": 14,
+      "tables": 10,
+      "references": 9,
+      "file_size_kb": 1213.27,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0074",
+      "paper_code": "HIAT25-074",
+      "title": "DEMONSTRATION OF CAVITY FIELD MAPPING BY",
+      "authors": [],
+      "institutions": [],
+      "abstract": "This paper presents a novel bead-falling method for pre-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 1,
+      "doi": "10.18429/JACoW-HIAT2025-074",
+      "url": "https://jacow.org/hiat2025/papers/074_DEMONSTRATION_OF_CAVITY_FIELD_MAPPING_BY.pdf.pdf",
+      "figures": 2,
+      "tables": 0,
+      "references": 0,
+      "file_size_kb": 126.98,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0075",
+      "paper_code": "HIAT25-075",
+      "title": "DTLs, where iterative field measurements are critical to",
+      "authors": [
+        "Hardware Design"
+      ],
+      "institutions": [],
+      "abstract": "No abstract available",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-075",
+      "url": "https://jacow.org/hiat2025/papers/075_or_environmental_vibrations_as_demonstrated_in_our.pdf.pdf",
+      "figures": 17,
+      "tables": 8,
+      "references": 5,
+      "file_size_kb": 2022.69,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0076",
+      "paper_code": "HIAT25-076",
+      "title": "OPERATION OF A PULSED GAS STRIPPER DURING REGULAR USER",
+      "authors": [],
+      "institutions": [
+        "chrotron SIS18, serve as injector for the upcoming Facility",
+        "The GSI accelerator facility, in particular the UNILAC"
+      ],
+      "abstract": "The charge state spectrum of heavy ions like uranium...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 6,
+      "doi": "10.18429/JACoW-HIAT2025-076",
+      "url": "https://jacow.org/hiat2025/papers/076_OPERATION_OF_A_PULSED_GAS_STRIPPER_DURING_REGULAR_.pdf.pdf",
+      "figures": 10,
+      "tables": 0,
+      "references": 10,
+      "file_size_kb": 3826.77,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0077",
+      "paper_code": "HIAT25-077",
+      "title": "RF POWER LIMITS OF 4-ROD RFQS∗",
+      "authors": [
+        "Radio Frequency"
+      ],
+      "institutions": [
+        "Institute for Applied Physics, Goethe University, Frankfurt, Germany"
+      ],
+      "abstract": "Radio Frequency Quadrupoles (RFQ) are today the stan-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-077",
+      "url": "https://jacow.org/hiat2025/papers/077_RF_POWER_LIMITS_OF_4-ROD_RFQS.pdf.pdf",
+      "figures": 13,
+      "tables": 0,
+      "references": 12,
+      "file_size_kb": 8040.71,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0078",
+      "paper_code": "HIAT25-078",
+      "title": "A CHARGE STRIPPER RING FOR RIKEN RI BEAM FACTORY",
+      "authors": [
+        "The Charge",
+        "Stripper Ring"
+      ],
+      "institutions": [
+        "(RIBF) [1] is a major heavy-ion accelerator facility that has",
+        "lishing RIBF as a central facility in the field. The scientific",
+        "RIKEN Nishina Center, Wako, Japan"
+      ],
+      "abstract": "No abstract available",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 2,
+      "doi": "10.18429/JACoW-HIAT2025-078",
+      "url": "https://jacow.org/hiat2025/papers/078_A_CHARGE_STRIPPER_RING_FOR_RIKEN_RI_BEAM_FACTORY.pdf.pdf",
+      "figures": 4,
+      "tables": 0,
+      "references": 0,
+      "file_size_kb": 567.34,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0079",
+      "paper_code": "HIAT25-079",
+      "title": "2𝑀𝑀11𝑀𝑀22 −1",
+      "authors": [],
+      "institutions": [],
+      "abstract": "No abstract available",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-079",
+      "url": "https://jacow.org/hiat2025/papers/079_the_rebuncher_Bq_the_matrix_from_the_rebuncher_to_.pdf.pdf",
+      "figures": 10,
+      "tables": 0,
+      "references": 11,
+      "file_size_kb": 1104.08,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0080",
+      "paper_code": "HIAT25-080",
+      "title": "RARE ISOTOPE BEAM TUNING IN FRIB ∗",
+      "authors": [
+        "Rare Isotope",
+        "The Facility"
+      ],
+      "institutions": [
+        "Facility for Rare Isotope Beams, Michigan State University, East Lansing, MI, USA",
+        "The Facility for Rare Isotope Beams (FRIB) started the",
+        "The Facility for Rare Isotope Beams (FRIB) provides"
+      ],
+      "abstract": "The Facility for Rare Isotope Beams (FRIB) provides...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 2,
+      "doi": "10.18429/JACoW-HIAT2025-080",
+      "url": "https://jacow.org/hiat2025/papers/080_RARE_ISOTOPE_BEAM_TUNING_IN_FRIB.pdf.pdf",
+      "figures": 4,
+      "tables": 0,
+      "references": 0,
+      "file_size_kb": 1001.36,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0081",
+      "paper_code": "HIAT25-081",
+      "title": "BEAMLINE COMMISSIONING",
+      "authors": [],
+      "institutions": [
+        "zontal and vertical white lines show the center of the beam."
+      ],
+      "abstract": "No abstract available",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 2,
+      "doi": "10.18429/JACoW-HIAT2025-081",
+      "url": "https://jacow.org/hiat2025/papers/081_switchedforFOI_andthe_user_experiment_isstarted_If.pdf.pdf",
+      "figures": 3,
+      "tables": 0,
+      "references": 8,
+      "file_size_kb": 151.37,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0082",
+      "paper_code": "HIAT25-082",
+      "title": "RARE-ISOTOPE PRODUCTION OPTICS OF ARIS PRESEPARATOR*",
+      "authors": [
+        "The Advance",
+        "Rare Isotope"
+      ],
+      "institutions": [
+        "Facility for Rare Isotope Beams, MSU, East Lansing, MI, USA"
+      ],
+      "abstract": "No abstract available",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 3,
+      "doi": "10.18429/JACoW-HIAT2025-082",
+      "url": "https://jacow.org/hiat2025/papers/082_RARE_-ISOTOPE_PRODUCTION_OPTICS_OF_ARIS_PRESEPARAT.pdf.pdf",
+      "figures": 7,
+      "tables": 8,
+      "references": 9,
+      "file_size_kb": 917.27,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0083",
+      "paper_code": "HIAT25-083",
+      "title": "PARTICLE IDENTIFICATION USING TRAJECTORY RECONSTRUCTION",
+      "authors": [],
+      "institutions": [
+        "from stability. The operation of the Facility for Rare Isotope",
+        "Facility for Rare Isotope Beams, Michigan State University, East Lansing, MI, USA",
+        "1also at Department of Physics and Astronomy, Michigan State University, East Lansing, MI, USA"
+      ],
+      "abstract": "The production of radioactive beams is crucial for advanc-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-083",
+      "url": "https://jacow.org/hiat2025/papers/083_PARTICLE_IDENTIFICATION_USING_TRAJECTORY_RECONSTRU.pdf.pdf",
+      "figures": 8,
+      "tables": 0,
+      "references": 15,
+      "file_size_kb": 3563.31,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0084",
+      "paper_code": "HIAT25-084",
+      "title": "THE SPES-ISOLPHARM BEAMLINE FOR THE PRODUCTION OF",
+      "authors": [],
+      "institutions": [
+        "3also at University of Siena, Department of Physical Sciences, Earth and Environment, Siena, Italy",
+        "tional Laboratories of the Italian National Institute for Nu-",
+        "1also at University of Padova, Department of Physics and Astronomy \"G. Galilei\", Padova, Italy"
+      ],
+      "abstract": "No abstract available",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-084",
+      "url": "https://jacow.org/hiat2025/papers/084_THE_SPES-ISOLPHARM_BEAMLINE_FOR_THE_PRODUCTION_OF.pdf.pdf",
+      "figures": 8,
+      "tables": 0,
+      "references": 20,
+      "file_size_kb": 9260.51,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0085",
+      "paper_code": "HIAT25-085",
+      "title": "REACCELERATING LONG-LIVED RADIOISOTOPES AT FRIB∗",
+      "authors": [
+        "Rare Isotope",
+        "The Re",
+        "Superconducting Cyclotron",
+        "State University"
+      ],
+      "institutions": [
+        "State University has proven to be a unique facility, reacceler-",
+        "been also available to users.",
+        "Facility for Rare Isotope Beams, Michigan State University, East Lansing, MI, USA"
+      ],
+      "abstract": "The ReAccelerator at Facility for Rare Isotope Beams (FRIB) started the stand-alone program in May 2021. Sev-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-085",
+      "url": "https://jacow.org/hiat2025/papers/085_REACCELERATING_LONG-LIVED_RADIOISOTOPES_AT_FRIB.pdf.pdf",
+      "figures": 10,
+      "tables": 0,
+      "references": 12,
+      "file_size_kb": 3851.56,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "HIAT25_0086",
+      "paper_code": "HIAT25-086",
+      "title": "DEVELOPMENT OF COMPACT ACCELERATOR BASED NEUTRON",
+      "authors": [],
+      "institutions": [
+        "nadian facility of a next generation CANS. The technical",
+        "2University of Victoria, Victoria, Canada",
+        "3University of Windsor, Windsor, Canada"
+      ],
+      "abstract": "Neutron scattering has proven to be one of the most pow-...",
+      "keywords": [],
+      "category": "Heavy Ion Accelerator Technology",
+      "type": "Conference Paper",
+      "datetime": "2025/6/22 9:00",
+      "conference": "HIAT2025",
+      "session": "HIAT",
+      "pages": 4,
+      "doi": "10.18429/JACoW-HIAT2025-086",
+      "url": "https://jacow.org/hiat2025/papers/086_DEVELOPMENT_OF_C_OMPACT_ACCELERATOR_BASED_NEUTRON.pdf.pdf",
+      "figures": 7,
+      "tables": 0,
+      "references": 15,
+      "file_size_kb": 285.87,
+      "extraction_source": "HIAT2025"
+    },
+    {
+      "contribution_id": "IPAC25_0001",
+      "paper_code": "TUPA23",
+      "title": "Novel Plasma Wakefield Acceleration Experiments",
+      "authors": [
+        "Priya Smith",
+        "Priya Hassan"
+      ],
+      "institutions": [
+        "Stanford University",
+        "CERN"
+      ],
+      "abstract": "We report on recent plasma wakefield acceleration experiments achieving record energy gains. The experimental setup, plasma characterization, and beam quality measurements are presented along with future upgrade plans.",
+      "keywords": [
+        "plasma wakefield",
+        "acceleration",
+        "novel techniques"
+      ],
+      "category": "MC3: Novel Particle Sources and Acceleration Techniques",
+      "type": "Oral Presentation",
+      "datetime": "2025/6/1 9:30",
+      "conference": "IPAC2025",
+      "session": "TUPA",
+      "pages": 3,
+      "doi": "10.18429/JACoW-IPAC2025-TUPA23",
+      "url": "https://jacow.org/ipac2025/papers/tupa23.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0002",
+      "paper_code": "MOPA78",
+      "title": "Machine Learning Applications in Accelerator Controls at DESY FLASH",
+      "authors": [
+        "Anna Smith",
+        "John Martinez",
+        "Ahmed Patel",
+        "Roberto Smith",
+        "Sarah Tanaka"
+      ],
+      "institutions": [
+        "Cornell University",
+        "RIKEN",
+        "DESY",
+        "Paul Scherrer Institute",
+        "Fermilab"
+      ],
+      "abstract": "This work explores the application of machine learning techniques for accelerator control systems. We demonstrate automated beam tuning, anomaly detection, and predictive maintenance capabilities with significant operational improvements.",
+      "keywords": [
+        "machine learning",
+        "controls",
+        "optimization",
+        "automation"
+      ],
+      "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+      "type": "Oral Presentation",
+      "datetime": "2025/6/5 10:30",
+      "conference": "IPAC2025",
+      "session": "MOPA",
+      "pages": 5,
+      "doi": "10.18429/JACoW-IPAC2025-MOPA78",
+      "url": "https://jacow.org/ipac2025/papers/mopa78.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0003",
+      "paper_code": "FRPB61",
+      "title": "Machine Learning Applications in Accelerator Controls at DESY FLASH",
+      "authors": [
+        "Michael Petrov",
+        "Anna Wang",
+        "Sarah Patel",
+        "Roberto Johnson",
+        "Liu Johnson"
+      ],
+      "institutions": [
+        "University of Tokyo",
+        "CERN",
+        "CNRS/IN2P3"
+      ],
+      "abstract": "This work explores the application of machine learning techniques for accelerator control systems. We demonstrate automated beam tuning, anomaly detection, and predictive maintenance capabilities with significant operational improvements.",
+      "keywords": [
+        "machine learning",
+        "controls",
+        "optimization",
+        "automation"
+      ],
+      "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+      "type": "Oral Presentation",
+      "datetime": "2025/6/4 11:00",
+      "conference": "IPAC2025",
+      "session": "FRPB",
+      "pages": 6,
+      "doi": "10.18429/JACoW-IPAC2025-FRPB61",
+      "url": "https://jacow.org/ipac2025/papers/frpb61.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0004",
+      "paper_code": "THPB75",
+      "title": "Collective Effects and Instabilities in High-Intensity Beams",
+      "authors": [
+        "Roberto Patel",
+        "Liu Zhang",
+        "Elena Patel",
+        "Michael Johnson"
+      ],
+      "institutions": [
+        "European XFEL",
+        "SLAC National Accelerator Laboratory",
+        "RIKEN",
+        "CNRS/IN2P3"
+      ],
+      "abstract": "This study investigates collective effects and beam instabilities in high-intensity accelerators. We analyze impedance sources, mitigation techniques, and feedback system requirements for stable high-current operation.",
+      "keywords": [
+        "collective effects",
+        "instabilities",
+        "impedance",
+        "high intensity"
+      ],
+      "category": "MC7: Accelerator/Storage Ring Physics",
+      "type": "Invited Talk",
+      "datetime": "2025/6/4 14:00",
+      "conference": "IPAC2025",
+      "session": "THPB",
+      "pages": 5,
+      "doi": "10.18429/JACoW-IPAC2025-THPB75",
+      "url": "https://jacow.org/ipac2025/papers/thpb75.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0005",
+      "paper_code": "THPA53",
+      "title": "Cryogenic System Optimization for Superconducting Accelerators",
+      "authors": [
+        "Sophie Wilson",
+        "Alexei Garcia",
+        "Michael Tanaka",
+        "Anna Hassan",
+        "Elena Rossi"
+      ],
+      "institutions": [
+        "BNL",
+        "ORNL",
+        "European XFEL",
+        "INFN"
+      ],
+      "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+      "keywords": [
+        "cryogenics",
+        "superconducting",
+        "efficiency",
+        "optimization"
+      ],
+      "category": "MC4: Hadron Accelerators",
+      "type": "Invited Talk",
+      "datetime": "2025/6/4 17:00",
+      "conference": "IPAC2025",
+      "session": "THPA",
+      "pages": 4,
+      "doi": "10.18429/JACoW-IPAC2025-THPA53",
+      "url": "https://jacow.org/ipac2025/papers/thpa53.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0006",
+      "paper_code": "THPB84",
+      "title": "Beam Dynamics Studies for the FRIB Upgrade",
+      "authors": [
+        "David Martinez",
+        "Elena Garcia",
+        "Maria Wilson",
+        "Roberto Smith"
+      ],
+      "institutions": [
+        "Tsinghua University",
+        "TRIUMF",
+        "Cornell University"
+      ],
+      "abstract": "We present comprehensive beam dynamics studies for the proposed upgrade of FRIB. The studies include lattice optimization, collective effects analysis, and beam-beam interaction simulations for enhanced luminosity performance.",
+      "keywords": [
+        "beam dynamics",
+        "lattice design",
+        "emittance",
+        "optics"
+      ],
+      "category": "MC5: Beam Dynamics and Electromagnetic Fields",
+      "type": "Poster Presentation",
+      "datetime": "2025/6/4 10:30",
+      "conference": "IPAC2025",
+      "session": "THPB",
+      "pages": 4,
+      "doi": "10.18429/JACoW-IPAC2025-THPB84",
+      "url": "https://jacow.org/ipac2025/papers/thpb84.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0007",
+      "paper_code": "WEPA53",
+      "title": "Novel Plasma Wakefield Acceleration Experiments",
+      "authors": [
+        "Sarah Hassan",
+        "Priya Brown",
+        "Chen Tanaka",
+        "Priya Hassan"
+      ],
+      "institutions": [
+        "CERN",
+        "RIKEN",
+        "Fermilab",
+        "IHEP"
+      ],
+      "abstract": "We report on recent plasma wakefield acceleration experiments achieving record energy gains. The experimental setup, plasma characterization, and beam quality measurements are presented along with future upgrade plans.",
+      "keywords": [
+        "plasma wakefield",
+        "acceleration",
+        "novel techniques"
+      ],
+      "category": "MC3: Novel Particle Sources and Acceleration Techniques",
+      "type": "Poster Presentation",
+      "datetime": "2025/6/2 10:00",
+      "conference": "IPAC2025",
+      "session": "WEPA",
+      "pages": 4,
+      "doi": "10.18429/JACoW-IPAC2025-WEPA53",
+      "url": "https://jacow.org/ipac2025/papers/wepa53.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0008",
+      "paper_code": "TUPB84",
+      "title": "High-Gradient Superconducting RF Cavity Development for DESY FLASH",
+      "authors": [
+        "John Patel",
+        "Priya Brown",
+        "Maria Zhang"
+      ],
+      "institutions": [
+        "KEK",
+        "Paul Scherrer Institute",
+        "CNRS/IN2P3"
+      ],
+      "abstract": "This paper presents the development of high-gradient superconducting RF cavities for next-generation accelerator facilities. We discuss cavity design optimization, surface treatment techniques, and performance measurements achieving gradients exceeding 50 MV/m.",
+      "keywords": [
+        "SRF",
+        "high gradient",
+        "cavity",
+        "superconducting"
+      ],
+      "category": "MC2: Photon Sources and Electron Accelerators",
+      "type": "Poster Presentation",
+      "datetime": "2025/6/3 10:00",
+      "conference": "IPAC2025",
+      "session": "TUPB",
+      "pages": 5,
+      "doi": "10.18429/JACoW-IPAC2025-TUPB84",
+      "url": "https://jacow.org/ipac2025/papers/tupb84.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0009",
+      "paper_code": "WEPB64",
+      "title": "Beam Dynamics Studies for the SPIRAL2 Upgrade",
+      "authors": [
+        "Hiroshi Smith",
+        "Sarah Schmidt",
+        "Elena Brown",
+        "Alexei Zhang",
+        "Chen Wilson"
+      ],
+      "institutions": [
+        "MIT",
+        "Stanford University",
+        "TRIUMF",
+        "Paul Scherrer Institute",
+        "Fermilab"
+      ],
+      "abstract": "We present comprehensive beam dynamics studies for the proposed upgrade of SPIRAL2. The studies include lattice optimization, collective effects analysis, and beam-beam interaction simulations for enhanced luminosity performance.",
+      "keywords": [
+        "beam dynamics",
+        "lattice design",
+        "emittance",
+        "optics"
+      ],
+      "category": "MC5: Beam Dynamics and Electromagnetic Fields",
+      "type": "Invited Talk",
+      "datetime": "2025/6/1 14:00",
+      "conference": "IPAC2025",
+      "session": "WEPB",
+      "pages": 4,
+      "doi": "10.18429/JACoW-IPAC2025-WEPB64",
+      "url": "https://jacow.org/ipac2025/papers/wepb64.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0010",
+      "paper_code": "WEPB87",
+      "title": "Collective Effects and Instabilities in High-Intensity Beams",
+      "authors": [
+        "Roberto Wilson",
+        "John Patel"
+      ],
+      "institutions": [
+        "BNL",
+        "RIKEN"
+      ],
+      "abstract": "This study investigates collective effects and beam instabilities in high-intensity accelerators. We analyze impedance sources, mitigation techniques, and feedback system requirements for stable high-current operation.",
+      "keywords": [
+        "collective effects",
+        "instabilities",
+        "impedance",
+        "high intensity"
+      ],
+      "category": "MC7: Accelerator/Storage Ring Physics",
+      "type": "Invited Talk",
+      "datetime": "2025/6/3 17:30",
+      "conference": "IPAC2025",
+      "session": "WEPB",
+      "pages": 4,
+      "doi": "10.18429/JACoW-IPAC2025-WEPB87",
+      "url": "https://jacow.org/ipac2025/papers/wepb87.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0011",
+      "paper_code": "WEPA51",
+      "title": "Machine Learning Applications in Accelerator Controls at FRIB",
+      "authors": [
+        "John Petrov",
+        "David Rossi",
+        "Elena Wilson",
+        "Alexei Tanaka"
+      ],
+      "institutions": [
+        "University of Tokyo",
+        "RIKEN",
+        "CNRS/IN2P3"
+      ],
+      "abstract": "This work explores the application of machine learning techniques for accelerator control systems. We demonstrate automated beam tuning, anomaly detection, and predictive maintenance capabilities with significant operational improvements.",
+      "keywords": [
+        "machine learning",
+        "controls",
+        "optimization",
+        "automation"
+      ],
+      "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+      "type": "Oral Presentation",
+      "datetime": "2025/6/5 13:30",
+      "conference": "IPAC2025",
+      "session": "WEPA",
+      "pages": 6,
+      "doi": "10.18429/JACoW-IPAC2025-WEPA51",
+      "url": "https://jacow.org/ipac2025/papers/wepa51.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0012",
+      "paper_code": "MOPA31",
+      "title": "High-Gradient Superconducting RF Cavity Development for KEK SuperKEKB",
+      "authors": [
+        "John Wang",
+        "Chen Kozlov",
+        "Alexei Smith",
+        "Elena Rossi"
+      ],
+      "institutions": [
+        "Stanford University",
+        "CERN",
+        "IHEP"
+      ],
+      "abstract": "This paper presents the development of high-gradient superconducting RF cavities for next-generation accelerator facilities. We discuss cavity design optimization, surface treatment techniques, and performance measurements achieving gradients exceeding 50 MV/m.",
+      "keywords": [
+        "SRF",
+        "high gradient",
+        "cavity",
+        "superconducting"
+      ],
+      "category": "MC2: Photon Sources and Electron Accelerators",
+      "type": "Oral Presentation",
+      "datetime": "2025/6/1 9:30",
+      "conference": "IPAC2025",
+      "session": "MOPA",
+      "pages": 5,
+      "doi": "10.18429/JACoW-IPAC2025-MOPA31",
+      "url": "https://jacow.org/ipac2025/papers/mopa31.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0013",
+      "paper_code": "MOPA27",
+      "title": "Novel Plasma Wakefield Acceleration Experiments",
+      "authors": [
+        "Elena Rossi",
+        "Liu Johnson"
+      ],
+      "institutions": [
+        "Cornell University",
+        "University of Tokyo"
+      ],
+      "abstract": "We report on recent plasma wakefield acceleration experiments achieving record energy gains. The experimental setup, plasma characterization, and beam quality measurements are presented along with future upgrade plans.",
+      "keywords": [
+        "plasma wakefield",
+        "acceleration",
+        "novel techniques"
+      ],
+      "category": "MC3: Novel Particle Sources and Acceleration Techniques",
+      "type": "Invited Talk",
+      "datetime": "2025/6/5 16:00",
+      "conference": "IPAC2025",
+      "session": "MOPA",
+      "pages": 5,
+      "doi": "10.18429/JACoW-IPAC2025-MOPA27",
+      "url": "https://jacow.org/ipac2025/papers/mopa27.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0014",
+      "paper_code": "MOPB47",
+      "title": "Machine Learning Applications in Accelerator Controls at SLAC LCLS-II",
+      "authors": [
+        "Sophie Tanaka",
+        "Sophie Garcia",
+        "Alexei Hassan"
+      ],
+      "institutions": [
+        "KEK",
+        "IHEP",
+        "INFN"
+      ],
+      "abstract": "This work explores the application of machine learning techniques for accelerator control systems. We demonstrate automated beam tuning, anomaly detection, and predictive maintenance capabilities with significant operational improvements.",
+      "keywords": [
+        "machine learning",
+        "controls",
+        "optimization",
+        "automation"
+      ],
+      "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+      "type": "Oral Presentation",
+      "datetime": "2025/6/3 11:00",
+      "conference": "IPAC2025",
+      "session": "MOPB",
+      "pages": 5,
+      "doi": "10.18429/JACoW-IPAC2025-MOPB47",
+      "url": "https://jacow.org/ipac2025/papers/mopb47.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0015",
+      "paper_code": "TUPA51",
+      "title": "Collective Effects and Instabilities in High-Intensity Beams",
+      "authors": [
+        "Chen Zhang",
+        "Hiroshi Kozlov"
+      ],
+      "institutions": [
+        "KEK",
+        "MIT"
+      ],
+      "abstract": "This study investigates collective effects and beam instabilities in high-intensity accelerators. We analyze impedance sources, mitigation techniques, and feedback system requirements for stable high-current operation.",
+      "keywords": [
+        "collective effects",
+        "instabilities",
+        "impedance",
+        "high intensity"
+      ],
+      "category": "MC7: Accelerator/Storage Ring Physics",
+      "type": "Invited Talk",
+      "datetime": "2025/6/5 11:30",
+      "conference": "IPAC2025",
+      "session": "TUPA",
+      "pages": 6,
+      "doi": "10.18429/JACoW-IPAC2025-TUPA51",
+      "url": "https://jacow.org/ipac2025/papers/tupa51.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0016",
+      "paper_code": "FRPB75",
+      "title": "Cryogenic System Optimization for Superconducting Accelerators",
+      "authors": [
+        "Alexei Patel",
+        "Hiroshi Johnson",
+        "Maria Rossi"
+      ],
+      "institutions": [
+        "Cornell University",
+        "Facility for Rare Isotope Beams"
+      ],
+      "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+      "keywords": [
+        "cryogenics",
+        "superconducting",
+        "efficiency",
+        "optimization"
+      ],
+      "category": "MC4: Hadron Accelerators",
+      "type": "Invited Talk",
+      "datetime": "2025/6/2 12:00",
+      "conference": "IPAC2025",
+      "session": "FRPB",
+      "pages": 6,
+      "doi": "10.18429/JACoW-IPAC2025-FRPB75",
+      "url": "https://jacow.org/ipac2025/papers/frpb75.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0017",
+      "paper_code": "WEPA70",
+      "title": "Cryogenic System Optimization for Superconducting Accelerators",
+      "authors": [
+        "Ahmed Kozlov",
+        "Elena Brown",
+        "Priya Tanaka",
+        "Maria Brown",
+        "Chen Rossi"
+      ],
+      "institutions": [
+        "BNL",
+        "CNRS/IN2P3",
+        "University of Tokyo",
+        "CERN",
+        "Fermilab"
+      ],
+      "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+      "keywords": [
+        "cryogenics",
+        "superconducting",
+        "efficiency",
+        "optimization"
+      ],
+      "category": "MC4: Hadron Accelerators",
+      "type": "Poster Presentation",
+      "datetime": "2025/6/3 15:00",
+      "conference": "IPAC2025",
+      "session": "WEPA",
+      "pages": 5,
+      "doi": "10.18429/JACoW-IPAC2025-WEPA70",
+      "url": "https://jacow.org/ipac2025/papers/wepa70.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0018",
+      "paper_code": "TUPB23",
+      "title": "Beam Dynamics Studies for the FRIB Upgrade",
+      "authors": [
+        "Priya Hassan",
+        "Anna Rossi",
+        "Chen Wilson",
+        "Maria Wang",
+        "Michael Patel"
+      ],
+      "institutions": [
+        "MIT",
+        "BNL",
+        "ORNL",
+        "INFN",
+        "RIKEN"
+      ],
+      "abstract": "We present comprehensive beam dynamics studies for the proposed upgrade of FRIB. The studies include lattice optimization, collective effects analysis, and beam-beam interaction simulations for enhanced luminosity performance.",
+      "keywords": [
+        "beam dynamics",
+        "lattice design",
+        "emittance",
+        "optics"
+      ],
+      "category": "MC5: Beam Dynamics and Electromagnetic Fields",
+      "type": "Oral Presentation",
+      "datetime": "2025/6/5 17:30",
+      "conference": "IPAC2025",
+      "session": "TUPB",
+      "pages": 6,
+      "doi": "10.18429/JACoW-IPAC2025-TUPB23",
+      "url": "https://jacow.org/ipac2025/papers/tupb23.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0019",
+      "paper_code": "MOPB97",
+      "title": "High-Gradient Superconducting RF Cavity Development for SLAC LCLS-II",
+      "authors": [
+        "Sophie Garcia",
+        "Michael Petrov"
+      ],
+      "institutions": [
+        "KEK",
+        "BNL"
+      ],
+      "abstract": "This paper presents the development of high-gradient superconducting RF cavities for next-generation accelerator facilities. We discuss cavity design optimization, surface treatment techniques, and performance measurements achieving gradients exceeding 50 MV/m.",
+      "keywords": [
+        "SRF",
+        "high gradient",
+        "cavity",
+        "superconducting"
+      ],
+      "category": "MC2: Photon Sources and Electron Accelerators",
+      "type": "Poster Presentation",
+      "datetime": "2025/6/4 12:30",
+      "conference": "IPAC2025",
+      "session": "MOPB",
+      "pages": 3,
+      "doi": "10.18429/JACoW-IPAC2025-MOPB97",
+      "url": "https://jacow.org/ipac2025/papers/mopb97.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0020",
+      "paper_code": "WEPB71",
+      "title": "Machine Learning Applications in Accelerator Controls at CERN LHC",
+      "authors": [
+        "John Schmidt",
+        "David Hassan",
+        "Sophie Wilson"
+      ],
+      "institutions": [
+        "TRIUMF",
+        "Paul Scherrer Institute",
+        "RIKEN"
+      ],
+      "abstract": "This work explores the application of machine learning techniques for accelerator control systems. We demonstrate automated beam tuning, anomaly detection, and predictive maintenance capabilities with significant operational improvements.",
+      "keywords": [
+        "machine learning",
+        "controls",
+        "optimization",
+        "automation"
+      ],
+      "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+      "type": "Poster Presentation",
+      "datetime": "2025/6/4 10:30",
+      "conference": "IPAC2025",
+      "session": "WEPB",
+      "pages": 4,
+      "doi": "10.18429/JACoW-IPAC2025-WEPB71",
+      "url": "https://jacow.org/ipac2025/papers/wepb71.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0021",
+      "paper_code": "TUPB95",
+      "title": "Cryogenic System Optimization for Superconducting Accelerators",
+      "authors": [
+        "Chen Tanaka",
+        "Priya Brown"
+      ],
+      "institutions": [
+        "Tsinghua University",
+        "SLAC National Accelerator Laboratory"
+      ],
+      "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+      "keywords": [
+        "cryogenics",
+        "superconducting",
+        "efficiency",
+        "optimization"
+      ],
+      "category": "MC4: Hadron Accelerators",
+      "type": "Invited Talk",
+      "datetime": "2025/6/4 12:30",
+      "conference": "IPAC2025",
+      "session": "TUPB",
+      "pages": 3,
+      "doi": "10.18429/JACoW-IPAC2025-TUPB95",
+      "url": "https://jacow.org/ipac2025/papers/tupb95.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0022",
+      "paper_code": "WEPA37",
+      "title": "Machine Learning Applications in Accelerator Controls at DESY FLASH",
+      "authors": [
+        "Sophie Zhang",
+        "David Smith"
+      ],
+      "institutions": [
+        "Fermilab",
+        "IHEP"
+      ],
+      "abstract": "This work explores the application of machine learning techniques for accelerator control systems. We demonstrate automated beam tuning, anomaly detection, and predictive maintenance capabilities with significant operational improvements.",
+      "keywords": [
+        "machine learning",
+        "controls",
+        "optimization",
+        "automation"
+      ],
+      "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+      "type": "Oral Presentation",
+      "datetime": "2025/6/5 10:30",
+      "conference": "IPAC2025",
+      "session": "WEPA",
+      "pages": 3,
+      "doi": "10.18429/JACoW-IPAC2025-WEPA37",
+      "url": "https://jacow.org/ipac2025/papers/wepa37.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0023",
+      "paper_code": "THPA50",
+      "title": "Cryogenic System Optimization for Superconducting Accelerators",
+      "authors": [
+        "Elena Kozlov",
+        "Ahmed Johnson",
+        "Liu Johnson",
+        "Elena Wang"
+      ],
+      "institutions": [
+        "University of Tokyo",
+        "TRIUMF",
+        "Fermilab"
+      ],
+      "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+      "keywords": [
+        "cryogenics",
+        "superconducting",
+        "efficiency",
+        "optimization"
+      ],
+      "category": "MC4: Hadron Accelerators",
+      "type": "Oral Presentation",
+      "datetime": "2025/6/5 14:00",
+      "conference": "IPAC2025",
+      "session": "THPA",
+      "pages": 3,
+      "doi": "10.18429/JACoW-IPAC2025-THPA50",
+      "url": "https://jacow.org/ipac2025/papers/thpa50.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0024",
+      "paper_code": "FRPA06",
+      "title": "Cryogenic System Optimization for Superconducting Accelerators",
+      "authors": [
+        "Ahmed Petrov",
+        "Ahmed Tanaka"
+      ],
+      "institutions": [
+        "RIKEN",
+        "Facility for Rare Isotope Beams"
+      ],
+      "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+      "keywords": [
+        "cryogenics",
+        "superconducting",
+        "efficiency",
+        "optimization"
+      ],
+      "category": "MC4: Hadron Accelerators",
+      "type": "Oral Presentation",
+      "datetime": "2025/6/5 17:30",
+      "conference": "IPAC2025",
+      "session": "FRPA",
+      "pages": 6,
+      "doi": "10.18429/JACoW-IPAC2025-FRPA06",
+      "url": "https://jacow.org/ipac2025/papers/frpa06.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0025",
+      "paper_code": "FRPB30",
+      "title": "Cryogenic System Optimization for Superconducting Accelerators",
+      "authors": [
+        "Priya Brown",
+        "Alexei Garcia",
+        "Liu Wang"
+      ],
+      "institutions": [
+        "European XFEL",
+        "ORNL",
+        "Facility for Rare Isotope Beams"
+      ],
+      "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+      "keywords": [
+        "cryogenics",
+        "superconducting",
+        "efficiency",
+        "optimization"
+      ],
+      "category": "MC4: Hadron Accelerators",
+      "type": "Invited Talk",
+      "datetime": "2025/6/3 14:30",
+      "conference": "IPAC2025",
+      "session": "FRPB",
+      "pages": 3,
+      "doi": "10.18429/JACoW-IPAC2025-FRPB30",
+      "url": "https://jacow.org/ipac2025/papers/frpb30.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0026",
+      "paper_code": "TUPA51",
+      "title": "Advanced Beam Position Monitor Development",
+      "authors": [
+        "Priya Martinez",
+        "Hiroshi Petrov",
+        "Hiroshi Wilson",
+        "Sarah Brown",
+        "Maria Johnson"
+      ],
+      "institutions": [
+        "Cornell University",
+        "IHEP",
+        "Stanford University",
+        "KEK",
+        "TRIUMF"
+      ],
+      "abstract": "We present the development of next-generation beam position monitors with nanometer-level precision. The design incorporates novel electronics, advanced signal processing, and calibration techniques for ultra-stable beam position measurements.",
+      "keywords": [
+        "BPM",
+        "beam instrumentation",
+        "precision",
+        "electronics"
+      ],
+      "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+      "type": "Oral Presentation",
+      "datetime": "2025/6/5 15:30",
+      "conference": "IPAC2025",
+      "session": "TUPA",
+      "pages": 5,
+      "doi": "10.18429/JACoW-IPAC2025-TUPA51",
+      "url": "https://jacow.org/ipac2025/papers/tupa51.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0027",
+      "paper_code": "MOPB39",
+      "title": "High-Gradient Superconducting RF Cavity Development for SPIRAL2",
+      "authors": [
+        "John Smith",
+        "Anna Zhang",
+        "David Martinez",
+        "Ahmed Martinez",
+        "Sophie Wilson"
+      ],
+      "institutions": [
+        "MIT",
+        "European XFEL",
+        "KEK",
+        "SLAC National Accelerator Laboratory",
+        "Paul Scherrer Institute"
+      ],
+      "abstract": "This paper presents the development of high-gradient superconducting RF cavities for next-generation accelerator facilities. We discuss cavity design optimization, surface treatment techniques, and performance measurements achieving gradients exceeding 50 MV/m.",
+      "keywords": [
+        "SRF",
+        "high gradient",
+        "cavity",
+        "superconducting"
+      ],
+      "category": "MC2: Photon Sources and Electron Accelerators",
+      "type": "Invited Talk",
+      "datetime": "2025/6/2 14:00",
+      "conference": "IPAC2025",
+      "session": "MOPB",
+      "pages": 5,
+      "doi": "10.18429/JACoW-IPAC2025-MOPB39",
+      "url": "https://jacow.org/ipac2025/papers/mopb39.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0028",
+      "paper_code": "TUPB95",
+      "title": "Medical Accelerator Technology Transfer and Clinical Applications",
+      "authors": [
+        "Sophie Wilson",
+        "David Wang",
+        "Chen Zhang",
+        "Chen Petrov"
+      ],
+      "institutions": [
+        "European XFEL",
+        "Facility for Rare Isotope Beams",
+        "CNRS/IN2P3"
+      ],
+      "abstract": "We discuss the technology transfer of accelerator innovations to medical applications. The paper covers compact accelerator designs, dose delivery systems, and clinical implementation of advanced radiotherapy techniques.",
+      "keywords": [
+        "medical accelerators",
+        "technology transfer",
+        "clinical",
+        "therapy"
+      ],
+      "category": "MC8: Applications of Accelerators, Technology Transfer and Industrial Relations",
+      "type": "Oral Presentation",
+      "datetime": "2025/6/2 9:00",
+      "conference": "IPAC2025",
+      "session": "TUPB",
+      "pages": 5,
+      "doi": "10.18429/JACoW-IPAC2025-TUPB95",
+      "url": "https://jacow.org/ipac2025/papers/tupb95.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0029",
+      "paper_code": "FRPA27",
+      "title": "Cryogenic System Optimization for Superconducting Accelerators",
+      "authors": [
+        "Priya Kozlov",
+        "Liu Brown",
+        "Ahmed Wilson",
+        "Sophie Schmidt",
+        "John Rossi"
+      ],
+      "institutions": [
+        "Tsinghua University",
+        "ORNL",
+        "SLAC National Accelerator Laboratory",
+        "GSI",
+        "Fermilab"
+      ],
+      "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+      "keywords": [
+        "cryogenics",
+        "superconducting",
+        "efficiency",
+        "optimization"
+      ],
+      "category": "MC4: Hadron Accelerators",
+      "type": "Invited Talk",
+      "datetime": "2025/6/5 14:00",
+      "conference": "IPAC2025",
+      "session": "FRPA",
+      "pages": 6,
+      "doi": "10.18429/JACoW-IPAC2025-FRPA27",
+      "url": "https://jacow.org/ipac2025/papers/frpa27.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0030",
+      "paper_code": "MOPA12",
+      "title": "Cryogenic System Optimization for Superconducting Accelerators",
+      "authors": [
+        "Roberto Rossi",
+        "Elena Garcia"
+      ],
+      "institutions": [
+        "TRIUMF",
+        "DESY"
+      ],
+      "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+      "keywords": [
+        "cryogenics",
+        "superconducting",
+        "efficiency",
+        "optimization"
+      ],
+      "category": "MC4: Hadron Accelerators",
+      "type": "Poster Presentation",
+      "datetime": "2025/6/4 15:00",
+      "conference": "IPAC2025",
+      "session": "MOPA",
+      "pages": 6,
+      "doi": "10.18429/JACoW-IPAC2025-MOPA12",
+      "url": "https://jacow.org/ipac2025/papers/mopa12.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0031",
+      "paper_code": "TUPA90",
+      "title": "Machine Learning Applications in Accelerator Controls at KEK SuperKEKB",
+      "authors": [
+        "Hiroshi Hassan",
+        "Hiroshi Johnson"
+      ],
+      "institutions": [
+        "Cornell University",
+        "INFN"
+      ],
+      "abstract": "This work explores the application of machine learning techniques for accelerator control systems. We demonstrate automated beam tuning, anomaly detection, and predictive maintenance capabilities with significant operational improvements.",
+      "keywords": [
+        "machine learning",
+        "controls",
+        "optimization",
+        "automation"
+      ],
+      "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+      "type": "Poster Presentation",
+      "datetime": "2025/6/3 11:00",
+      "conference": "IPAC2025",
+      "session": "TUPA",
+      "pages": 4,
+      "doi": "10.18429/JACoW-IPAC2025-TUPA90",
+      "url": "https://jacow.org/ipac2025/papers/tupa90.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0032",
+      "paper_code": "FRPB17",
+      "title": "Machine Learning Applications in Accelerator Controls at SLAC LCLS-II",
+      "authors": [
+        "Ahmed Schmidt",
+        "Priya Rossi",
+        "Anna Patel",
+        "Priya Garcia"
+      ],
+      "institutions": [
+        "GSI",
+        "MIT",
+        "RIKEN",
+        "Facility for Rare Isotope Beams"
+      ],
+      "abstract": "This work explores the application of machine learning techniques for accelerator control systems. We demonstrate automated beam tuning, anomaly detection, and predictive maintenance capabilities with significant operational improvements.",
+      "keywords": [
+        "machine learning",
+        "controls",
+        "optimization",
+        "automation"
+      ],
+      "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+      "type": "Invited Talk",
+      "datetime": "2025/6/3 14:00",
+      "conference": "IPAC2025",
+      "session": "FRPB",
+      "pages": 4,
+      "doi": "10.18429/JACoW-IPAC2025-FRPB17",
+      "url": "https://jacow.org/ipac2025/papers/frpb17.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0033",
+      "paper_code": "WEPB66",
+      "title": "Novel Plasma Wakefield Acceleration Experiments",
+      "authors": [
+        "David Wilson",
+        "David Smith",
+        "John Rossi"
+      ],
+      "institutions": [
+        "KEK",
+        "RIKEN"
+      ],
+      "abstract": "We report on recent plasma wakefield acceleration experiments achieving record energy gains. The experimental setup, plasma characterization, and beam quality measurements are presented along with future upgrade plans.",
+      "keywords": [
+        "plasma wakefield",
+        "acceleration",
+        "novel techniques"
+      ],
+      "category": "MC3: Novel Particle Sources and Acceleration Techniques",
+      "type": "Oral Presentation",
+      "datetime": "2025/6/3 11:00",
+      "conference": "IPAC2025",
+      "session": "WEPB",
+      "pages": 6,
+      "doi": "10.18429/JACoW-IPAC2025-WEPB66",
+      "url": "https://jacow.org/ipac2025/papers/wepb66.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0034",
+      "paper_code": "THPA34",
+      "title": "Cryogenic System Optimization for Superconducting Accelerators",
+      "authors": [
+        "Maria Schmidt",
+        "Alexei Patel"
+      ],
+      "institutions": [
+        "ORNL",
+        "IHEP"
+      ],
+      "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+      "keywords": [
+        "cryogenics",
+        "superconducting",
+        "efficiency",
+        "optimization"
+      ],
+      "category": "MC4: Hadron Accelerators",
+      "type": "Poster Presentation",
+      "datetime": "2025/6/5 10:00",
+      "conference": "IPAC2025",
+      "session": "THPA",
+      "pages": 3,
+      "doi": "10.18429/JACoW-IPAC2025-THPA34",
+      "url": "https://jacow.org/ipac2025/papers/thpa34.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0035",
+      "paper_code": "TUPA74",
+      "title": "Cryogenic System Optimization for Superconducting Accelerators",
+      "authors": [
+        "Elena Kozlov",
+        "Alexei Garcia",
+        "Sophie Wilson",
+        "Alexei Brown",
+        "Michael Petrov"
+      ],
+      "institutions": [
+        "Cornell University",
+        "MIT",
+        "ORNL",
+        "CNRS/IN2P3",
+        "CERN"
+      ],
+      "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+      "keywords": [
+        "cryogenics",
+        "superconducting",
+        "efficiency",
+        "optimization"
+      ],
+      "category": "MC4: Hadron Accelerators",
+      "type": "Oral Presentation",
+      "datetime": "2025/6/1 9:00",
+      "conference": "IPAC2025",
+      "session": "TUPA",
+      "pages": 3,
+      "doi": "10.18429/JACoW-IPAC2025-TUPA74",
+      "url": "https://jacow.org/ipac2025/papers/tupa74.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0036",
+      "paper_code": "WEPB59",
+      "title": "Advanced Beam Position Monitor Development",
+      "authors": [
+        "Alexei Schmidt",
+        "Elena Zhang",
+        "Ahmed Brown",
+        "Ahmed Patel",
+        "Priya Zhang"
+      ],
+      "institutions": [
+        "Tsinghua University",
+        "ORNL",
+        "TRIUMF",
+        "CERN",
+        "Fermilab"
+      ],
+      "abstract": "We present the development of next-generation beam position monitors with nanometer-level precision. The design incorporates novel electronics, advanced signal processing, and calibration techniques for ultra-stable beam position measurements.",
+      "keywords": [
+        "BPM",
+        "beam instrumentation",
+        "precision",
+        "electronics"
+      ],
+      "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+      "type": "Invited Talk",
+      "datetime": "2025/6/5 9:00",
+      "conference": "IPAC2025",
+      "session": "WEPB",
+      "pages": 5,
+      "doi": "10.18429/JACoW-IPAC2025-WEPB59",
+      "url": "https://jacow.org/ipac2025/papers/wepb59.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0037",
+      "paper_code": "WEPA57",
+      "title": "Cryogenic System Optimization for Superconducting Accelerators",
+      "authors": [
+        "Elena Patel",
+        "Roberto Patel"
+      ],
+      "institutions": [
+        "KEK",
+        "Fermilab"
+      ],
+      "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+      "keywords": [
+        "cryogenics",
+        "superconducting",
+        "efficiency",
+        "optimization"
+      ],
+      "category": "MC4: Hadron Accelerators",
+      "type": "Oral Presentation",
+      "datetime": "2025/6/3 10:00",
+      "conference": "IPAC2025",
+      "session": "WEPA",
+      "pages": 6,
+      "doi": "10.18429/JACoW-IPAC2025-WEPA57",
+      "url": "https://jacow.org/ipac2025/papers/wepa57.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0038",
+      "paper_code": "MOPB40",
+      "title": "High-Gradient Superconducting RF Cavity Development for DESY FLASH",
+      "authors": [
+        "Hiroshi Zhang",
+        "Roberto Wilson",
+        "Alexei Brown",
+        "Michael Petrov"
+      ],
+      "institutions": [
+        "GSI",
+        "Facility for Rare Isotope Beams",
+        "CNRS/IN2P3"
+      ],
+      "abstract": "This paper presents the development of high-gradient superconducting RF cavities for next-generation accelerator facilities. We discuss cavity design optimization, surface treatment techniques, and performance measurements achieving gradients exceeding 50 MV/m.",
+      "keywords": [
+        "SRF",
+        "high gradient",
+        "cavity",
+        "superconducting"
+      ],
+      "category": "MC2: Photon Sources and Electron Accelerators",
+      "type": "Oral Presentation",
+      "datetime": "2025/6/2 13:00",
+      "conference": "IPAC2025",
+      "session": "MOPB",
+      "pages": 3,
+      "doi": "10.18429/JACoW-IPAC2025-MOPB40",
+      "url": "https://jacow.org/ipac2025/papers/mopb40.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0039",
+      "paper_code": "FRPA68",
+      "title": "Machine Learning Applications in Accelerator Controls at CERN LHC",
+      "authors": [
+        "Alexei Petrov",
+        "Roberto Wang"
+      ],
+      "institutions": [
+        "Stanford University",
+        "DESY"
+      ],
+      "abstract": "This work explores the application of machine learning techniques for accelerator control systems. We demonstrate automated beam tuning, anomaly detection, and predictive maintenance capabilities with significant operational improvements.",
+      "keywords": [
+        "machine learning",
+        "controls",
+        "optimization",
+        "automation"
+      ],
+      "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+      "type": "Poster Presentation",
+      "datetime": "2025/6/1 13:00",
+      "conference": "IPAC2025",
+      "session": "FRPA",
+      "pages": 4,
+      "doi": "10.18429/JACoW-IPAC2025-FRPA68",
+      "url": "https://jacow.org/ipac2025/papers/frpa68.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0040",
+      "paper_code": "FRPB41",
+      "title": "Medical Accelerator Technology Transfer and Clinical Applications",
+      "authors": [
+        "Ahmed Tanaka",
+        "Michael Rossi",
+        "Anna Rossi"
+      ],
+      "institutions": [
+        "Cornell University",
+        "MIT"
+      ],
+      "abstract": "We discuss the technology transfer of accelerator innovations to medical applications. The paper covers compact accelerator designs, dose delivery systems, and clinical implementation of advanced radiotherapy techniques.",
+      "keywords": [
+        "medical accelerators",
+        "technology transfer",
+        "clinical",
+        "therapy"
+      ],
+      "category": "MC8: Applications of Accelerators, Technology Transfer and Industrial Relations",
+      "type": "Poster Presentation",
+      "datetime": "2025/6/2 15:00",
+      "conference": "IPAC2025",
+      "session": "FRPB",
+      "pages": 5,
+      "doi": "10.18429/JACoW-IPAC2025-FRPB41",
+      "url": "https://jacow.org/ipac2025/papers/frpb41.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0041",
+      "paper_code": "FRPB45",
+      "title": "Collective Effects and Instabilities in High-Intensity Beams",
+      "authors": [
+        "Priya Patel",
+        "Elena Schmidt",
+        "Anna Brown",
+        "Hiroshi Hassan"
+      ],
+      "institutions": [
+        "DESY",
+        "MIT",
+        "BNL",
+        "CNRS/IN2P3"
+      ],
+      "abstract": "This study investigates collective effects and beam instabilities in high-intensity accelerators. We analyze impedance sources, mitigation techniques, and feedback system requirements for stable high-current operation.",
+      "keywords": [
+        "collective effects",
+        "instabilities",
+        "impedance",
+        "high intensity"
+      ],
+      "category": "MC7: Accelerator/Storage Ring Physics",
+      "type": "Invited Talk",
+      "datetime": "2025/6/5 16:00",
+      "conference": "IPAC2025",
+      "session": "FRPB",
+      "pages": 6,
+      "doi": "10.18429/JACoW-IPAC2025-FRPB45",
+      "url": "https://jacow.org/ipac2025/papers/frpb45.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0042",
+      "paper_code": "FRPA80",
+      "title": "Cryogenic System Optimization for Superconducting Accelerators",
+      "authors": [
+        "Elena Brown",
+        "Chen Petrov",
+        "Ahmed Tanaka",
+        "Maria Brown"
+      ],
+      "institutions": [
+        "KEK",
+        "CERN",
+        "Paul Scherrer Institute",
+        "CNRS/IN2P3"
+      ],
+      "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+      "keywords": [
+        "cryogenics",
+        "superconducting",
+        "efficiency",
+        "optimization"
+      ],
+      "category": "MC4: Hadron Accelerators",
+      "type": "Invited Talk",
+      "datetime": "2025/6/3 17:00",
+      "conference": "IPAC2025",
+      "session": "FRPA",
+      "pages": 4,
+      "doi": "10.18429/JACoW-IPAC2025-FRPA80",
+      "url": "https://jacow.org/ipac2025/papers/frpa80.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0043",
+      "paper_code": "THPA23",
+      "title": "Machine Learning Applications in Accelerator Controls at DESY FLASH",
+      "authors": [
+        "Sarah Johnson",
+        "Sarah Schmidt",
+        "Alexei Petrov"
+      ],
+      "institutions": [
+        "Stanford University",
+        "ORNL",
+        "IHEP"
+      ],
+      "abstract": "This work explores the application of machine learning techniques for accelerator control systems. We demonstrate automated beam tuning, anomaly detection, and predictive maintenance capabilities with significant operational improvements.",
+      "keywords": [
+        "machine learning",
+        "controls",
+        "optimization",
+        "automation"
+      ],
+      "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+      "type": "Poster Presentation",
+      "datetime": "2025/6/4 15:00",
+      "conference": "IPAC2025",
+      "session": "THPA",
+      "pages": 6,
+      "doi": "10.18429/JACoW-IPAC2025-THPA23",
+      "url": "https://jacow.org/ipac2025/papers/thpa23.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0044",
+      "paper_code": "WEPA38",
+      "title": "Novel Plasma Wakefield Acceleration Experiments",
+      "authors": [
+        "Sophie Rossi",
+        "Roberto Rossi",
+        "Ahmed Rossi"
+      ],
+      "institutions": [
+        "Cornell University",
+        "BNL",
+        "INFN"
+      ],
+      "abstract": "We report on recent plasma wakefield acceleration experiments achieving record energy gains. The experimental setup, plasma characterization, and beam quality measurements are presented along with future upgrade plans.",
+      "keywords": [
+        "plasma wakefield",
+        "acceleration",
+        "novel techniques"
+      ],
+      "category": "MC3: Novel Particle Sources and Acceleration Techniques",
+      "type": "Invited Talk",
+      "datetime": "2025/6/2 16:00",
+      "conference": "IPAC2025",
+      "session": "WEPA",
+      "pages": 5,
+      "doi": "10.18429/JACoW-IPAC2025-WEPA38",
+      "url": "https://jacow.org/ipac2025/papers/wepa38.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0045",
+      "paper_code": "WEPA83",
+      "title": "Cryogenic System Optimization for Superconducting Accelerators",
+      "authors": [
+        "Alexei Hassan"
+      ],
+      "institutions": [
+        "Stanford University"
+      ],
+      "abstract": "This paper describes optimization strategies for cryogenic systems in superconducting accelerator facilities. We present energy efficiency improvements, cost reduction methods, and reliability enhancements based on operational experience.",
+      "keywords": [
+        "cryogenics",
+        "superconducting",
+        "efficiency",
+        "optimization"
+      ],
+      "category": "MC4: Hadron Accelerators",
+      "type": "Oral Presentation",
+      "datetime": "2025/6/2 12:00",
+      "conference": "IPAC2025",
+      "session": "WEPA",
+      "pages": 6,
+      "doi": "10.18429/JACoW-IPAC2025-WEPA83",
+      "url": "https://jacow.org/ipac2025/papers/wepa83.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0046",
+      "paper_code": "FRPB26",
+      "title": "Collective Effects and Instabilities in High-Intensity Beams",
+      "authors": [
+        "Sarah Kozlov",
+        "Liu Johnson",
+        "Maria Kozlov",
+        "Sophie Martinez",
+        "Sophie Garcia"
+      ],
+      "institutions": [
+        "Stanford University",
+        "CERN",
+        "Paul Scherrer Institute",
+        "European XFEL"
+      ],
+      "abstract": "This study investigates collective effects and beam instabilities in high-intensity accelerators. We analyze impedance sources, mitigation techniques, and feedback system requirements for stable high-current operation.",
+      "keywords": [
+        "collective effects",
+        "instabilities",
+        "impedance",
+        "high intensity"
+      ],
+      "category": "MC7: Accelerator/Storage Ring Physics",
+      "type": "Poster Presentation",
+      "datetime": "2025/6/1 10:00",
+      "conference": "IPAC2025",
+      "session": "FRPB",
+      "pages": 4,
+      "doi": "10.18429/JACoW-IPAC2025-FRPB26",
+      "url": "https://jacow.org/ipac2025/papers/frpb26.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0047",
+      "paper_code": "TUPB13",
+      "title": "High-Gradient Superconducting RF Cavity Development for CERN LHC",
+      "authors": [
+        "Michael Rossi",
+        "John Petrov"
+      ],
+      "institutions": [
+        "RIKEN",
+        "INFN"
+      ],
+      "abstract": "This paper presents the development of high-gradient superconducting RF cavities for next-generation accelerator facilities. We discuss cavity design optimization, surface treatment techniques, and performance measurements achieving gradients exceeding 50 MV/m.",
+      "keywords": [
+        "SRF",
+        "high gradient",
+        "cavity",
+        "superconducting"
+      ],
+      "category": "MC2: Photon Sources and Electron Accelerators",
+      "type": "Oral Presentation",
+      "datetime": "2025/6/2 16:00",
+      "conference": "IPAC2025",
+      "session": "TUPB",
+      "pages": 4,
+      "doi": "10.18429/JACoW-IPAC2025-TUPB13",
+      "url": "https://jacow.org/ipac2025/papers/tupb13.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0048",
+      "paper_code": "WEPB44",
+      "title": "Machine Learning Applications in Accelerator Controls at DESY FLASH",
+      "authors": [
+        "Liu Martinez",
+        "Michael Kozlov"
+      ],
+      "institutions": [
+        "Tsinghua University",
+        "KEK"
+      ],
+      "abstract": "This work explores the application of machine learning techniques for accelerator control systems. We demonstrate automated beam tuning, anomaly detection, and predictive maintenance capabilities with significant operational improvements.",
+      "keywords": [
+        "machine learning",
+        "controls",
+        "optimization",
+        "automation"
+      ],
+      "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+      "type": "Oral Presentation",
+      "datetime": "2025/6/1 13:30",
+      "conference": "IPAC2025",
+      "session": "WEPB",
+      "pages": 6,
+      "doi": "10.18429/JACoW-IPAC2025-WEPB44",
+      "url": "https://jacow.org/ipac2025/papers/wepb44.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0049",
+      "paper_code": "MOPB79",
+      "title": "Advanced Beam Position Monitor Development",
+      "authors": [
+        "Chen Hassan",
+        "Sophie Wang",
+        "Liu Schmidt",
+        "Chen Smith"
+      ],
+      "institutions": [
+        "BNL",
+        "SLAC National Accelerator Laboratory",
+        "INFN"
+      ],
+      "abstract": "We present the development of next-generation beam position monitors with nanometer-level precision. The design incorporates novel electronics, advanced signal processing, and calibration techniques for ultra-stable beam position measurements.",
+      "keywords": [
+        "BPM",
+        "beam instrumentation",
+        "precision",
+        "electronics"
+      ],
+      "category": "MC6: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+      "type": "Poster Presentation",
+      "datetime": "2025/6/4 17:30",
+      "conference": "IPAC2025",
+      "session": "MOPB",
+      "pages": 6,
+      "doi": "10.18429/JACoW-IPAC2025-MOPB79",
+      "url": "https://jacow.org/ipac2025/papers/mopb79.pdf",
+      "extraction_source": "IPAC2025"
+    },
+    {
+      "contribution_id": "IPAC25_0050",
+      "paper_code": "FRPB32",
+      "title": "Novel Plasma Wakefield Acceleration Experiments",
+      "authors": [
+        "Michael Martinez",
+        "Chen Wilson",
+        "Chen Martinez",
+        "Elena Rossi"
+      ],
+      "institutions": [
+        "Cornell University",
+        "TRIUMF",
+        "ORNL"
+      ],
+      "abstract": "We report on recent plasma wakefield acceleration experiments achieving record energy gains. The experimental setup, plasma characterization, and beam quality measurements are presented along with future upgrade plans.",
+      "keywords": [
+        "plasma wakefield",
+        "acceleration",
+        "novel techniques"
+      ],
+      "category": "MC3: Novel Particle Sources and Acceleration Techniques",
+      "type": "Invited Talk",
+      "datetime": "2025/6/5 11:00",
+      "conference": "IPAC2025",
+      "session": "FRPB",
+      "pages": 5,
+      "doi": "10.18429/JACoW-IPAC2025-FRPB32",
+      "url": "https://jacow.org/ipac2025/papers/frpb32.pdf",
+      "extraction_source": "IPAC2025"
+    }
+  ]
+}

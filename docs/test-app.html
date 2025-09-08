@@ -193,17 +193,17 @@
             async loadData() {
                 this.showLoading('正在加载论文数据...');
                 
-                try {
-                    const possiblePaths = [
-                        'data/papers-medium.json',
-                        'data/papers-simple.json',
-                        './data/papers-medium.json',
-                        './data/papers-simple.json',
-                        'data/papers.json',
-                        './data/papers.json'
-                    ];
-                    
-                    let data = null;
+            try {
+                const possiblePaths = [
+                    'data/papers-combined.json',
+                    './data/papers-combined.json',
+                    'data/papers-medium.json',
+                    'data/papers-simple.json',
+                    './data/papers-medium.json',
+                    './data/papers-simple.json',
+                    'data/papers.json',
+                    './data/papers.json'
+                ];                    let data = null;
                     let loadedPath = null;
                     
                     for (const path of possiblePaths) {

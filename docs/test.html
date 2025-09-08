@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SRF Conference Insights - Test Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .test-card {
+            background: white;
+            padding: 20px;
+            margin: 10px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .test-success { border-left: 4px solid #28a745; }
+        .test-error { border-left: 4px solid #dc3545; }
+        .test-warning { border-left: 4px solid #ffc107; }
+        pre { background: #f8f9fa; padding: 10px; border-radius: 4px; overflow-x: auto; }
+    </style>
+</head>
+<body>
+    <h1>🧪 SRF Conference Insights - System Test</h1>
+    
+    <div class="test-card test-success">
+        <h3>✅ Basic HTML Structure</h3>
+        <p>HTML page loads successfully</p>
+    </div>
+
+    <div class="test-card" id="jsTest">
+        <h3>⏳ JavaScript Loading Test</h3>
+        <p>Testing JavaScript functionality...</p>
+    </div>
+
+    <div class="test-card" id="dataTest">
+        <h3>⏳ Data Loading Test</h3>
+        <p>Testing data file accessibility...</p>
+    </div>
+
+    <div class="test-card" id="appTest">
+        <h3>⏳ App Initialization Test</h3>
+        <p>Testing PaperAnalysisApp class...</p>
+    </div>
+
+    <script>
+        // Test JavaScript functionality
+        try {
+            // Test basic JavaScript
+            document.getElementById('jsTest').className = 'test-card test-success';
+            document.getElementById('jsTest').innerHTML = '<h3>✅ JavaScript Loading Test</h3><p>JavaScript is working correctly</p>';
+            
+            // Test data loading
+            fetch('data/papers-simple.json')
+                .then(response => {
+                    if (response.ok) {
+                        document.getElementById('dataTest').className = 'test-card test-success';
+                        document.getElementById('dataTest').innerHTML = '<h3>✅ Data Loading Test</h3><p>Data files are accessible</p>';
+                        return response.json();
+                    } else {
+                        throw new Error('HTTP ' + response.status);
+                    }
+                })
+                .then(data => {
+                    console.log('Test data loaded:', data);
+                })
+                .catch(error => {
+                    document.getElementById('dataTest').className = 'test-card test-warning';
+                    document.getElementById('dataTest').innerHTML = '<h3>⚠️ Data Loading Test</h3><p>Warning: ' + error.message + ' - Will use fallback data</p>';
+                });
+                
+            // Test app initialization
+            fetch('app-simple.js')
+                .then(response => {
+                    if (response.ok) {
+                        document.getElementById('appTest').className = 'test-card test-success';
+                        document.getElementById('appTest').innerHTML = '<h3>✅ App Script Test</h3><p>Application script is accessible</p>';
+                    } else {
+                        throw new Error('HTTP ' + response.status);
+                    }
+                })
+                .catch(error => {
+                    document.getElementById('appTest').className = 'test-card test-error';
+                    document.getElementById('appTest').innerHTML = '<h3>❌ App Script Test</h3><p>Error: ' + error.message + '</p>';
+                });
+
+        } catch (error) {
+            document.getElementById('jsTest').className = 'test-card test-error';
+            document.getElementById('jsTest').innerHTML = '<h3>❌ JavaScript Loading Test</h3><p>Error: ' + error.message + '</p>';
+        }
+
+        // Add system info
+        setTimeout(() => {
+            const systemInfo = document.createElement('div');
+            systemInfo.className = 'test-card';
+            systemInfo.innerHTML = `
+                <h3>📊 System Information</h3>
+                <pre>User Agent: ${navigator.userAgent}
+URL: ${window.location.href}
+Timestamp: ${new Date().toISOString()}
+Screen: ${screen.width}x${screen.height}</pre>
+            `;
+            document.body.appendChild(systemInfo);
+        }, 1000);
+    </script>
+</body>
+</html>

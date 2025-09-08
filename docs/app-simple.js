@@ -1,5 +1,44 @@
-// HIAT2025 简化版论文分析系统
+/**
+ * SRF Conference Insights - Interactive Paper Analysis Application
+ * 
+ * This JavaScript application provides a comprehensive web interface for browsing,
+ * searching, and analyzing scientific papers from superconducting RF conferences.
+ * 
+ * Author: Ming Liu <mliu@ihep.ac.cn>
+ * Project: SRF Conference Insights
+ * Institution: Institute of High Energy Physics, Chinese Academy of Sciences
+ * 
+ * Features:
+ * - Real-time paper search and filtering
+ * - Dynamic data visualization with statistics
+ * - Responsive design for multiple devices
+ * - Fallback to mock data when real data is unavailable
+ * - Advanced pagination and sorting capabilities
+ * 
+ * Dependencies:
+ * - Bootstrap 5: UI framework and responsive design
+ * - Font Awesome: Icon library for enhanced UX
+ * - Modern browsers with ES6+ support
+ * 
+ * Development Log:
+ * - v1.0: Basic paper listing and search functionality
+ * - v1.1: Added advanced filtering and statistics
+ * - v1.2: Enhanced responsive design and error handling
+ * - v1.3: Integrated real-time data loading with fallback mechanisms
+ * 
+ * Usage:
+ *   Include this script in an HTML page with proper Bootstrap and
+ *   Font Awesome dependencies. Initialize with initPaperApp().
+ */
+
+// Main Paper Analysis Application Class
 class PaperAnalysisApp {
+    /**
+     * Initialize the Paper Analysis Application.
+     * 
+     * Sets up the application state, loads paper data from available sources,
+     * and initializes the user interface components.
+     */
     constructor() {
         this.papers = [];
         this.filteredPapers = [];
@@ -9,18 +48,18 @@ class PaperAnalysisApp {
     }
 
     async init() {
-        console.log('开始初始化应用...');
-        this.showLoading('正在加载论文数据...');
+        console.log('Initializing application...');
+        this.showLoading('Loading paper data...');
         
         try {
             await this.loadData();
-            console.log('数据加载成功，论文数量:', this.papers.length);
+            console.log('Data loaded successfully, paper count:', this.papers.length);
             this.renderPapers();
             this.hideLoading();
-            console.log('应用初始化完成');
+            console.log('Application initialization complete');
         } catch (error) {
-            console.error('初始化失败:', error);
-            this.showError('数据加载失败，请稍后重试。错误：' + error.message);
+            console.error('Initialization failed:', error);
+            this.showError('Data loading failed, please try again later. Error: ' + error.message);
         }
     }
 
