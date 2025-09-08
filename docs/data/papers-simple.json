@@ -1,0 +1,116 @@
+{
+  "extraction_time": "2025-09-08T12:00:00",
+  "total_papers": 5,
+  "papers": [
+    {
+      "paper_number": 1,
+      "filename": "001_FRIB_Operations.pdf",
+      "title": "FRIB Operations: First Three Years",
+      "authors": ["John Smith", "Mary Johnson"],
+      "affiliations": ["Facility for Rare Isotope Beams, Michigan State University"],
+      "abstract": "This paper summarizes the operational experience and achievements of the Facility for Rare Isotope Beams (FRIB) during its first three years of operation.",
+      "keywords": ["FRIB", "accelerator", "operations", "rare isotopes"],
+      "page_count": 8,
+      "file_size_kb": 1024.5,
+      "figures": [],
+      "tables": [],
+      "references": [],
+      "sections": {
+        "Introduction": "Introduction content",
+        "Operations": "Operations content",
+        "Results": "Results content"
+      },
+      "reference_count": 15,
+      "figure_count": 5,
+      "table_count": 2
+    },
+    {
+      "paper_number": 2,
+      "filename": "002_Accelerator_Physics.pdf", 
+      "title": "Advanced Accelerator Physics Research",
+      "authors": ["David Brown", "Sarah Wilson"],
+      "affiliations": ["CERN", "Fermilab"],
+      "abstract": "This study presents new developments in accelerator physics with applications to heavy ion beam dynamics.",
+      "keywords": ["accelerator", "physics", "beam dynamics", "simulation"],
+      "page_count": 6,
+      "file_size_kb": 850.2,
+      "figures": [],
+      "tables": [],
+      "references": [],
+      "sections": {
+        "Introduction": "Introduction content",
+        "Methodology": "Methodology content",
+        "Conclusion": "Conclusion content"
+      },
+      "reference_count": 20,
+      "figure_count": 8,
+      "table_count": 1
+    },
+    {
+      "paper_number": 3,
+      "filename": "003_Superconducting_Technology.pdf",
+      "title": "Superconducting RF Technology Advances",
+      "authors": ["Michael Davis", "Lisa Anderson"],
+      "affiliations": ["Lawrence Berkeley National Laboratory"],
+      "abstract": "Recent advances in superconducting RF technology for next-generation particle accelerators.",
+      "keywords": ["superconducting", "RF", "technology", "cryogenics"],
+      "page_count": 10,
+      "file_size_kb": 1500.8,
+      "figures": [],
+      "tables": [],
+      "references": [],
+      "sections": {
+        "Abstract": "Abstract content",
+        "Technology": "Technology content",
+        "Future Work": "Future work content"
+      },
+      "reference_count": 25,
+      "figure_count": 12,
+      "table_count": 3
+    },
+    {
+      "paper_number": 4,
+      "filename": "004_Beam_Diagnostics.pdf",
+      "title": "Modern Beam Diagnostics Systems",
+      "authors": ["Robert Taylor", "Jennifer Miller"],
+      "affiliations": ["DESY", "KEK"],
+      "abstract": "Overview of modern beam diagnostics systems and their applications in heavy ion accelerators.",
+      "keywords": ["beam diagnostics", "monitoring", "instrumentation"],
+      "page_count": 7,
+      "file_size_kb": 920.1,
+      "figures": [],
+      "tables": [],
+      "references": [],
+      "sections": {
+        "Introduction": "Introduction content",
+        "Systems": "Systems content",
+        "Applications": "Applications content"
+      },
+      "reference_count": 18,
+      "figure_count": 6,
+      "table_count": 2
+    },
+    {
+      "paper_number": 5,
+      "filename": "005_Machine_Learning.pdf",
+      "title": "Machine Learning Applications in Accelerator Control",
+      "authors": ["Christopher Lee", "Amanda Clark"],
+      "affiliations": ["SLAC National Accelerator Laboratory"],
+      "abstract": "Application of machine learning techniques for accelerator optimization and control systems.",
+      "keywords": ["machine learning", "accelerator control", "optimization", "AI"],
+      "page_count": 9,
+      "file_size_kb": 1200.3,
+      "figures": [],
+      "tables": [],
+      "references": [],
+      "sections": {
+        "Introduction": "Introduction content",
+        "ML Methods": "Machine learning methods",
+        "Results": "Results and discussion"
+      },
+      "reference_count": 22,
+      "figure_count": 10,
+      "table_count": 4
+    }
+  ]
+}

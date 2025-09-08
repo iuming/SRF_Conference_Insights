@@ -323,7 +323,7 @@
         <div class="main-content">
             <div class="nav-tabs">
                 <button class="tab-button active" data-tab="welcome">系统概览</button>
-                <button class="tab-button" data-tab="papers">论文分析</button>
+                <button class="tab-button" data-tab="papers" onclick="setTimeout(() => { if (typeof initPaperApp === 'function') { initPaperApp(); } else if (typeof PaperAnalysisApp !== 'undefined' && !window.app) { window.app = new PaperAnalysisApp(); } }, 200);">论文分析</button>
                 <button class="tab-button" data-tab="statistics">统计信息</button>
                 <button class="tab-button" data-tab="about">关于项目</button>
             </div>
@@ -501,13 +501,52 @@
                     document.getElementById(tabId).classList.add('active');
 
                     // 如果切换到论文页面，初始化应用
-                    if (tabId === 'papers' && typeof PaperAnalysisApp !== 'undefined' && !window.app) {
-                        setTimeout(() => {
-                            window.app = new PaperAnalysisApp();
-                        }, 100);
+                    if (tabId === 'papers') {
+                        console.log('切换到论文分析页面，初始化应用...');
+                        if (typeof initPaperApp !== 'undefined') {
+                            setTimeout(() => {
+                                initPaperApp();
+                            }, 100);
+                        } else if (typeof PaperAnalysisApp !== 'undefined' && !window.app) {
+                            setTimeout(() => {
+                                console.log('创建 PaperAnalysisApp 实例...');
+                                window.app = new PaperAnalysisApp();
+                            }, 100);
+                        }
                     }
                 });
             });
+
+            // 如果页面直接打开论文分析页面，也要初始化
+            const activeTab = document.querySelector('.tab-button.active');
+            if (activeTab && activeTab.dataset.tab === 'papers') {
+                setTimeout(() => {
+                    if (typeof initPaperApp !== 'undefined') {
+                        initPaperApp();
+                    } else if (typeof PaperAnalysisApp !== 'undefined') {
+                        window.app = new PaperAnalysisApp();
+                    }
+                }, 500);
+            }
+
+            // 添加调试按钮
+            if (window.location.search.includes('debug')) {
+                const debugBtn = document.createElement('button');
+                debugBtn.textContent = '强制初始化论文应用';
+                debugBtn.style.cssText = 'position: fixed; bottom: 20px; right: 20px; z-index: 1000; padding: 10px; background: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;';
+                debugBtn.onclick = () => {
+                    console.log('强制初始化论文应用...');
+                    if (typeof initPaperApp !== 'undefined') {
+                        initPaperApp();
+                    } else if (typeof PaperAnalysisApp !== 'undefined') {
+                        window.app = new PaperAnalysisApp();
+                        console.log('创建了新的应用实例:', window.app);
+                    } else {
+                        console.error('PaperAnalysisApp 未定义');
+                    }
+                };
+                document.body.appendChild(debugBtn);
+            }
         });
     </script>
 </body>

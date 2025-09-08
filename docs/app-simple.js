@@ -9,27 +9,69 @@ class PaperAnalysisApp {
     }
 
     async init() {
+        console.log('开始初始化应用...');
+        this.showLoading('正在加载论文数据...');
+        
         try {
             await this.loadData();
+            console.log('数据加载成功，论文数量:', this.papers.length);
             this.renderPapers();
             this.hideLoading();
+            console.log('应用初始化完成');
         } catch (error) {
             console.error('初始化失败:', error);
-            this.showError('数据加载失败，请稍后重试');
+            this.showError('数据加载失败，请稍后重试。错误：' + error.message);
         }
     }
 
     async loadData() {
+        this.showLoading('正在加载论文数据...');
+        
         try {
-            const response = await fetch('data/papers.json');
-            if (!response.ok) {
-                throw new Error('数据文件不存在');
+            // 尝试多个可能的路径，优先使用较小的文件
+            const possiblePaths = [
+                'data/papers-medium.json',     // 中等大小，10篇论文
+                'data/papers-simple.json',     // 最小，5篇论文
+                './data/papers-medium.json',
+                './data/papers-simple.json',
+                'data/papers.json',            // 完整数据，最后尝试
+                './data/papers.json'
+            ];
+            
+            let data = null;
+            let lastError = null;
+            let loadedPath = null;
+            
+            for (const path of possiblePaths) {
+                try {
+                    console.log('尝试加载路径:', path);
+                    const response = await fetch(path);
+                    if (response.ok) {
+                        data = await response.json();
+                        loadedPath = path;
+                        console.log('成功加载数据，路径:', path, '论文数量:', data.papers?.length || 0);
+                        break;
+                    } else {
+                        console.log('HTTP错误:', response.status, response.statusText);
+                    }
+                } catch (error) {
+                    lastError = error;
+                    console.log('路径失败:', path, error.message);
+                }
             }
-            const data = await response.json();
-            this.papers = data.papers || [];
+            
+            if (data && data.papers) {
+                this.papers = data.papers;
+                console.log('数据加载成功，共', this.papers.length, '篇论文，来源:', loadedPath);
+                this.hideLoading();
+            } else {
+                throw lastError || new Error('所有路径都失败了，没有找到有效数据');
+            }
         } catch (error) {
-            console.warn('使用模拟数据:', error);
+            console.warn('无法加载真实数据，使用模拟数据:', error);
             this.papers = this.generateMockData();
+            console.log('生成模拟数据，共', this.papers.length, '篇论文');
+            this.hideLoading();
         }
         
         this.filteredPapers = [...this.papers];
@@ -338,16 +380,46 @@ class PaperAnalysisApp {
     }
 
     hideLoading() {
-        document.getElementById('loadingIndicator').style.display = 'none';
-        document.getElementById('papersList').style.display = 'block';
+        const loadingIndicator = document.getElementById('loadingIndicator');
+        if (loadingIndicator) {
+            loadingIndicator.style.display = 'none';
+        }
+        const papersList = document.getElementById('papersList');
+        if (papersList) {
+            papersList.style.display = 'block';
+        }
+    }
+
+    showLoading(message = '正在加载...') {
+        const loadingIndicator = document.getElementById('loadingIndicator');
+        if (loadingIndicator) {
+            loadingIndicator.style.display = 'block';
+            loadingIndicator.innerHTML = `
+                <div class="text-center">
+                    <i class="fas fa-spinner fa-spin fa-2x text-primary"></i>
+                    <p class="mt-3">${message}</p>
+                </div>
+            `;
+        }
+        const papersList = document.getElementById('papersList');
+        if (papersList) {
+            papersList.style.display = 'none';
+        }
     }
 
     showError(message) {
-        document.getElementById('loadingIndicator').innerHTML = `
-            <i class="fas fa-exclamation-triangle fa-2x text-danger"></i>
-            <p class="text-danger">${message}</p>
-            <p class="text-muted">正在使用模拟数据...</p>
-        `;
+        const loadingIndicator = document.getElementById('loadingIndicator');
+        if (loadingIndicator) {
+            loadingIndicator.style.display = 'block';
+            loadingIndicator.innerHTML = `
+                <div class="text-center">
+                    <i class="fas fa-exclamation-triangle fa-2x text-danger"></i>
+                    <p class="text-danger mt-3">${message}</p>
+                    <p class="text-muted">正在使用模拟数据...</p>
+                    <button class="btn btn-primary mt-2" onclick="location.reload()">重试</button>
+                </div>
+            `;
+        }
     }
 
     // 搜索功能
